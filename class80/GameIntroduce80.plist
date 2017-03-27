@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JustOneRestGameViewController</key>
+	<dict>
+		<key>LimitCourse</key>
+		<string>8</string>
+		<key>ActivityDelay</key>
+		<string>0</string>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>第二步</string>
+						<key>SpecialIndex</key>
+						<string>1</string>
+						<key>empty</key>
+						<string>YES</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>400</string>
+				</array>
+			</dict>
+		</array>
+		<key>Description</key>
+		<string>二分休止符选择题</string>
+	</dict>
+</dict>
+</plist>

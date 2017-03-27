@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FuDianWholeCatchVC</key>
+	<dict>
+		<key>ActivityDelay</key>
+		<string>3</string>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>ActionType</key>
+						<string>image</string>
+						<key>SpecialIndex</key>
+						<string>1</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>0</string>
+				</array>
+			</dict>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>ActionType</key>
+						<string>image</string>
+						<key>SpecialIndex</key>
+						<string>2</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>0</string>
+				</array>
+			</dict>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>ActionType</key>
+						<string>image</string>
+						<key>SpecialIndex</key>
+						<string>3</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>0</string>
+				</array>
+			</dict>
+		</array>
+		<key>Description</key>
+		<string>小车抓音符游戏</string>
+	</dict>
+</dict>
+</plist>
