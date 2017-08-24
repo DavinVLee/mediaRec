@@ -1,0 +1,6320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>path</key>
+	<dict>
+		<key>Accidental</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{21cf7484-0752-4f81-8372-9902167bafe1}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M0.921875,-0.828125 </string>
+					
+					<string>L0.921875,0.71875 </string>
+					
+					<string>C0.921875,1.27083 0.947917,1.70833 1,2.03125 </string>
+					
+					<string>C1.42708,1.66667 1.73438,1.39583 1.92188,1.21875 </string>
+					
+					<string>C2.13021,1.01042 2.33854,0.721354 2.54688,0.351562 </string>
+					
+					<string>C2.75521,-0.0182292 2.85938,-0.385417 2.85938,-0.75 </string>
+					
+					<string>C2.85938,-1.11458 2.78125,-1.42708 2.625,-1.6875 </string>
+					
+					<string>C2.46875,-1.94792 2.26042,-2.07812 2,-2.07812 </string>
+					
+					<string>C1.6875,-2.07812 1.42708,-1.95833 1.21875,-1.71875 </string>
+					
+					<string>C1.02083,-1.45833 0.921875,-1.16146 0.921875,-0.828125 </string>
+					
+					<string>M0.09375,2.75 </string>
+					
+					<string>L-0.15625,-9.14062 </string>
+					
+					<string>C0.03125,-9.24479 0.216146,-9.29688 0.398438,-9.29688 </string>
+					
+					<string>C0.580729,-9.29688 0.760417,-9.24479 0.9375,-9.14062 </string>
+					
+					<string>L0.78125,-2.25 </string>
+					
+					<string>C1.3125,-2.70833 1.92708,-2.9375 2.625,-2.9375 </string>
+					
+					<string>C3.125,-2.9375 3.54427,-2.72917 3.88281,-2.3125 </string>
+					
+					<string>C4.22135,-1.89583 4.39062,-1.41667 4.39062,-0.875 </string>
+					
+					<string>C4.39062,-0.541667 4.28125,-0.182292 4.0625,0.203125 </string>
+					
+					<string>C3.85417,0.546875 3.63542,0.817708 3.40625,1.01562 </string>
+					
+					<string>C3.27083,1.11979 2.9375,1.38021 2.40625,1.79688 </string>
+					
+					<string>C2.25,1.91146 2.0651,2.04688 1.85156,2.20312 </string>
+					
+					<string>C1.63802,2.35938 1.50521,2.45833 1.45312,2.5 </string>
+					
+					<string>C1.35938,2.55208 1.27083,2.65625 1.1875,2.8125 </string>
+					
+					<string>C1.10417,2.94792 1,3.05729 0.875,3.14062 </string>
+					
+					<string>C0.791667,3.22396 0.684896,3.26562 0.554688,3.26562 </string>
+					
+					<string>C0.424479,3.26562 0.317708,3.21875 0.234375,3.125 </string>
+					
+					<string>C0.140625,3.03125 0.09375,2.90625 0.09375,2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,775.915,65.9645)</string>
+				<key>width</key>
+				<string>4.51572</string>
+				<key>height</key>
+				<string>12.4605</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{cbfb575a-f370-4955-9c54-f041a91ec155}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M0.921875,-0.828125 </string>
+					
+					<string>L0.921875,0.71875 </string>
+					
+					<string>C0.921875,1.27083 0.947917,1.70833 1,2.03125 </string>
+					
+					<string>C1.42708,1.66667 1.73438,1.39583 1.92188,1.21875 </string>
+					
+					<string>C2.13021,1.01042 2.33854,0.721354 2.54688,0.351562 </string>
+					
+					<string>C2.75521,-0.0182292 2.85938,-0.385417 2.85938,-0.75 </string>
+					
+					<string>C2.85938,-1.11458 2.78125,-1.42708 2.625,-1.6875 </string>
+					
+					<string>C2.46875,-1.94792 2.26042,-2.07812 2,-2.07812 </string>
+					
+					<string>C1.6875,-2.07812 1.42708,-1.95833 1.21875,-1.71875 </string>
+					
+					<string>C1.02083,-1.45833 0.921875,-1.16146 0.921875,-0.828125 </string>
+					
+					<string>M0.09375,2.75 </string>
+					
+					<string>L-0.15625,-9.14062 </string>
+					
+					<string>C0.03125,-9.24479 0.216146,-9.29688 0.398438,-9.29688 </string>
+					
+					<string>C0.580729,-9.29688 0.760417,-9.24479 0.9375,-9.14062 </string>
+					
+					<string>L0.78125,-2.25 </string>
+					
+					<string>C1.3125,-2.70833 1.92708,-2.9375 2.625,-2.9375 </string>
+					
+					<string>C3.125,-2.9375 3.54427,-2.72917 3.88281,-2.3125 </string>
+					
+					<string>C4.22135,-1.89583 4.39062,-1.41667 4.39062,-0.875 </string>
+					
+					<string>C4.39062,-0.541667 4.28125,-0.182292 4.0625,0.203125 </string>
+					
+					<string>C3.85417,0.546875 3.63542,0.817708 3.40625,1.01562 </string>
+					
+					<string>C3.27083,1.11979 2.9375,1.38021 2.40625,1.79688 </string>
+					
+					<string>C2.25,1.91146 2.0651,2.04688 1.85156,2.20312 </string>
+					
+					<string>C1.63802,2.35938 1.50521,2.45833 1.45312,2.5 </string>
+					
+					<string>C1.35938,2.55208 1.27083,2.65625 1.1875,2.8125 </string>
+					
+					<string>C1.10417,2.94792 1,3.05729 0.875,3.14062 </string>
+					
+					<string>C0.791667,3.22396 0.684896,3.26562 0.554688,3.26562 </string>
+					
+					<string>C0.424479,3.26562 0.317708,3.21875 0.234375,3.125 </string>
+					
+					<string>C0.140625,3.03125 0.09375,2.90625 0.09375,2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,495.261,65.9645)</string>
+				<key>width</key>
+				<string>4.51572</string>
+				<key>height</key>
+				<string>12.4605</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{bb7a90f3-5f1c-4a6c-b52f-aeeb5000a6e0}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M0.921875,-0.828125 </string>
+					
+					<string>L0.921875,0.71875 </string>
+					
+					<string>C0.921875,1.27083 0.947917,1.70833 1,2.03125 </string>
+					
+					<string>C1.42708,1.66667 1.73438,1.39583 1.92188,1.21875 </string>
+					
+					<string>C2.13021,1.01042 2.33854,0.721354 2.54688,0.351562 </string>
+					
+					<string>C2.75521,-0.0182292 2.85938,-0.385417 2.85938,-0.75 </string>
+					
+					<string>C2.85938,-1.11458 2.78125,-1.42708 2.625,-1.6875 </string>
+					
+					<string>C2.46875,-1.94792 2.26042,-2.07812 2,-2.07812 </string>
+					
+					<string>C1.6875,-2.07812 1.42708,-1.95833 1.21875,-1.71875 </string>
+					
+					<string>C1.02083,-1.45833 0.921875,-1.16146 0.921875,-0.828125 </string>
+					
+					<string>M0.09375,2.75 </string>
+					
+					<string>L-0.15625,-9.14062 </string>
+					
+					<string>C0.03125,-9.24479 0.216146,-9.29688 0.398438,-9.29688 </string>
+					
+					<string>C0.580729,-9.29688 0.760417,-9.24479 0.9375,-9.14062 </string>
+					
+					<string>L0.78125,-2.25 </string>
+					
+					<string>C1.3125,-2.70833 1.92708,-2.9375 2.625,-2.9375 </string>
+					
+					<string>C3.125,-2.9375 3.54427,-2.72917 3.88281,-2.3125 </string>
+					
+					<string>C4.22135,-1.89583 4.39062,-1.41667 4.39062,-0.875 </string>
+					
+					<string>C4.39062,-0.541667 4.28125,-0.182292 4.0625,0.203125 </string>
+					
+					<string>C3.85417,0.546875 3.63542,0.817708 3.40625,1.01562 </string>
+					
+					<string>C3.27083,1.11979 2.9375,1.38021 2.40625,1.79688 </string>
+					
+					<string>C2.25,1.91146 2.0651,2.04688 1.85156,2.20312 </string>
+					
+					<string>C1.63802,2.35938 1.50521,2.45833 1.45312,2.5 </string>
+					
+					<string>C1.35938,2.55208 1.27083,2.65625 1.1875,2.8125 </string>
+					
+					<string>C1.10417,2.94792 1,3.05729 0.875,3.14062 </string>
+					
+					<string>C0.791667,3.22396 0.684896,3.26562 0.554688,3.26562 </string>
+					
+					<string>C0.424479,3.26562 0.317708,3.21875 0.234375,3.125 </string>
+					
+					<string>C0.140625,3.03125 0.09375,2.90625 0.09375,2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,402.758,65.9645)</string>
+				<key>width</key>
+				<string>4.51572</string>
+				<key>height</key>
+				<string>12.4605</string>
+			</dict>
+		</array>
+		<key>Note</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{13a52967-8206-470d-be10-0986905b918c}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M6.3125,-1.3125 </string>
+					
+					<string>C6.3125,-1.53125 6.22917,-1.71875 6.0625,-1.875 </string>
+					
+					<string>C5.88542,-2.04167 5.6875,-2.125 5.46875,-2.125 </string>
+					
+					<string>C5.08333,-2.125 4.29688,-1.73438 3.10938,-0.953125 </string>
+					
+					<string>C1.88021,-0.161458 1.13021,0.40625 0.859375,0.75 </string>
+					
+					<string>C0.713542,0.927083 0.640625,1.11458 0.640625,1.3125 </string>
+					
+					<string>C0.640625,1.53125 0.729167,1.71875 0.90625,1.875 </string>
+					
+					<string>C1.0625,2.04167 1.25521,2.125 1.48438,2.125 </string>
+					
+					<string>C1.85938,2.125 2.65625,1.73438 3.875,0.953125 </string>
+					
+					<string>C5.07292,0.171875 5.8125,-0.395833 6.09375,-0.75 </string>
+					
+					<string>C6.23958,-0.916667 6.3125,-1.10417 6.3125,-1.3125 </string>
+					
+					<string>M5.28125,-2.75 </string>
+					
+					<string>C6.39583,-2.75 6.95312,-2.27083 6.95312,-1.3125 </string>
+					
+					<string>C6.95312,-0.84375 6.81771,-0.296875 6.54688,0.328125 </string>
+					
+					<string>C6.27604,0.942708 5.91146,1.41146 5.45312,1.73438 </string>
+					
+					<string>C4.45312,2.41146 3.19792,2.75 1.6875,2.75 </string>
+					
+					<string>C0.5625,2.75 0,2.27083 0,1.3125 </string>
+					
+					<string>C0,0.885417 0.135417,0.34375 0.40625,-0.3125 </string>
+					
+					<string>C0.666667,-0.9375 1.03125,-1.41146 1.5,-1.73438 </string>
+					
+					<string>C2.51042,-2.41146 3.77083,-2.75 5.28125,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,852.969,73.4054)</string>
+				<key>width</key>
+				<string>6.88907</string>
+				<key>height</key>
+				<string>5.40709</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8904c461-d344-4202-a712-2e9fbbfedd00}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,830.011,70.9251)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{93185fe6-9f9a-487f-a068-01a66420fa83}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,806.874,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{9f460f0f-a63e-43f7-b7d5-5f55146fb007}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,781.405,65.9645)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f036e9d6-f413-4dbe-b6c3-2f1527c7b112}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,760.699,70.9251)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{af987dca-496f-40de-8a80-8481bb62aa1a}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,739.992,70.9251)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6d2ea367-0340-463e-be7a-5ebab29cd4e9}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,719.285,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{808c3c2e-4c25-4c8d-9825-7bcc64784295}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,693.351,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{b0145a3c-4b19-485d-a030-f16008dc41ac}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,672.644,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{631be39f-2a1b-4961-9a48-de38eb4d95a8}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,651.938,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{2e1ce1b6-fef5-4bb4-991f-4db473b17f78}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,631.231,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0979194d-f84d-4a56-b721-af12e2f702e9}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,605.297,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{53e97dc1-2a97-4891-a688-9720c4172cce}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,584.59,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{dc0cd57f-aff1-41f5-816b-aef35ca0707a}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,563.883,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{88833148-a75f-4e5d-bcf8-006e21e01706}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,543.177,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c7e020ca-9cda-4de8-9c0f-2e0801cfe57b}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M6.3125,-1.3125 </string>
+					
+					<string>C6.3125,-1.53125 6.22917,-1.71875 6.0625,-1.875 </string>
+					
+					<string>C5.88542,-2.04167 5.6875,-2.125 5.46875,-2.125 </string>
+					
+					<string>C5.08333,-2.125 4.29688,-1.73438 3.10938,-0.953125 </string>
+					
+					<string>C1.88021,-0.161458 1.13021,0.40625 0.859375,0.75 </string>
+					
+					<string>C0.713542,0.927083 0.640625,1.11458 0.640625,1.3125 </string>
+					
+					<string>C0.640625,1.53125 0.729167,1.71875 0.90625,1.875 </string>
+					
+					<string>C1.0625,2.04167 1.25521,2.125 1.48438,2.125 </string>
+					
+					<string>C1.85938,2.125 2.65625,1.73438 3.875,0.953125 </string>
+					
+					<string>C5.07292,0.171875 5.8125,-0.395833 6.09375,-0.75 </string>
+					
+					<string>C6.23958,-0.916667 6.3125,-1.10417 6.3125,-1.3125 </string>
+					
+					<string>M5.28125,-2.75 </string>
+					
+					<string>C6.39583,-2.75 6.95312,-2.27083 6.95312,-1.3125 </string>
+					
+					<string>C6.95312,-0.84375 6.81771,-0.296875 6.54688,0.328125 </string>
+					
+					<string>C6.27604,0.942708 5.91146,1.41146 5.45312,1.73438 </string>
+					
+					<string>C4.45312,2.41146 3.19792,2.75 1.6875,2.75 </string>
+					
+					<string>C0.5625,2.75 0,2.27083 0,1.3125 </string>
+					
+					<string>C0,0.885417 0.135417,0.34375 0.40625,-0.3125 </string>
+					
+					<string>C0.666667,-0.9375 1.03125,-1.41146 1.5,-1.73438 </string>
+					
+					<string>C2.51042,-2.41146 3.77083,-2.75 5.28125,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,500.752,65.9645)</string>
+				<key>width</key>
+				<string>6.88907</string>
+				<key>height</key>
+				<string>5.40709</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{10077c97-202d-4efa-932f-d3815757efbe}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,477.794,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f8fd5eb4-9e7b-443c-828a-82dea3d6fb2c}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,454.657,70.9251)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c68a6561-e7e9-46ea-9d0d-2532d5d0bf50}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,429.072,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a08e7b92-9e34-4c2f-92f6-2eb90e939f0d}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,408.249,65.9645)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{bbc7cf9e-05bd-4b13-985b-e9ff072af2b6}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,387.426,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6f854f0c-97e2-4275-87bc-d4ec053287bf}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,366.603,38.681)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6c1eaed5-af0b-4a66-b092-72213f512da2}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,341.134,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7ec00b74-49dc-4d5c-ac67-f885971ba10a}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,320.427,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{06f26d76-7fb4-4461-a173-e4f8c3c80d4b}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,299.72,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{169c0f9b-c33f-4575-8bed-5f2e4e7c5582}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,279.014,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{80f6ea62-7823-4a05-a194-f216c649a58f}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,253.08,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{93f0c607-1536-425e-842d-c578351efe98}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,232.373,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{793f5c38-276f-4614-9001-dde31d8b6e97}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,211.666,68.4448)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{21ac5300-aaf9-4061-a9ee-17591bf83d08}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M4.39062,-2.75 </string>
+					
+					<string>C5.01562,-2.75 5.54688,-2.58854 5.98438,-2.26562 </string>
+					
+					<string>C6.38021,-1.91146 6.57812,-1.46875 6.57812,-0.9375 </string>
+					
+					<string>C6.57812,-0.0416667 6.11979,0.796875 5.20312,1.57812 </string>
+					
+					<string>C4.26562,2.35938 3.26042,2.75 2.1875,2.75 </string>
+					
+					<string>C1.5625,2.75 1.03646,2.58854 0.609375,2.26562 </string>
+					
+					<string>C0.203125,1.91146 0,1.46875 0,0.9375 </string>
+					
+					<string>C0,0.0416667 0.46875,-0.796875 1.40625,-1.57812 </string>
+					
+					<string>C2.32292,-2.35938 3.31771,-2.75 4.39062,-2.75</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,190.959,41.1614)</string>
+				<key>width</key>
+				<string>6.53098</string>
+				<key>height</key>
+				<string>5.46599</string>
+			</dict>
+		</array>
+		<key>Rest</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{175b946a-a1fb-438b-94a0-4bb83fff1447}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,982.983,73.4054)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c4819348-ef6e-41e1-80fc-626a9f98a5f2}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,982.983,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6b3244ae-6023-4162-931e-c92b4d6d60b4}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,894.929,73.4054)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{b8df3f4b-4f48-48cf-83f8-174f91d671a4}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,894.929,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{bd7a33fa-0bdd-4b1f-b357-3fcd6d309d9f}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,806.874,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{41721620-ef5e-4ff0-ad8f-640ac5b34feb}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,0 </string>
+					
+					<string>L0.203125,0 </string>
+					
+					<string>C0.0677083,0 0,-0.0677083 0,-0.203125 </string>
+					
+					<string>L0,-2.9375 </string>
+					
+					<string>C0,-3.0625 0.0677083,-3.125 0.203125,-3.125 </string>
+					
+					<string>L7.3125,-3.125 </string>
+					
+					<string>C7.4375,-3.125 7.5,-3.0625 7.5,-2.9375 </string>
+					
+					<string>L7.5,-0.203125 </string>
+					
+					<string>C7.5,-0.0677083 7.4375,0 7.3125,0</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,760.699,26.2795)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0885773c-57a9-4fe1-aef4-982a0e8c2af0}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,739.992,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6ac5977c-09be-4615-a605-d39145153786}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,719.285,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{9b616553-ece1-458c-b07e-cc7260a77e35}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,693.351,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8bcaca44-5355-42cf-aa08-434cb460a02a}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,672.644,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{2f5127af-aa57-4129-9a48-5adeed25b568}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,651.938,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{2798f861-4c9b-45b8-96e8-fe614e533fd3}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,631.231,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a4b5dc0a-3b90-40fa-a6c6-8640098ea575}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,605.297,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{2943f505-f9f9-4e0f-adf8-c33ecb03cf6a}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,584.59,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{798ad635-9603-47f2-aed4-7c8a0d9bfdc6}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,563.883,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f8b28fa5-3e36-4f4d-9342-c854717c606e}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,543.177,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{38d4ebd2-9ff1-44fb-b06f-041aa4dfbe8c}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,454.657,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{4cfddf33-d373-4175-84d3-041d467d5f69}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,0 </string>
+					
+					<string>L0.203125,0 </string>
+					
+					<string>C0.0677083,0 0,-0.0677083 0,-0.203125 </string>
+					
+					<string>L0,-2.9375 </string>
+					
+					<string>C0,-3.0625 0.0677083,-3.125 0.203125,-3.125 </string>
+					
+					<string>L7.3125,-3.125 </string>
+					
+					<string>C7.4375,-3.125 7.5,-3.0625 7.5,-2.9375 </string>
+					
+					<string>L7.5,-0.203125 </string>
+					
+					<string>C7.5,-0.0677083 7.4375,0 7.3125,0</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,408.249,26.2795)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0bd8a3be-1e2b-432e-9121-27c51b6ba478}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,0 </string>
+					
+					<string>L0.203125,0 </string>
+					
+					<string>C0.0677083,0 0,-0.0677083 0,-0.203125 </string>
+					
+					<string>L0,-2.9375 </string>
+					
+					<string>C0,-3.0625 0.0677083,-3.125 0.203125,-3.125 </string>
+					
+					<string>L7.3125,-3.125 </string>
+					
+					<string>C7.4375,-3.125 7.5,-3.0625 7.5,-2.9375 </string>
+					
+					<string>L7.5,-0.203125 </string>
+					
+					<string>C7.5,-0.0677083 7.4375,0 7.3125,0</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,366.603,78.3661)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{3920c489-e7ef-4db0-93ad-8453aaad3d04}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,341.134,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{3a6ca52f-91d2-4c4b-aa82-416deeaa880d}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,320.427,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0f5d1a97-c167-4412-81d5-29ca29cecd8b}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,299.72,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{721b77cd-20cd-407a-99ab-117f6ce9cc30}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,279.014,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{39cd431a-3cff-4726-8478-71b6a4f4f75e}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,253.08,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{812e3476-f962-4e62-a755-ee83a9c6e8be}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,232.373,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{e3caad8d-ff73-4195-8c33-7dfe01b2c48f}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,211.666,26.2795)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{ee7e7601-ecb8-4a57-9c64-0a239d266ce6}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M-0.125,-1.5625 </string>
+					
+					<string>C-0.125,-1.80208 0.0104167,-2.0625 0.28125,-2.34375 </string>
+					
+					<string>C0.46875,-2.55208 0.755208,-2.80208 1.14062,-3.09375 </string>
+					
+					<string>C1.42188,-3.28125 1.69792,-3.57292 1.96875,-3.96875 </string>
+					
+					<string>C2.22917,-4.34375 2.35938,-4.75521 2.35938,-5.20312 </string>
+					
+					<string>C2.35938,-5.72396 2.19271,-6.18229 1.85938,-6.57812 </string>
+					
+					<string>L1.15625,-7.42188 </string>
+					
+					<string>C1.10417,-7.47396 1.07812,-7.53906 1.07812,-7.61719 </string>
+					
+					<string>C1.07812,-7.69531 1.11458,-7.76562 1.1875,-7.82812 </string>
+					
+					<string>C1.28125,-7.90104 1.35938,-7.9375 1.42188,-7.9375 </string>
+					
+					<string>C1.51562,-7.9375 1.58854,-7.89583 1.64062,-7.8125 </string>
+					
+					<string>L4.67188,-4.21875 </string>
+					
+					<string>C4.79688,-4.05208 4.85938,-3.88542 4.85938,-3.71875 </string>
+					
+					<string>C4.85938,-3.47917 4.72917,-3.21875 4.46875,-2.9375 </string>
+					
+					<string>C4.30208,-2.75 4.02604,-2.5 3.64062,-2.1875 </string>
+					
+					<string>C3.33854,-2.01042 3.05208,-1.71875 2.78125,-1.3125 </string>
+					
+					<string>C2.52083,-0.9375 2.39062,-0.526042 2.39062,-0.078125 </string>
+					
+					<string>C2.39062,0.473958 2.54688,0.9375 2.85938,1.3125 </string>
+					
+					<string>L4.53125,3.28125 </string>
+					
+					<string>C4.57292,3.32292 4.60417,3.39062 4.625,3.48438 </string>
+					
+					<string>C4.625,3.56771 4.59375,3.64583 4.53125,3.71875 </string>
+					
+					<string>C4.4375,3.78125 4.35938,3.8125 4.29688,3.8125 </string>
+					
+					<string>C4.27604,3.8125 4.17188,3.73958 3.98438,3.59375 </string>
+					
+					<string>C3.78646,3.4375 3.52604,3.28646 3.20312,3.14062 </string>
+					
+					<string>C2.83854,3.00521 2.47917,2.9375 2.125,2.9375 </string>
+					
+					<string>C1.80208,2.9375 1.53646,3.02604 1.32812,3.20312 </string>
+					
+					<string>C1.15104,3.39062 1.0625,3.74479 1.0625,4.26562 </string>
+					
+					<string>C1.0625,5.05729 1.25,5.68229 1.625,6.14062 </string>
+					
+					<string>C1.66667,6.19271 1.67188,6.25521 1.64062,6.32812 </string>
+					
+					<string>C1.61979,6.38021 1.57292,6.40625 1.5,6.40625 </string>
+					
+					<string>C1.41667,6.40625 1.21875,6.17188 0.90625,5.70312 </string>
+					
+					<string>C0.572917,5.21354 0.265625,4.64583 -0.015625,4 </string>
+					
+					<string>C-0.317708,3.32292 -0.46875,2.76562 -0.46875,2.32812 </string>
+					
+					<string>C-0.46875,1.76562 -0.203125,1.48438 0.328125,1.48438 </string>
+					
+					<string>C0.942708,1.48438 1.73958,1.69271 2.71875,2.10938 </string>
+					
+					<string>L0.078125,-1.0625 </string>
+					
+					<string>C-0.0572917,-1.22917 -0.125,-1.39583 -0.125,-1.5625</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,190.959,78.3661)</string>
+				<key>width</key>
+				<string>5.29082</string>
+				<key>height</key>
+				<string>14.2231</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{166f2915-021f-4fa2-beb8-c70f4bd84be5}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,102.44,73.4054)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{9b214c38-4ecd-4822-a394-f63d17769a0d}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,102.44,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0f3e1b68-97be-41ea-903e-5f9afc67393d}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,48.7831,73.4054)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{91ba0c1d-2362-4dcb-86e8-e31ac1363450}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M7.3125,3.125 </string>
+					
+					<string>L0.203125,3.125 </string>
+					
+					<string>C0.0677083,3.125 0,3.0625 0,2.9375 </string>
+					
+					<string>L0,0.203125 </string>
+					
+					<string>C0,0.0677083 0.0677083,0 0.203125,0 </string>
+					
+					<string>L7.3125,0 </string>
+					
+					<string>C7.4375,0 7.5,0.0677083 7.5,0.203125 </string>
+					
+					<string>L7.5,2.9375 </string>
+					
+					<string>C7.5,3.0625 7.4375,3.125 7.3125,3.125</string>
+				</array>
+				<key>transform</key>
+				<string>matrix(0.992126,0,0,0.992126,48.7831,21.3188)</string>
+				<key>width</key>
+				<string>7.44094</string>
+				<key>height</key>
+				<string>3.10039</string>
+			</dict>
+		</array>
+		<key>Fingering</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{788dff5a-7e44-4387-86b4-2a6a9bd98cdf}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M849.781,75.2504 </string>
+					
+					<string>L849.562,75.2504 </string>
+					
+					<string>C849.5,74.8442 849.401,74.5838 849.266,74.4692 </string>
+					
+					<string>C849.13,74.3546 848.859,74.2973 848.453,74.2973 </string>
+					
+					<string>L847,74.2973 </string>
+					
+					<string>L847,76.3754 </string>
+					
+					<string>C847,76.7817 847.057,77.0447 847.172,77.1645 </string>
+					
+					<string>C847.286,77.2843 847.536,77.3546 847.922,77.3754 </string>
+					
+					<string>L847.922,77.5629 </string>
+					
+					<string>L845.125,77.5629 </string>
+					
+					<string>L845.125,77.3754 </string>
+					
+					<string>C845.5,77.3442 845.737,77.2713 845.836,77.1567 </string>
+					
+					<string>C845.935,77.0421 845.984,76.7765 845.984,76.3598 </string>
+					
+					<string>L845.984,72.0317 </string>
+					
+					<string>C845.984,71.6775 845.932,71.4457 845.828,71.3364 </string>
+					
+					<string>C845.724,71.227 845.49,71.1619 845.125,71.1411 </string>
+					
+					<string>L845.125,70.9536 </string>
+					
+					<string>L850.422,70.9536 </string>
+					
+					<string>L850.453,72.3754 </string>
+					
+					<string>L850.203,72.3754 </string>
+					
+					<string>C850.12,71.9275 849.987,71.6411 849.805,71.5161 </string>
+					
+					<string>C849.622,71.3911 849.25,71.3286 848.687,71.3286 </string>
+					
+					<string>L847.328,71.3286 </string>
+					
+					<string>C847.193,71.3286 847.104,71.3494 847.062,71.3911 </string>
+					
+					<string>C847.021,71.4327 847,71.5213 847,71.6567 </string>
+					
+					<string>L847,73.8598 </string>
+					
+					<string>L848.453,73.8598 </string>
+					
+					<string>C848.859,73.8598 849.13,73.7999 849.266,73.6801 </string>
+					
+					<string>C849.401,73.5603 849.5,73.3025 849.562,72.9067 </string>
+					
+					<string>L849.781,72.9067 </string>
+					
+					<string>L849.781,75.2504 </string>
+				</array>
+				<key>width</key>
+				<string>5.625</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{639d0800-80bd-4298-8300-eaeb942eace5}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M825.964,68.7232 </string>
+					
+					<string>C825.589,68.7232 825.253,68.7909 824.956,68.9264 </string>
+					
+					<string>C824.659,69.0618 824.422,69.2363 824.245,69.4498 </string>
+					
+					<string>C824.068,69.6633 823.922,69.9133 823.808,70.1998 </string>
+					
+					<string>C823.693,70.4863 823.615,70.7623 823.574,71.0279 </string>
+					
+					<string>C823.532,71.2936 823.511,71.5618 823.511,71.8326 </string>
+					
+					<string>C823.511,72.7597 823.745,73.4941 824.214,74.0357 </string>
+					
+					<string>C824.683,74.5774 825.324,74.8482 826.136,74.8482 </string>
+					
+					<string>C826.49,74.8482 826.8,74.7883 827.066,74.6686 </string>
+					
+					<string>C827.331,74.5488 827.464,74.4107 827.464,74.2545 </string>
+					
+					<string>L827.464,72.6139 </string>
+					
+					<string>C827.464,72.2389 827.412,72.0045 827.308,71.9107 </string>
+					
+					<string>C827.204,71.817 826.959,71.7545 826.574,71.7232 </string>
+					
+					<string>L826.574,71.5514 </string>
+					
+					<string>L829.183,71.5514 </string>
+					
+					<string>L829.183,71.7232 </string>
+					
+					<string>C828.881,71.7545 828.688,71.817 828.605,71.9107 </string>
+					
+					<string>C828.521,72.0045 828.48,72.2024 828.48,72.5045 </string>
+					
+					<string>L828.48,74.5357 </string>
+					
+					<string>C828.271,74.7128 827.902,74.8717 827.37,75.0123 </string>
+					
+					<string>C826.839,75.1529 826.355,75.2232 825.917,75.2232 </string>
+					
+					<string>C825.626,75.2232 825.329,75.192 825.027,75.1295 </string>
+					
+					<string>C824.725,75.067 824.409,74.9576 824.081,74.8014 </string>
+					
+					<string>C823.753,74.6451 823.467,74.4446 823.222,74.1998 </string>
+					
+					<string>C822.977,73.955 822.771,73.6295 822.605,73.2232 </string>
+					
+					<string>C822.438,72.817 822.355,72.3534 822.355,71.8326 </string>
+					
+					<string>C822.355,70.8222 822.678,69.9889 823.324,69.3326 </string>
+					
+					<string>C823.969,68.6764 824.792,68.3482 825.792,68.3482 </string>
+					
+					<string>C826.178,68.3482 826.561,68.4003 826.941,68.5045 </string>
+					
+					<string>C827.321,68.6087 827.542,68.6607 827.605,68.6607 </string>
+					
+					<string>C827.719,68.6607 827.818,68.6295 827.902,68.567 </string>
+					
+					<string>C827.985,68.5045 828.047,68.4316 828.089,68.3482 </string>
+					
+					<string>L828.308,68.3482 </string>
+					
+					<string>L828.386,70.442 </string>
+					
+					<string>L828.152,70.442 </string>
+					
+					<string>C827.933,69.9212 827.662,69.5045 827.339,69.192 </string>
+					
+					<string>C827.016,68.8795 826.558,68.7232 825.964,68.7232</string>
+				</array>
+				<key>width</key>
+				<string>7.21875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{869ac82b-02e7-46cf-bf35-d34f88e9472b}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M805.937,72.4148 </string>
+					
+					<string>L805.937,72.6023 </string>
+					
+					<string>L803.374,72.6023 </string>
+					
+					<string>L803.374,72.4148 </string>
+					
+					<string>C803.645,72.4044 803.83,72.3757 803.929,72.3289 </string>
+					
+					<string>C804.028,72.282 804.077,72.196 804.077,72.071 </string>
+					
+					<string>C804.077,71.9148 804.015,71.696 803.89,71.4148 </string>
+					
+					<string>L803.484,70.4773 </string>
+					
+					<string>L800.859,70.4773 </string>
+					
+					<string>L800.406,71.6179 </string>
+					
+					<string>C800.354,71.7638 800.327,71.894 800.327,72.0085 </string>
+					
+					<string>C800.327,72.2794 800.551,72.4148 800.999,72.4148 </string>
+					
+					<string>L800.999,72.6023 </string>
+					
+					<string>L799.031,72.6023 </string>
+					
+					<string>L799.031,72.4148 </string>
+					
+					<string>C799.27,72.4044 799.458,72.3106 799.593,72.1335 </string>
+					
+					<string>C799.729,71.9565 799.952,71.5033 800.265,70.7742 </string>
+					
+					<string>L802.343,65.8679 </string>
+					
+					<string>L802.546,65.8679 </string>
+					
+					<string>L805.031,71.5398 </string>
+					
+					<string>C805.187,71.9044 805.32,72.1388 805.429,72.2429 </string>
+					
+					<string>C805.538,72.3471 805.708,72.4044 805.937,72.4148 </string>
+					
+					<string>M801.031,70.0398 </string>
+					
+					<string>L803.343,70.0398 </string>
+					
+					<string>L802.187,67.2898 </string>
+					
+					<string>L801.031,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{b5267d7f-77d8-4cee-83b6-773a0dbfcfcb}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M779.312,68.3251 </string>
+					
+					<string>C779.312,68.523 779.275,68.7183 779.202,68.911 </string>
+					
+					<string>C779.129,69.1038 779.007,69.2965 778.835,69.4892 </string>
+					
+					<string>C778.663,69.6819 778.411,69.8355 778.077,69.9501 </string>
+					
+					<string>C777.744,70.0647 777.348,70.122 776.89,70.122 </string>
+					
+					<string>L773.562,70.122 </string>
+					
+					<string>L773.562,69.9345 </string>
+					
+					<string>C773.968,69.9241 774.228,69.8642 774.343,69.7548 </string>
+					
+					<string>C774.457,69.6454 774.515,69.4032 774.515,69.0282 </string>
+					
+					<string>L774.515,64.5907 </string>
+					
+					<string>C774.515,64.2261 774.46,63.9918 774.351,63.8876 </string>
+					
+					<string>C774.241,63.7834 773.978,63.7209 773.562,63.7001 </string>
+					
+					<string>L773.562,63.5126 </string>
+					
+					<string>L776.359,63.5126 </string>
+					
+					<string>C778.098,63.5126 778.968,64.0803 778.968,65.2157 </string>
+					
+					<string>C778.968,65.4345 778.929,65.6298 778.851,65.8017 </string>
+					
+					<string>C778.773,65.9735 778.692,66.1038 778.609,66.1923 </string>
+					
+					<string>C778.525,66.2808 778.398,66.3668 778.226,66.4501 </string>
+					
+					<string>C778.054,66.5334 777.944,66.5777 777.898,66.5829 </string>
+					
+					<string>C777.851,66.5881 777.754,66.6116 777.609,66.6532 </string>
+					
+					<string>C777.754,66.6949 777.866,66.7261 777.944,66.747 </string>
+					
+					<string>C778.023,66.7678 778.163,66.8225 778.366,66.911 </string>
+					
+					<string>C778.569,66.9996 778.728,67.0985 778.843,67.2079 </string>
+					
+					<string>C778.957,67.3173 779.064,67.4683 779.163,67.661 </string>
+					
+					<string>C779.262,67.8538 779.312,68.0751 779.312,68.3251 </string>
+					
+					<string>M776.171,69.747 </string>
+					
+					<string>C776.463,69.747 776.72,69.7261 776.944,69.6845 </string>
+					
+					<string>C777.168,69.6428 777.377,69.5751 777.569,69.4814 </string>
+					
+					<string>C777.762,69.3876 777.908,69.2444 778.007,69.0517 </string>
+					
+					<string>C778.106,68.859 778.155,68.6168 778.155,68.3251 </string>
+					
+					<string>C778.155,68.0543 778.106,67.8251 778.007,67.6376 </string>
+					
+					<string>C777.908,67.4501 777.783,67.3069 777.632,67.2079 </string>
+					
+					<string>C777.481,67.109 777.278,67.0308 777.023,66.9735 </string>
+					
+					<string>C776.767,66.9163 776.538,66.8824 776.335,66.872 </string>
+					
+					<string>C776.132,66.8616 775.864,66.8564 775.53,66.8564 </string>
+					
+					<string>L775.53,69.3407 </string>
+					
+					<string>C775.53,69.497 775.575,69.6038 775.663,69.661 </string>
+					
+					<string>C775.752,69.7183 775.921,69.747 776.171,69.747 </string>
+					
+					<string>M775.53,66.4814 </string>
+					
+					<string>L776.484,66.4814 </string>
+					
+					<string>C776.952,66.4814 777.314,66.3772 777.569,66.1689 </string>
+					
+					<string>C777.825,65.9605 777.952,65.6584 777.952,65.2626 </string>
+					
+					<string>C777.952,64.8147 777.801,64.4735 777.499,64.2392 </string>
+					
+					<string>C777.197,64.0048 776.76,63.8876 776.187,63.8876 </string>
+					
+					<string>L775.749,63.8876 </string>
+					
+					<string>C775.603,63.8876 775.53,63.9866 775.53,64.1845 </string>
+					
+					<string>L775.53,66.4814 </string>
+				</array>
+				<key>width</key>
+				<string>6.29688</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{46c56f1b-cc20-4fdc-beeb-488d4bd8a22a}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M756.652,68.7232 </string>
+					
+					<string>C756.277,68.7232 755.941,68.7909 755.644,68.9264 </string>
+					
+					<string>C755.347,69.0618 755.11,69.2363 754.933,69.4498 </string>
+					
+					<string>C754.756,69.6633 754.61,69.9133 754.496,70.1998 </string>
+					
+					<string>C754.381,70.4863 754.303,70.7623 754.261,71.0279 </string>
+					
+					<string>C754.219,71.2936 754.199,71.5618 754.199,71.8326 </string>
+					
+					<string>C754.199,72.7597 754.433,73.4941 754.902,74.0357 </string>
+					
+					<string>C755.371,74.5774 756.011,74.8482 756.824,74.8482 </string>
+					
+					<string>C757.178,74.8482 757.488,74.7883 757.753,74.6686 </string>
+					
+					<string>C758.019,74.5488 758.152,74.4107 758.152,74.2545 </string>
+					
+					<string>L758.152,72.6139 </string>
+					
+					<string>C758.152,72.2389 758.1,72.0045 757.996,71.9107 </string>
+					
+					<string>C757.891,71.817 757.647,71.7545 757.261,71.7232 </string>
+					
+					<string>L757.261,71.5514 </string>
+					
+					<string>L759.871,71.5514 </string>
+					
+					<string>L759.871,71.7232 </string>
+					
+					<string>C759.568,71.7545 759.376,71.817 759.292,71.9107 </string>
+					
+					<string>C759.209,72.0045 759.167,72.2024 759.167,72.5045 </string>
+					
+					<string>L759.167,74.5357 </string>
+					
+					<string>C758.959,74.7128 758.589,74.8717 758.058,75.0123 </string>
+					
+					<string>C757.527,75.1529 757.042,75.2232 756.605,75.2232 </string>
+					
+					<string>C756.313,75.2232 756.016,75.192 755.714,75.1295 </string>
+					
+					<string>C755.412,75.067 755.097,74.9576 754.769,74.8014 </string>
+					
+					<string>C754.441,74.6451 754.154,74.4446 753.91,74.1998 </string>
+					
+					<string>C753.665,73.955 753.459,73.6295 753.292,73.2232 </string>
+					
+					<string>C753.126,72.817 753.042,72.3534 753.042,71.8326 </string>
+					
+					<string>C753.042,70.8222 753.365,69.9889 754.011,69.3326 </string>
+					
+					<string>C754.657,68.6764 755.48,68.3482 756.48,68.3482 </string>
+					
+					<string>C756.865,68.3482 757.248,68.4003 757.628,68.5045 </string>
+					
+					<string>C758.009,68.6087 758.23,68.6607 758.292,68.6607 </string>
+					
+					<string>C758.407,68.6607 758.506,68.6295 758.589,68.567 </string>
+					
+					<string>C758.673,68.5045 758.735,68.4316 758.777,68.3482 </string>
+					
+					<string>L758.996,68.3482 </string>
+					
+					<string>L759.074,70.442 </string>
+					
+					<string>L758.839,70.442 </string>
+					
+					<string>C758.621,69.9212 758.35,69.5045 758.027,69.192 </string>
+					
+					<string>C757.704,68.8795 757.246,68.7232 756.652,68.7232</string>
+				</array>
+				<key>width</key>
+				<string>7.21875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7bbdd21c-000d-4112-b5a1-0e48eff64a06}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M735.945,68.7232 </string>
+					
+					<string>C735.57,68.7232 735.234,68.7909 734.937,68.9264 </string>
+					
+					<string>C734.64,69.0618 734.403,69.2363 734.226,69.4498 </string>
+					
+					<string>C734.049,69.6633 733.903,69.9133 733.789,70.1998 </string>
+					
+					<string>C733.674,70.4863 733.596,70.7623 733.554,71.0279 </string>
+					
+					<string>C733.513,71.2936 733.492,71.5618 733.492,71.8326 </string>
+					
+					<string>C733.492,72.7597 733.726,73.4941 734.195,74.0357 </string>
+					
+					<string>C734.664,74.5774 735.304,74.8482 736.117,74.8482 </string>
+					
+					<string>C736.471,74.8482 736.781,74.7883 737.047,74.6686 </string>
+					
+					<string>C737.312,74.5488 737.445,74.4107 737.445,74.2545 </string>
+					
+					<string>L737.445,72.6139 </string>
+					
+					<string>C737.445,72.2389 737.393,72.0045 737.289,71.9107 </string>
+					
+					<string>C737.185,71.817 736.94,71.7545 736.554,71.7232 </string>
+					
+					<string>L736.554,71.5514 </string>
+					
+					<string>L739.164,71.5514 </string>
+					
+					<string>L739.164,71.7232 </string>
+					
+					<string>C738.862,71.7545 738.669,71.817 738.586,71.9107 </string>
+					
+					<string>C738.502,72.0045 738.461,72.2024 738.461,72.5045 </string>
+					
+					<string>L738.461,74.5357 </string>
+					
+					<string>C738.252,74.7128 737.883,74.8717 737.351,75.0123 </string>
+					
+					<string>C736.82,75.1529 736.336,75.2232 735.898,75.2232 </string>
+					
+					<string>C735.606,75.2232 735.31,75.192 735.008,75.1295 </string>
+					
+					<string>C734.705,75.067 734.39,74.9576 734.062,74.8014 </string>
+					
+					<string>C733.734,74.6451 733.448,74.4446 733.203,74.1998 </string>
+					
+					<string>C732.958,73.955 732.752,73.6295 732.586,73.2232 </string>
+					
+					<string>C732.419,72.817 732.336,72.3534 732.336,71.8326 </string>
+					
+					<string>C732.336,70.8222 732.659,69.9889 733.304,69.3326 </string>
+					
+					<string>C733.95,68.6764 734.773,68.3482 735.773,68.3482 </string>
+					
+					<string>C736.159,68.3482 736.541,68.4003 736.922,68.5045 </string>
+					
+					<string>C737.302,68.6087 737.523,68.6607 737.586,68.6607 </string>
+					
+					<string>C737.7,68.6607 737.799,68.6295 737.883,68.567 </string>
+					
+					<string>C737.966,68.5045 738.028,68.4316 738.07,68.3482 </string>
+					
+					<string>L738.289,68.3482 </string>
+					
+					<string>L738.367,70.442 </string>
+					
+					<string>L738.133,70.442 </string>
+					
+					<string>C737.914,69.9212 737.643,69.5045 737.32,69.192 </string>
+					
+					<string>C736.997,68.8795 736.539,68.7232 735.945,68.7232</string>
+				</array>
+				<key>width</key>
+				<string>7.21875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{5a2f8aba-4b18-4335-85ae-da1f5c7e3727}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M711.629,42.0688 </string>
+					
+					<string>C711.629,41.0376 711.949,40.199 712.59,39.5532 </string>
+					
+					<string>C713.23,38.9074 714.025,38.5845 714.973,38.5845 </string>
+					
+					<string>C715.4,38.5845 715.801,38.6365 716.176,38.7407 </string>
+					
+					<string>C716.551,38.8449 716.77,38.897 716.832,38.897 </string>
+					
+					<string>C717.051,38.897 717.191,38.7928 717.254,38.5845 </string>
+					
+					<string>L717.457,38.5845 </string>
+					
+					<string>L717.551,40.8188 </string>
+					
+					<string>L717.316,40.8188 </string>
+					
+					<string>C716.952,39.5793 716.238,38.9595 715.176,38.9595 </string>
+					
+					<string>C714.447,38.9595 713.866,39.2303 713.434,39.772 </string>
+					
+					<string>C713.001,40.3136 712.785,41.0376 712.785,41.9438 </string>
+					
+					<string>C712.785,42.5168 712.861,43.0168 713.012,43.4438 </string>
+					
+					<string>C713.163,43.8709 713.366,44.1912 713.621,44.4048 </string>
+					
+					<string>C713.876,44.6183 714.137,44.7746 714.402,44.8735 </string>
+					
+					<string>C714.668,44.9725 714.957,45.022 715.27,45.022 </string>
+					
+					<string>C716.061,45.022 716.806,44.6834 717.504,44.0063 </string>
+					
+					<string>L717.676,44.1938 </string>
+					
+					<string>C717.374,44.6001 716.986,44.9126 716.512,45.1313 </string>
+					
+					<string>C716.038,45.3501 715.514,45.4595 714.941,45.4595 </string>
+					
+					<string>C713.962,45.4595 713.165,45.1496 712.551,44.5298 </string>
+					
+					<string>C711.936,43.91 711.629,43.0897 711.629,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{4340e028-165f-43ed-9359-fd20c4402bfc}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M685.695,42.0688 </string>
+					
+					<string>C685.695,41.0376 686.015,40.199 686.656,39.5532 </string>
+					
+					<string>C687.296,38.9074 688.091,38.5845 689.039,38.5845 </string>
+					
+					<string>C689.466,38.5845 689.867,38.6365 690.242,38.7407 </string>
+					
+					<string>C690.617,38.8449 690.835,38.897 690.898,38.897 </string>
+					
+					<string>C691.117,38.897 691.257,38.7928 691.32,38.5845 </string>
+					
+					<string>L691.523,38.5845 </string>
+					
+					<string>L691.617,40.8188 </string>
+					
+					<string>L691.382,40.8188 </string>
+					
+					<string>C691.018,39.5793 690.304,38.9595 689.242,38.9595 </string>
+					
+					<string>C688.513,38.9595 687.932,39.2303 687.5,39.772 </string>
+					
+					<string>C687.067,40.3136 686.851,41.0376 686.851,41.9438 </string>
+					
+					<string>C686.851,42.5168 686.927,43.0168 687.078,43.4438 </string>
+					
+					<string>C687.229,43.8709 687.432,44.1912 687.687,44.4048 </string>
+					
+					<string>C687.942,44.6183 688.203,44.7746 688.468,44.8735 </string>
+					
+					<string>C688.734,44.9725 689.023,45.022 689.335,45.022 </string>
+					
+					<string>C690.127,45.022 690.872,44.6834 691.57,44.0063 </string>
+					
+					<string>L691.742,44.1938 </string>
+					
+					<string>C691.44,44.6001 691.052,44.9126 690.578,45.1313 </string>
+					
+					<string>C690.104,45.3501 689.58,45.4595 689.007,45.4595 </string>
+					
+					<string>C688.028,45.4595 687.231,45.1496 686.617,44.5298 </string>
+					
+					<string>C686.002,43.91 685.695,43.0897 685.695,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8005b1f3-e67c-423e-8ff8-4b69723abf24}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M671.707,72.4148 </string>
+					
+					<string>L671.707,72.6023 </string>
+					
+					<string>L669.144,72.6023 </string>
+					
+					<string>L669.144,72.4148 </string>
+					
+					<string>C669.415,72.4044 669.6,72.3757 669.699,72.3289 </string>
+					
+					<string>C669.798,72.282 669.847,72.196 669.847,72.071 </string>
+					
+					<string>C669.847,71.9148 669.785,71.696 669.66,71.4148 </string>
+					
+					<string>L669.254,70.4773 </string>
+					
+					<string>L666.629,70.4773 </string>
+					
+					<string>L666.176,71.6179 </string>
+					
+					<string>C666.124,71.7638 666.097,71.894 666.097,72.0085 </string>
+					
+					<string>C666.097,72.2794 666.321,72.4148 666.769,72.4148 </string>
+					
+					<string>L666.769,72.6023 </string>
+					
+					<string>L664.801,72.6023 </string>
+					
+					<string>L664.801,72.4148 </string>
+					
+					<string>C665.04,72.4044 665.228,72.3106 665.363,72.1335 </string>
+					
+					<string>C665.499,71.9565 665.722,71.5033 666.035,70.7742 </string>
+					
+					<string>L668.113,65.8679 </string>
+					
+					<string>L668.316,65.8679 </string>
+					
+					<string>L670.801,71.5398 </string>
+					
+					<string>C670.957,71.9044 671.09,72.1388 671.199,72.2429 </string>
+					
+					<string>C671.308,72.3471 671.478,72.4044 671.707,72.4148 </string>
+					
+					<string>M666.801,70.0398 </string>
+					
+					<string>L669.113,70.0398 </string>
+					
+					<string>L667.957,67.2898 </string>
+					
+					<string>L666.801,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d9f61cb8-3808-4209-b650-1a23c53aa093}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M651,72.4148 </string>
+					
+					<string>L651,72.6023 </string>
+					
+					<string>L648.438,72.6023 </string>
+					
+					<string>L648.438,72.4148 </string>
+					
+					<string>C648.708,72.4044 648.893,72.3757 648.992,72.3289 </string>
+					
+					<string>C649.091,72.282 649.141,72.196 649.141,72.071 </string>
+					
+					<string>C649.141,71.9148 649.078,71.696 648.953,71.4148 </string>
+					
+					<string>L648.547,70.4773 </string>
+					
+					<string>L645.922,70.4773 </string>
+					
+					<string>L645.469,71.6179 </string>
+					
+					<string>C645.417,71.7638 645.391,71.894 645.391,72.0085 </string>
+					
+					<string>C645.391,72.2794 645.615,72.4148 646.063,72.4148 </string>
+					
+					<string>L646.063,72.6023 </string>
+					
+					<string>L644.094,72.6023 </string>
+					
+					<string>L644.094,72.4148 </string>
+					
+					<string>C644.333,72.4044 644.521,72.3106 644.656,72.1335 </string>
+					
+					<string>C644.792,71.9565 645.016,71.5033 645.328,70.7742 </string>
+					
+					<string>L647.406,65.8679 </string>
+					
+					<string>L647.609,65.8679 </string>
+					
+					<string>L650.094,71.5398 </string>
+					
+					<string>C650.25,71.9044 650.383,72.1388 650.492,72.2429 </string>
+					
+					<string>C650.602,72.3471 650.771,72.4044 651,72.4148 </string>
+					
+					<string>M646.094,70.0398 </string>
+					
+					<string>L648.406,70.0398 </string>
+					
+					<string>L647.25,67.2898 </string>
+					
+					<string>L646.094,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{9f5e7199-503b-47e9-82ab-4ffa5b45a049}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M623.575,42.0688 </string>
+					
+					<string>C623.575,41.0376 623.895,40.199 624.536,39.5532 </string>
+					
+					<string>C625.176,38.9074 625.97,38.5845 626.918,38.5845 </string>
+					
+					<string>C627.345,38.5845 627.746,38.6365 628.121,38.7407 </string>
+					
+					<string>C628.496,38.8449 628.715,38.897 628.778,38.897 </string>
+					
+					<string>C628.996,38.897 629.137,38.7928 629.2,38.5845 </string>
+					
+					<string>L629.403,38.5845 </string>
+					
+					<string>L629.496,40.8188 </string>
+					
+					<string>L629.262,40.8188 </string>
+					
+					<string>C628.898,39.5793 628.184,38.9595 627.121,38.9595 </string>
+					
+					<string>C626.392,38.9595 625.812,39.2303 625.379,39.772 </string>
+					
+					<string>C624.947,40.3136 624.731,41.0376 624.731,41.9438 </string>
+					
+					<string>C624.731,42.5168 624.806,43.0168 624.957,43.4438 </string>
+					
+					<string>C625.108,43.8709 625.312,44.1912 625.567,44.4048 </string>
+					
+					<string>C625.822,44.6183 626.082,44.7746 626.348,44.8735 </string>
+					
+					<string>C626.614,44.9725 626.903,45.022 627.215,45.022 </string>
+					
+					<string>C628.007,45.022 628.752,44.6834 629.45,44.0063 </string>
+					
+					<string>L629.621,44.1938 </string>
+					
+					<string>C629.319,44.6001 628.931,44.9126 628.457,45.1313 </string>
+					
+					<string>C627.983,45.3501 627.46,45.4595 626.887,45.4595 </string>
+					
+					<string>C625.908,45.4595 625.111,45.1496 624.496,44.5298 </string>
+					
+					<string>C623.882,43.91 623.575,43.0897 623.575,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{15804cc3-c48f-4e57-9755-dbf37c654052}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M597.641,42.0688 </string>
+					
+					<string>C597.641,41.0376 597.961,40.199 598.602,39.5532 </string>
+					
+					<string>C599.242,38.9074 600.036,38.5845 600.984,38.5845 </string>
+					
+					<string>C601.411,38.5845 601.812,38.6365 602.187,38.7407 </string>
+					
+					<string>C602.562,38.8449 602.781,38.897 602.844,38.897 </string>
+					
+					<string>C603.062,38.897 603.203,38.7928 603.266,38.5845 </string>
+					
+					<string>L603.469,38.5845 </string>
+					
+					<string>L603.562,40.8188 </string>
+					
+					<string>L603.328,40.8188 </string>
+					
+					<string>C602.963,39.5793 602.25,38.9595 601.187,38.9595 </string>
+					
+					<string>C600.458,38.9595 599.878,39.2303 599.445,39.772 </string>
+					
+					<string>C599.013,40.3136 598.797,41.0376 598.797,41.9438 </string>
+					
+					<string>C598.797,42.5168 598.872,43.0168 599.023,43.4438 </string>
+					
+					<string>C599.174,43.8709 599.378,44.1912 599.633,44.4048 </string>
+					
+					<string>C599.888,44.6183 600.148,44.7746 600.414,44.8735 </string>
+					
+					<string>C600.68,44.9725 600.969,45.022 601.281,45.022 </string>
+					
+					<string>C602.073,45.022 602.818,44.6834 603.516,44.0063 </string>
+					
+					<string>L603.687,44.1938 </string>
+					
+					<string>C603.385,44.6001 602.997,44.9126 602.523,45.1313 </string>
+					
+					<string>C602.049,45.3501 601.526,45.4595 600.953,45.4595 </string>
+					
+					<string>C599.974,45.4595 599.177,45.1496 598.562,44.5298 </string>
+					
+					<string>C597.948,43.91 597.641,43.0897 597.641,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{62a54d5e-899a-42a6-af48-97d173dc4a42}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M583.653,72.4148 </string>
+					
+					<string>L583.653,72.6023 </string>
+					
+					<string>L581.09,72.6023 </string>
+					
+					<string>L581.09,72.4148 </string>
+					
+					<string>C581.361,72.4044 581.546,72.3757 581.645,72.3289 </string>
+					
+					<string>C581.744,72.282 581.793,72.196 581.793,72.071 </string>
+					
+					<string>C581.793,71.9148 581.731,71.696 581.606,71.4148 </string>
+					
+					<string>L581.199,70.4773 </string>
+					
+					<string>L578.574,70.4773 </string>
+					
+					<string>L578.121,71.6179 </string>
+					
+					<string>C578.069,71.7638 578.043,71.894 578.043,72.0085 </string>
+					
+					<string>C578.043,72.2794 578.267,72.4148 578.715,72.4148 </string>
+					
+					<string>L578.715,72.6023 </string>
+					
+					<string>L576.746,72.6023 </string>
+					
+					<string>L576.746,72.4148 </string>
+					
+					<string>C576.986,72.4044 577.173,72.3106 577.309,72.1335 </string>
+					
+					<string>C577.444,71.9565 577.668,71.5033 577.981,70.7742 </string>
+					
+					<string>L580.059,65.8679 </string>
+					
+					<string>L580.262,65.8679 </string>
+					
+					<string>L582.746,71.5398 </string>
+					
+					<string>C582.903,71.9044 583.035,72.1388 583.145,72.2429 </string>
+					
+					<string>C583.254,72.3471 583.423,72.4044 583.653,72.4148 </string>
+					
+					<string>M578.746,70.0398 </string>
+					
+					<string>L581.059,70.0398 </string>
+					
+					<string>L579.903,67.2898 </string>
+					
+					<string>L578.746,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{ae74245d-be56-47ff-a841-1d7cda395bbd}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M562.946,72.4148 </string>
+					
+					<string>L562.946,72.6023 </string>
+					
+					<string>L560.383,72.6023 </string>
+					
+					<string>L560.383,72.4148 </string>
+					
+					<string>C560.654,72.4044 560.839,72.3757 560.938,72.3289 </string>
+					
+					<string>C561.037,72.282 561.086,72.196 561.086,72.071 </string>
+					
+					<string>C561.086,71.9148 561.024,71.696 560.899,71.4148 </string>
+					
+					<string>L560.493,70.4773 </string>
+					
+					<string>L557.868,70.4773 </string>
+					
+					<string>L557.415,71.6179 </string>
+					
+					<string>C557.362,71.7638 557.336,71.894 557.336,72.0085 </string>
+					
+					<string>C557.336,72.2794 557.56,72.4148 558.008,72.4148 </string>
+					
+					<string>L558.008,72.6023 </string>
+					
+					<string>L556.04,72.6023 </string>
+					
+					<string>L556.04,72.4148 </string>
+					
+					<string>C556.279,72.4044 556.467,72.3106 556.602,72.1335 </string>
+					
+					<string>C556.737,71.9565 556.961,71.5033 557.274,70.7742 </string>
+					
+					<string>L559.352,65.8679 </string>
+					
+					<string>L559.555,65.8679 </string>
+					
+					<string>L562.04,71.5398 </string>
+					
+					<string>C562.196,71.9044 562.329,72.1388 562.438,72.2429 </string>
+					
+					<string>C562.547,72.3471 562.717,72.4044 562.946,72.4148 </string>
+					
+					<string>M558.04,70.0398 </string>
+					
+					<string>L560.352,70.0398 </string>
+					
+					<string>L559.196,67.2898 </string>
+					
+					<string>L558.04,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{63924af3-b2b5-42c1-8015-4c94610dc178}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M535.52,42.0688 </string>
+					
+					<string>C535.52,41.0376 535.841,40.199 536.481,39.5532 </string>
+					
+					<string>C537.122,38.9074 537.916,38.5845 538.864,38.5845 </string>
+					
+					<string>C539.291,38.5845 539.692,38.6365 540.067,38.7407 </string>
+					
+					<string>C540.442,38.8449 540.661,38.897 540.723,38.897 </string>
+					
+					<string>C540.942,38.897 541.083,38.7928 541.145,38.5845 </string>
+					
+					<string>L541.348,38.5845 </string>
+					
+					<string>L541.442,40.8188 </string>
+					
+					<string>L541.208,40.8188 </string>
+					
+					<string>C540.843,39.5793 540.13,38.9595 539.067,38.9595 </string>
+					
+					<string>C538.338,38.9595 537.757,39.2303 537.325,39.772 </string>
+					
+					<string>C536.893,40.3136 536.677,41.0376 536.677,41.9438 </string>
+					
+					<string>C536.677,42.5168 536.752,43.0168 536.903,43.4438 </string>
+					
+					<string>C537.054,43.8709 537.257,44.1912 537.513,44.4048 </string>
+					
+					<string>C537.768,44.6183 538.028,44.7746 538.294,44.8735 </string>
+					
+					<string>C538.559,44.9725 538.848,45.022 539.161,45.022 </string>
+					
+					<string>C539.953,45.022 540.697,44.6834 541.395,44.0063 </string>
+					
+					<string>L541.567,44.1938 </string>
+					
+					<string>C541.265,44.6001 540.877,44.9126 540.403,45.1313 </string>
+					
+					<string>C539.929,45.3501 539.406,45.4595 538.833,45.4595 </string>
+					
+					<string>C537.854,45.4595 537.057,45.1496 536.442,44.5298 </string>
+					
+					<string>C535.828,43.91 535.52,43.0897 535.52,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{34373fca-ba48-4f2e-a250-0f45eb6e6140}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M498.658,68.3251 </string>
+					
+					<string>C498.658,68.523 498.621,68.7183 498.548,68.911 </string>
+					
+					<string>C498.476,69.1038 498.353,69.2965 498.181,69.4892 </string>
+					
+					<string>C498.009,69.6819 497.757,69.8355 497.423,69.9501 </string>
+					
+					<string>C497.09,70.0647 496.694,70.122 496.236,70.122 </string>
+					
+					<string>L492.908,70.122 </string>
+					
+					<string>L492.908,69.9345 </string>
+					
+					<string>C493.314,69.9241 493.574,69.8642 493.689,69.7548 </string>
+					
+					<string>C493.804,69.6454 493.861,69.4032 493.861,69.0282 </string>
+					
+					<string>L493.861,64.5907 </string>
+					
+					<string>C493.861,64.2261 493.806,63.9918 493.697,63.8876 </string>
+					
+					<string>C493.587,63.7834 493.324,63.7209 492.908,63.7001 </string>
+					
+					<string>L492.908,63.5126 </string>
+					
+					<string>L495.705,63.5126 </string>
+					
+					<string>C497.444,63.5126 498.314,64.0803 498.314,65.2157 </string>
+					
+					<string>C498.314,65.4345 498.275,65.6298 498.197,65.8017 </string>
+					
+					<string>C498.119,65.9735 498.038,66.1038 497.955,66.1923 </string>
+					
+					<string>C497.871,66.2808 497.744,66.3668 497.572,66.4501 </string>
+					
+					<string>C497.4,66.5334 497.291,66.5777 497.244,66.5829 </string>
+					
+					<string>C497.197,66.5881 497.101,66.6116 496.955,66.6532 </string>
+					
+					<string>C497.101,66.6949 497.212,66.7261 497.291,66.747 </string>
+					
+					<string>C497.369,66.7678 497.509,66.8225 497.712,66.911 </string>
+					
+					<string>C497.916,66.9996 498.074,67.0985 498.189,67.2079 </string>
+					
+					<string>C498.304,67.3173 498.41,67.4683 498.509,67.661 </string>
+					
+					<string>C498.608,67.8538 498.658,68.0751 498.658,68.3251 </string>
+					
+					<string>M495.517,69.747 </string>
+					
+					<string>C495.809,69.747 496.067,69.7261 496.291,69.6845 </string>
+					
+					<string>C496.515,69.6428 496.723,69.5751 496.916,69.4814 </string>
+					
+					<string>C497.108,69.3876 497.254,69.2444 497.353,69.0517 </string>
+					
+					<string>C497.452,68.859 497.502,68.6168 497.502,68.3251 </string>
+					
+					<string>C497.502,68.0543 497.452,67.8251 497.353,67.6376 </string>
+					
+					<string>C497.254,67.4501 497.129,67.3069 496.978,67.2079 </string>
+					
+					<string>C496.827,67.109 496.624,67.0308 496.369,66.9735 </string>
+					
+					<string>C496.114,66.9163 495.884,66.8824 495.681,66.872 </string>
+					
+					<string>C495.478,66.8616 495.21,66.8564 494.877,66.8564 </string>
+					
+					<string>L494.877,69.3407 </string>
+					
+					<string>C494.877,69.497 494.921,69.6038 495.009,69.661 </string>
+					
+					<string>C495.098,69.7183 495.267,69.747 495.517,69.747 </string>
+					
+					<string>M494.877,66.4814 </string>
+					
+					<string>L495.83,66.4814 </string>
+					
+					<string>C496.298,66.4814 496.66,66.3772 496.916,66.1689 </string>
+					
+					<string>C497.171,65.9605 497.298,65.6584 497.298,65.2626 </string>
+					
+					<string>C497.298,64.8147 497.147,64.4735 496.845,64.2392 </string>
+					
+					<string>C496.543,64.0048 496.106,63.8876 495.533,63.8876 </string>
+					
+					<string>L495.095,63.8876 </string>
+					
+					<string>C494.949,63.8876 494.877,63.9866 494.877,64.1845 </string>
+					
+					<string>L494.877,66.4814 </string>
+				</array>
+				<key>width</key>
+				<string>6.29688</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f0e25d3e-7090-4e82-9748-9e047bda9136}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M476.856,72.4148 </string>
+					
+					<string>L476.856,72.6023 </string>
+					
+					<string>L474.294,72.6023 </string>
+					
+					<string>L474.294,72.4148 </string>
+					
+					<string>C474.565,72.4044 474.75,72.3757 474.849,72.3289 </string>
+					
+					<string>C474.948,72.282 474.997,72.196 474.997,72.071 </string>
+					
+					<string>C474.997,71.9148 474.935,71.696 474.81,71.4148 </string>
+					
+					<string>L474.403,70.4773 </string>
+					
+					<string>L471.778,70.4773 </string>
+					
+					<string>L471.325,71.6179 </string>
+					
+					<string>C471.273,71.7638 471.247,71.894 471.247,72.0085 </string>
+					
+					<string>C471.247,72.2794 471.471,72.4148 471.919,72.4148 </string>
+					
+					<string>L471.919,72.6023 </string>
+					
+					<string>L469.95,72.6023 </string>
+					
+					<string>L469.95,72.4148 </string>
+					
+					<string>C470.19,72.4044 470.377,72.3106 470.513,72.1335 </string>
+					
+					<string>C470.648,71.9565 470.872,71.5033 471.185,70.7742 </string>
+					
+					<string>L473.263,65.8679 </string>
+					
+					<string>L473.466,65.8679 </string>
+					
+					<string>L475.95,71.5398 </string>
+					
+					<string>C476.106,71.9044 476.239,72.1388 476.349,72.2429 </string>
+					
+					<string>C476.458,72.3471 476.627,72.4044 476.856,72.4148 </string>
+					
+					<string>M471.95,70.0398 </string>
+					
+					<string>L474.263,70.0398 </string>
+					
+					<string>L473.106,67.2898 </string>
+					
+					<string>L471.95,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{6bcc0050-ccab-4cc7-8ff2-0cfcd1ab3aa5}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M450.61,68.7232 </string>
+					
+					<string>C450.235,68.7232 449.899,68.7909 449.603,68.9264 </string>
+					
+					<string>C449.306,69.0618 449.069,69.2363 448.892,69.4498 </string>
+					
+					<string>C448.715,69.6633 448.569,69.9133 448.454,70.1998 </string>
+					
+					<string>C448.34,70.4863 448.261,70.7623 448.22,71.0279 </string>
+					
+					<string>C448.178,71.2936 448.157,71.5618 448.157,71.8326 </string>
+					
+					<string>C448.157,72.7597 448.392,73.4941 448.86,74.0357 </string>
+					
+					<string>C449.329,74.5774 449.97,74.8482 450.782,74.8482 </string>
+					
+					<string>C451.136,74.8482 451.446,74.7883 451.712,74.6686 </string>
+					
+					<string>C451.978,74.5488 452.11,74.4107 452.11,74.2545 </string>
+					
+					<string>L452.11,72.6139 </string>
+					
+					<string>C452.11,72.2389 452.058,72.0045 451.954,71.9107 </string>
+					
+					<string>C451.85,71.817 451.605,71.7545 451.22,71.7232 </string>
+					
+					<string>L451.22,71.5514 </string>
+					
+					<string>L453.829,71.5514 </string>
+					
+					<string>L453.829,71.7232 </string>
+					
+					<string>C453.527,71.7545 453.334,71.817 453.251,71.9107 </string>
+					
+					<string>C453.168,72.0045 453.126,72.2024 453.126,72.5045 </string>
+					
+					<string>L453.126,74.5357 </string>
+					
+					<string>C452.918,74.7128 452.548,74.8717 452.017,75.0123 </string>
+					
+					<string>C451.485,75.1529 451.001,75.2232 450.563,75.2232 </string>
+					
+					<string>C450.272,75.2232 449.975,75.192 449.673,75.1295 </string>
+					
+					<string>C449.371,75.067 449.056,74.9576 448.728,74.8014 </string>
+					
+					<string>C448.399,74.6451 448.113,74.4446 447.868,74.1998 </string>
+					
+					<string>C447.623,73.955 447.418,73.6295 447.251,73.2232 </string>
+					
+					<string>C447.084,72.817 447.001,72.3534 447.001,71.8326 </string>
+					
+					<string>C447.001,70.8222 447.324,69.9889 447.97,69.3326 </string>
+					
+					<string>C448.616,68.6764 449.438,68.3482 450.438,68.3482 </string>
+					
+					<string>C450.824,68.3482 451.207,68.4003 451.587,68.5045 </string>
+					
+					<string>C451.967,68.6087 452.188,68.6607 452.251,68.6607 </string>
+					
+					<string>C452.366,68.6607 452.465,68.6295 452.548,68.567 </string>
+					
+					<string>C452.631,68.5045 452.694,68.4316 452.735,68.3482 </string>
+					
+					<string>L452.954,68.3482 </string>
+					
+					<string>L453.032,70.442 </string>
+					
+					<string>L452.798,70.442 </string>
+					
+					<string>C452.579,69.9212 452.308,69.5045 451.985,69.192 </string>
+					
+					<string>C451.662,68.8795 451.204,68.7232 450.61,68.7232</string>
+				</array>
+				<key>width</key>
+				<string>7.21875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8208c365-3d33-4bc1-9a54-71c02e7ecc8d}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M428.135,72.4148 </string>
+					
+					<string>L428.135,72.6023 </string>
+					
+					<string>L425.572,72.6023 </string>
+					
+					<string>L425.572,72.4148 </string>
+					
+					<string>C425.843,72.4044 426.028,72.3757 426.127,72.3289 </string>
+					
+					<string>C426.226,72.282 426.275,72.196 426.275,72.071 </string>
+					
+					<string>C426.275,71.9148 426.213,71.696 426.088,71.4148 </string>
+					
+					<string>L425.681,70.4773 </string>
+					
+					<string>L423.056,70.4773 </string>
+					
+					<string>L422.603,71.6179 </string>
+					
+					<string>C422.551,71.7638 422.525,71.894 422.525,72.0085 </string>
+					
+					<string>C422.525,72.2794 422.749,72.4148 423.197,72.4148 </string>
+					
+					<string>L423.197,72.6023 </string>
+					
+					<string>L421.228,72.6023 </string>
+					
+					<string>L421.228,72.4148 </string>
+					
+					<string>C421.468,72.4044 421.655,72.3106 421.791,72.1335 </string>
+					
+					<string>C421.926,71.9565 422.15,71.5033 422.463,70.7742 </string>
+					
+					<string>L424.541,65.8679 </string>
+					
+					<string>L424.744,65.8679 </string>
+					
+					<string>L427.228,71.5398 </string>
+					
+					<string>C427.385,71.9044 427.517,72.1388 427.627,72.2429 </string>
+					
+					<string>C427.736,72.3471 427.905,72.4044 428.135,72.4148 </string>
+					
+					<string>M423.228,70.0398 </string>
+					
+					<string>L425.541,70.0398 </string>
+					
+					<string>L424.385,67.2898 </string>
+					
+					<string>L423.228,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{06e16f19-ed61-4af2-93e3-9ca7c34717a9}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M406.155,68.3251 </string>
+					
+					<string>C406.155,68.523 406.119,68.7183 406.046,68.911 </string>
+					
+					<string>C405.973,69.1038 405.851,69.2965 405.679,69.4892 </string>
+					
+					<string>C405.507,69.6819 405.254,69.8355 404.921,69.9501 </string>
+					
+					<string>C404.588,70.0647 404.192,70.122 403.733,70.122 </string>
+					
+					<string>L400.405,70.122 </string>
+					
+					<string>L400.405,69.9345 </string>
+					
+					<string>C400.811,69.9241 401.072,69.8642 401.186,69.7548 </string>
+					
+					<string>C401.301,69.6454 401.358,69.4032 401.358,69.0282 </string>
+					
+					<string>L401.358,64.5907 </string>
+					
+					<string>C401.358,64.2261 401.304,63.9918 401.194,63.8876 </string>
+					
+					<string>C401.085,63.7834 400.822,63.7209 400.405,63.7001 </string>
+					
+					<string>L400.405,63.5126 </string>
+					
+					<string>L403.202,63.5126 </string>
+					
+					<string>C404.942,63.5126 405.811,64.0803 405.811,65.2157 </string>
+					
+					<string>C405.811,65.4345 405.772,65.6298 405.694,65.8017 </string>
+					
+					<string>C405.616,65.9735 405.535,66.1038 405.452,66.1923 </string>
+					
+					<string>C405.369,66.2808 405.241,66.3668 405.069,66.4501 </string>
+					
+					<string>C404.897,66.5334 404.788,66.5777 404.741,66.5829 </string>
+					
+					<string>C404.694,66.5881 404.598,66.6116 404.452,66.6532 </string>
+					
+					<string>C404.598,66.6949 404.71,66.7261 404.788,66.747 </string>
+					
+					<string>C404.866,66.7678 405.007,66.8225 405.21,66.911 </string>
+					
+					<string>C405.413,66.9996 405.572,67.0985 405.686,67.2079 </string>
+					
+					<string>C405.801,67.3173 405.908,67.4683 406.007,67.661 </string>
+					
+					<string>C406.106,67.8538 406.155,68.0751 406.155,68.3251 </string>
+					
+					<string>M403.015,69.747 </string>
+					
+					<string>C403.306,69.747 403.564,69.7261 403.788,69.6845 </string>
+					
+					<string>C404.012,69.6428 404.22,69.5751 404.413,69.4814 </string>
+					
+					<string>C404.606,69.3876 404.752,69.2444 404.851,69.0517 </string>
+					
+					<string>C404.95,68.859 404.999,68.6168 404.999,68.3251 </string>
+					
+					<string>C404.999,68.0543 404.95,67.8251 404.851,67.6376 </string>
+					
+					<string>C404.752,67.4501 404.627,67.3069 404.476,67.2079 </string>
+					
+					<string>C404.325,67.109 404.121,67.0308 403.866,66.9735 </string>
+					
+					<string>C403.611,66.9163 403.382,66.8824 403.179,66.872 </string>
+					
+					<string>C402.976,66.8616 402.707,66.8564 402.374,66.8564 </string>
+					
+					<string>L402.374,69.3407 </string>
+					
+					<string>C402.374,69.497 402.418,69.6038 402.507,69.661 </string>
+					
+					<string>C402.595,69.7183 402.765,69.747 403.015,69.747 </string>
+					
+					<string>M402.374,66.4814 </string>
+					
+					<string>L403.327,66.4814 </string>
+					
+					<string>C403.796,66.4814 404.158,66.3772 404.413,66.1689 </string>
+					
+					<string>C404.668,65.9605 404.796,65.6584 404.796,65.2626 </string>
+					
+					<string>C404.796,64.8147 404.645,64.4735 404.343,64.2392 </string>
+					
+					<string>C404.041,64.0048 403.603,63.8876 403.03,63.8876 </string>
+					
+					<string>L402.593,63.8876 </string>
+					
+					<string>C402.447,63.8876 402.374,63.9866 402.374,64.1845 </string>
+					
+					<string>L402.374,66.4814 </string>
+				</array>
+				<key>width</key>
+				<string>6.29688</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{e2f52e6c-1396-4141-a207-ef8efc6c44f3}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M379.77,42.0688 </string>
+					
+					<string>C379.77,41.0376 380.09,40.199 380.731,39.5532 </string>
+					
+					<string>C381.371,38.9074 382.166,38.5845 383.113,38.5845 </string>
+					
+					<string>C383.541,38.5845 383.942,38.6365 384.317,38.7407 </string>
+					
+					<string>C384.692,38.8449 384.91,38.897 384.973,38.897 </string>
+					
+					<string>C385.192,38.897 385.332,38.7928 385.395,38.5845 </string>
+					
+					<string>L385.598,38.5845 </string>
+					
+					<string>L385.692,40.8188 </string>
+					
+					<string>L385.457,40.8188 </string>
+					
+					<string>C385.093,39.5793 384.379,38.9595 383.317,38.9595 </string>
+					
+					<string>C382.587,38.9595 382.007,39.2303 381.574,39.772 </string>
+					
+					<string>C381.142,40.3136 380.926,41.0376 380.926,41.9438 </string>
+					
+					<string>C380.926,42.5168 381.001,43.0168 381.153,43.4438 </string>
+					
+					<string>C381.304,43.8709 381.507,44.1912 381.762,44.4048 </string>
+					
+					<string>C382.017,44.6183 382.278,44.7746 382.543,44.8735 </string>
+					
+					<string>C382.809,44.9725 383.098,45.022 383.41,45.022 </string>
+					
+					<string>C384.202,45.022 384.947,44.6834 385.645,44.0063 </string>
+					
+					<string>L385.817,44.1938 </string>
+					
+					<string>C385.515,44.6001 385.126,44.9126 384.653,45.1313 </string>
+					
+					<string>C384.179,45.3501 383.655,45.4595 383.082,45.4595 </string>
+					
+					<string>C382.103,45.4595 381.306,45.1496 380.692,44.5298 </string>
+					
+					<string>C380.077,43.91 379.77,43.0897 379.77,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{1ad4d45f-c035-48d4-a05c-2826450bc26c}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M365.447,39.4948 </string>
+					
+					<string>C365.447,39.7969 365.413,40.0911 365.345,40.3776 </string>
+					
+					<string>C365.277,40.664 365.155,40.9609 364.978,41.2682 </string>
+					
+					<string>C364.801,41.5755 364.572,41.8411 364.29,42.0651 </string>
+					
+					<string>C364.009,42.289 363.637,42.4739 363.173,42.6198 </string>
+					
+					<string>C362.71,42.7656 362.181,42.8385 361.587,42.8385 </string>
+					
+					<string>L358.759,42.8385 </string>
+					
+					<string>L358.759,42.651 </string>
+					
+					<string>C359.134,42.6198 359.374,42.5521 359.478,42.4479 </string>
+					
+					<string>C359.582,42.3437 359.634,42.1094 359.634,41.7448 </string>
+					
+					<string>L359.634,37.3073 </string>
+					
+					<string>C359.634,36.9427 359.585,36.7109 359.486,36.612 </string>
+					
+					<string>C359.387,36.513 359.145,36.4479 358.759,36.4166 </string>
+					
+					<string>L358.759,36.2291 </string>
+					
+					<string>L361.447,36.2291 </string>
+					
+					<string>C362.061,36.2291 362.606,36.2969 363.08,36.4323 </string>
+					
+					<string>C363.553,36.5677 363.936,36.7422 364.228,36.9557 </string>
+					
+					<string>C364.52,37.1692 364.762,37.4245 364.955,37.7213 </string>
+					
+					<string>C365.147,38.0182 365.277,38.3099 365.345,38.5963 </string>
+					
+					<string>C365.413,38.8828 365.447,39.1823 365.447,39.4948 </string>
+					
+					<string>M364.353,39.5729 </string>
+					
+					<string>C364.353,39.2812 364.324,39.0052 364.267,38.7448 </string>
+					
+					<string>C364.21,38.4844 364.108,38.2187 363.962,37.9479 </string>
+					
+					<string>C363.816,37.6771 363.626,37.4453 363.392,37.2526 </string>
+					
+					<string>C363.158,37.0599 362.85,36.9036 362.47,36.7838 </string>
+					
+					<string>C362.09,36.664 361.655,36.6041 361.165,36.6041 </string>
+					
+					<string>C360.968,36.6041 360.832,36.6302 360.759,36.6823 </string>
+					
+					<string>C360.686,36.7344 360.65,36.8385 360.65,36.9948 </string>
+					
+					<string>L360.65,42.0573 </string>
+					
+					<string>C360.65,42.2135 360.686,42.3203 360.759,42.3776 </string>
+					
+					<string>C360.832,42.4349 360.968,42.4635 361.165,42.4635 </string>
+					
+					<string>C363.29,42.4635 364.353,41.5 364.353,39.5729</string>
+				</array>
+				<key>width</key>
+				<string>7.1875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{598d5cbb-4094-4009-9cc8-fe496baca975}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M333.478,42.0688 </string>
+					
+					<string>C333.478,41.0376 333.798,40.199 334.439,39.5532 </string>
+					
+					<string>C335.079,38.9074 335.874,38.5845 336.821,38.5845 </string>
+					
+					<string>C337.249,38.5845 337.65,38.6365 338.025,38.7407 </string>
+					
+					<string>C338.4,38.8449 338.618,38.897 338.681,38.897 </string>
+					
+					<string>C338.9,38.897 339.04,38.7928 339.103,38.5845 </string>
+					
+					<string>L339.306,38.5845 </string>
+					
+					<string>L339.4,40.8188 </string>
+					
+					<string>L339.165,40.8188 </string>
+					
+					<string>C338.801,39.5793 338.087,38.9595 337.025,38.9595 </string>
+					
+					<string>C336.295,38.9595 335.715,39.2303 335.282,39.772 </string>
+					
+					<string>C334.85,40.3136 334.634,41.0376 334.634,41.9438 </string>
+					
+					<string>C334.634,42.5168 334.71,43.0168 334.861,43.4438 </string>
+					
+					<string>C335.012,43.8709 335.215,44.1912 335.47,44.4048 </string>
+					
+					<string>C335.725,44.6183 335.986,44.7746 336.251,44.8735 </string>
+					
+					<string>C336.517,44.9725 336.806,45.022 337.118,45.022 </string>
+					
+					<string>C337.91,45.022 338.655,44.6834 339.353,44.0063 </string>
+					
+					<string>L339.525,44.1938 </string>
+					
+					<string>C339.223,44.6001 338.835,44.9126 338.361,45.1313 </string>
+					
+					<string>C337.887,45.3501 337.363,45.4595 336.79,45.4595 </string>
+					
+					<string>C335.811,45.4595 335.014,45.1496 334.4,44.5298 </string>
+					
+					<string>C333.785,43.91 333.478,43.0897 333.478,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{e0927397-2eb2-4391-b773-312f37c4a717}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M319.49,72.4148 </string>
+					
+					<string>L319.49,72.6023 </string>
+					
+					<string>L316.927,72.6023 </string>
+					
+					<string>L316.927,72.4148 </string>
+					
+					<string>C317.198,72.4044 317.383,72.3757 317.482,72.3289 </string>
+					
+					<string>C317.581,72.282 317.63,72.196 317.63,72.071 </string>
+					
+					<string>C317.63,71.9148 317.568,71.696 317.443,71.4148 </string>
+					
+					<string>L317.037,70.4773 </string>
+					
+					<string>L314.412,70.4773 </string>
+					
+					<string>L313.958,71.6179 </string>
+					
+					<string>C313.906,71.7638 313.88,71.894 313.88,72.0085 </string>
+					
+					<string>C313.88,72.2794 314.104,72.4148 314.552,72.4148 </string>
+					
+					<string>L314.552,72.6023 </string>
+					
+					<string>L312.583,72.6023 </string>
+					
+					<string>L312.583,72.4148 </string>
+					
+					<string>C312.823,72.4044 313.011,72.3106 313.146,72.1335 </string>
+					
+					<string>C313.281,71.9565 313.505,71.5033 313.818,70.7742 </string>
+					
+					<string>L315.896,65.8679 </string>
+					
+					<string>L316.099,65.8679 </string>
+					
+					<string>L318.583,71.5398 </string>
+					
+					<string>C318.74,71.9044 318.873,72.1388 318.982,72.2429 </string>
+					
+					<string>C319.091,72.3471 319.261,72.4044 319.49,72.4148 </string>
+					
+					<string>M314.583,70.0398 </string>
+					
+					<string>L316.896,70.0398 </string>
+					
+					<string>L315.74,67.2898 </string>
+					
+					<string>L314.583,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{66235175-c961-481d-b5ba-8415a9c1d5c1}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M298.783,72.4148 </string>
+					
+					<string>L298.783,72.6023 </string>
+					
+					<string>L296.22,72.6023 </string>
+					
+					<string>L296.22,72.4148 </string>
+					
+					<string>C296.491,72.4044 296.676,72.3757 296.775,72.3289 </string>
+					
+					<string>C296.874,72.282 296.924,72.196 296.924,72.071 </string>
+					
+					<string>C296.924,71.9148 296.861,71.696 296.736,71.4148 </string>
+					
+					<string>L296.33,70.4773 </string>
+					
+					<string>L293.705,70.4773 </string>
+					
+					<string>L293.252,71.6179 </string>
+					
+					<string>C293.2,71.7638 293.174,71.894 293.174,72.0085 </string>
+					
+					<string>C293.174,72.2794 293.398,72.4148 293.845,72.4148 </string>
+					
+					<string>L293.845,72.6023 </string>
+					
+					<string>L291.877,72.6023 </string>
+					
+					<string>L291.877,72.4148 </string>
+					
+					<string>C292.116,72.4044 292.304,72.3106 292.439,72.1335 </string>
+					
+					<string>C292.575,71.9565 292.799,71.5033 293.111,70.7742 </string>
+					
+					<string>L295.189,65.8679 </string>
+					
+					<string>L295.392,65.8679 </string>
+					
+					<string>L297.877,71.5398 </string>
+					
+					<string>C298.033,71.9044 298.166,72.1388 298.275,72.2429 </string>
+					
+					<string>C298.385,72.3471 298.554,72.4044 298.783,72.4148 </string>
+					
+					<string>M293.877,70.0398 </string>
+					
+					<string>L296.189,70.0398 </string>
+					
+					<string>L295.033,67.2898 </string>
+					
+					<string>L293.877,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{29d19f5d-0a50-47cc-a774-7c14c1c57665}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M271.357,42.0688 </string>
+					
+					<string>C271.357,41.0376 271.678,40.199 272.318,39.5532 </string>
+					
+					<string>C272.959,38.9074 273.753,38.5845 274.701,38.5845 </string>
+					
+					<string>C275.128,38.5845 275.529,38.6365 275.904,38.7407 </string>
+					
+					<string>C276.279,38.8449 276.498,38.897 276.561,38.897 </string>
+					
+					<string>C276.779,38.897 276.92,38.7928 276.982,38.5845 </string>
+					
+					<string>L277.186,38.5845 </string>
+					
+					<string>L277.279,40.8188 </string>
+					
+					<string>L277.045,40.8188 </string>
+					
+					<string>C276.68,39.5793 275.967,38.9595 274.904,38.9595 </string>
+					
+					<string>C274.175,38.9595 273.594,39.2303 273.162,39.772 </string>
+					
+					<string>C272.73,40.3136 272.514,41.0376 272.514,41.9438 </string>
+					
+					<string>C272.514,42.5168 272.589,43.0168 272.74,43.4438 </string>
+					
+					<string>C272.891,43.8709 273.094,44.1912 273.35,44.4048 </string>
+					
+					<string>C273.605,44.6183 273.865,44.7746 274.131,44.8735 </string>
+					
+					<string>C274.397,44.9725 274.686,45.022 274.998,45.022 </string>
+					
+					<string>C275.79,45.022 276.535,44.6834 277.232,44.0063 </string>
+					
+					<string>L277.404,44.1938 </string>
+					
+					<string>C277.102,44.6001 276.714,44.9126 276.24,45.1313 </string>
+					
+					<string>C275.766,45.3501 275.243,45.4595 274.67,45.4595 </string>
+					
+					<string>C273.691,45.4595 272.894,45.1496 272.279,44.5298 </string>
+					
+					<string>C271.665,43.91 271.357,43.0897 271.357,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{52a5e9bd-7837-4ba1-b0a3-7443c36630da}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M245.423,42.0688 </string>
+					
+					<string>C245.423,41.0376 245.744,40.199 246.384,39.5532 </string>
+					
+					<string>C247.025,38.9074 247.819,38.5845 248.767,38.5845 </string>
+					
+					<string>C249.194,38.5845 249.595,38.6365 249.97,38.7407 </string>
+					
+					<string>C250.345,38.8449 250.564,38.897 250.627,38.897 </string>
+					
+					<string>C250.845,38.897 250.986,38.7928 251.048,38.5845 </string>
+					
+					<string>L251.252,38.5845 </string>
+					
+					<string>L251.345,40.8188 </string>
+					
+					<string>L251.111,40.8188 </string>
+					
+					<string>C250.746,39.5793 250.033,38.9595 248.97,38.9595 </string>
+					
+					<string>C248.241,38.9595 247.66,39.2303 247.228,39.772 </string>
+					
+					<string>C246.796,40.3136 246.58,41.0376 246.58,41.9438 </string>
+					
+					<string>C246.58,42.5168 246.655,43.0168 246.806,43.4438 </string>
+					
+					<string>C246.957,43.8709 247.16,44.1912 247.416,44.4048 </string>
+					
+					<string>C247.671,44.6183 247.931,44.7746 248.197,44.8735 </string>
+					
+					<string>C248.463,44.9725 248.752,45.022 249.064,45.022 </string>
+					
+					<string>C249.856,45.022 250.601,44.6834 251.298,44.0063 </string>
+					
+					<string>L251.47,44.1938 </string>
+					
+					<string>C251.168,44.6001 250.78,44.9126 250.306,45.1313 </string>
+					
+					<string>C249.832,45.3501 249.309,45.4595 248.736,45.4595 </string>
+					
+					<string>C247.757,45.4595 246.96,45.1496 246.345,44.5298 </string>
+					
+					<string>C245.731,43.91 245.423,43.0897 245.423,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8742fea3-7fa1-4fa8-8fb2-2dcf4c9f11bf}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M231.435,72.4148 </string>
+					
+					<string>L231.435,72.6023 </string>
+					
+					<string>L228.873,72.6023 </string>
+					
+					<string>L228.873,72.4148 </string>
+					
+					<string>C229.144,72.4044 229.329,72.3757 229.428,72.3289 </string>
+					
+					<string>C229.527,72.282 229.576,72.196 229.576,72.071 </string>
+					
+					<string>C229.576,71.9148 229.514,71.696 229.389,71.4148 </string>
+					
+					<string>L228.982,70.4773 </string>
+					
+					<string>L226.357,70.4773 </string>
+					
+					<string>L225.904,71.6179 </string>
+					
+					<string>C225.852,71.7638 225.826,71.894 225.826,72.0085 </string>
+					
+					<string>C225.826,72.2794 226.05,72.4148 226.498,72.4148 </string>
+					
+					<string>L226.498,72.6023 </string>
+					
+					<string>L224.529,72.6023 </string>
+					
+					<string>L224.529,72.4148 </string>
+					
+					<string>C224.769,72.4044 224.956,72.3106 225.092,72.1335 </string>
+					
+					<string>C225.227,71.9565 225.451,71.5033 225.764,70.7742 </string>
+					
+					<string>L227.842,65.8679 </string>
+					
+					<string>L228.045,65.8679 </string>
+					
+					<string>L230.529,71.5398 </string>
+					
+					<string>C230.685,71.9044 230.818,72.1388 230.928,72.2429 </string>
+					
+					<string>C231.037,72.3471 231.206,72.4044 231.435,72.4148 </string>
+					
+					<string>M226.529,70.0398 </string>
+					
+					<string>L228.842,70.0398 </string>
+					
+					<string>L227.685,67.2898 </string>
+					
+					<string>L226.529,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a7205cc2-de8f-4e89-bd03-7bacd65706c0}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>d</key>
+				<array>
+					
+					<string>M210.729,72.4148 </string>
+					
+					<string>L210.729,72.6023 </string>
+					
+					<string>L208.166,72.6023 </string>
+					
+					<string>L208.166,72.4148 </string>
+					
+					<string>C208.437,72.4044 208.622,72.3757 208.721,72.3289 </string>
+					
+					<string>C208.82,72.282 208.869,72.196 208.869,72.071 </string>
+					
+					<string>C208.869,71.9148 208.807,71.696 208.682,71.4148 </string>
+					
+					<string>L208.276,70.4773 </string>
+					
+					<string>L205.651,70.4773 </string>
+					
+					<string>L205.197,71.6179 </string>
+					
+					<string>C205.145,71.7638 205.119,71.894 205.119,72.0085 </string>
+					
+					<string>C205.119,72.2794 205.343,72.4148 205.791,72.4148 </string>
+					
+					<string>L205.791,72.6023 </string>
+					
+					<string>L203.822,72.6023 </string>
+					
+					<string>L203.822,72.4148 </string>
+					
+					<string>C204.062,72.4044 204.25,72.3106 204.385,72.1335 </string>
+					
+					<string>C204.52,71.9565 204.744,71.5033 205.057,70.7742 </string>
+					
+					<string>L207.135,65.8679 </string>
+					
+					<string>L207.338,65.8679 </string>
+					
+					<string>L209.822,71.5398 </string>
+					
+					<string>C209.979,71.9044 210.112,72.1388 210.221,72.2429 </string>
+					
+					<string>C210.33,72.3471 210.5,72.4044 210.729,72.4148 </string>
+					
+					<string>M205.822,70.0398 </string>
+					
+					<string>L208.135,70.0398 </string>
+					
+					<string>L206.979,67.2898 </string>
+					
+					<string>L205.822,70.0398 </string>
+				</array>
+				<key>width</key>
+				<string>7.20312</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{566b106a-bf72-43a7-9082-64dedb3282c7}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>d</key>
+				<array>
+					
+					<string>M183.303,42.0688 </string>
+					
+					<string>C183.303,41.0376 183.624,40.199 184.264,39.5532 </string>
+					
+					<string>C184.905,38.9074 185.699,38.5845 186.647,38.5845 </string>
+					
+					<string>C187.074,38.5845 187.475,38.6365 187.85,38.7407 </string>
+					
+					<string>C188.225,38.8449 188.444,38.897 188.506,38.897 </string>
+					
+					<string>C188.725,38.897 188.866,38.7928 188.928,38.5845 </string>
+					
+					<string>L189.131,38.5845 </string>
+					
+					<string>L189.225,40.8188 </string>
+					
+					<string>L188.991,40.8188 </string>
+					
+					<string>C188.626,39.5793 187.913,38.9595 186.85,38.9595 </string>
+					
+					<string>C186.121,38.9595 185.54,39.2303 185.108,39.772 </string>
+					
+					<string>C184.676,40.3136 184.459,41.0376 184.459,41.9438 </string>
+					
+					<string>C184.459,42.5168 184.535,43.0168 184.686,43.4438 </string>
+					
+					<string>C184.837,43.8709 185.04,44.1912 185.295,44.4048 </string>
+					
+					<string>C185.551,44.6183 185.811,44.7746 186.077,44.8735 </string>
+					
+					<string>C186.342,44.9725 186.631,45.022 186.944,45.022 </string>
+					
+					<string>C187.735,45.022 188.48,44.6834 189.178,44.0063 </string>
+					
+					<string>L189.35,44.1938 </string>
+					
+					<string>C189.048,44.6001 188.66,44.9126 188.186,45.1313 </string>
+					
+					<string>C187.712,45.3501 187.189,45.4595 186.616,45.4595 </string>
+					
+					<string>C185.637,45.4595 184.84,45.1496 184.225,44.5298 </string>
+					
+					<string>C183.61,43.91 183.303,43.0897 183.303,42.0688</string>
+				</array>
+				<key>width</key>
+				<string>6.6875</string>
+				<key>height</key>
+				<string>11</string>
+			</dict>
+		</array>
+	</dict>
+	<key>stafflines</key>
+	<array>
+	</array>
+	<key>polyline</key>
+	<dict>
+		<key>BarLine</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{7d95d8cf-9937-4191-9bba-46a73cd5a8b3}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>978.618,68.4448 978.618,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{e444cb16-6aa1-44bd-93ca-1d737b28546e}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>978.618,16.3582 978.618,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{87fd2178-731b-4c66-bc2c-dcb398ece9d7}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>890.563,68.4448 890.563,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7ce9c179-52e0-4de5-8e0f-b23ebd98414b}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>890.563,16.3582 890.563,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d41f3b8b-7191-43b9-9f47-97a451e239fe}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>802.509,68.4448 802.509,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{cd1aae51-7603-4fdc-9944-43ac8b436fb8}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>802.509,16.3582 802.509,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{89c33c91-ee37-465c-84a9-2776c8a3aa44}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>714.455,68.4448 714.455,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{801e09e0-1d97-4637-b390-90ec6a4dde36}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>714.455,16.3582 714.455,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{88938f4e-4c5b-49ea-9e63-4e981b6c2f12}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>626.4,68.4448 626.4,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{031c750a-53be-4e91-89a2-89fd6bbed371}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>626.4,16.3582 626.4,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{309b8564-8ad6-4715-a85c-e2c6751e9deb}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>538.346,68.4448 538.346,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{e80be6b7-bc65-44ad-a176-7f7b65701b50}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>538.346,16.3582 538.346,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{63e92e7f-b335-4704-a97c-22585797c5cd}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>450.292,68.4448 450.292,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{4d593e49-fb0e-4c62-a537-8849d93ccdf2}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>450.292,16.3582 450.292,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{fe858ff5-1430-42a8-9c4e-56fc2e20c2af}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>362.238,68.4448 362.238,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a5e6867e-549d-4aab-b867-4eba2d043fc1}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>362.238,16.3582 362.238,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7adec9c0-9daa-421d-8d51-1ee89ef61bfc}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>274.183,68.4448 274.183,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f445af92-21fd-4cd0-b4dc-59420c22707f}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>274.183,16.3582 274.183,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0900cd14-16a6-4039-b126-46865d645243}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>186.129,68.4448 186.129,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a605ba44-9c78-426c-b8c6-d9e2d2427118}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>186.129,16.3582 186.129,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{bf2f593c-f936-4ce1-94df-7537c6445f87}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>98.0748,68.4448 98.0748,88.2873</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{ace76b53-b3cf-4a98-b509-64a6fab5f7f9}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>98.0748,16.3582 98.0748,36.2007</string>
+				<key>width</key>
+				<string>0.793701</string>
+				<key>height</key>
+				<string>19.8425</string>
+			</dict>
+		</array>
+		<key>Stem</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{27643e8e-eee6-4315-b6e9-bb18d445e961}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>853.291,74.1833 853.291,90.1476</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>16.6092</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{16f635f4-be94-4030-bc87-a9969b7a19fd}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>830.333,71.8568 830.333,88.2873</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{27132d1c-9a3f-4928-86c8-eb6e5b460b37}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>807.197,69.3765 807.197,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c7ef37c7-6637-442b-b51f-3d3502a7a34a}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>781.728,66.8962 781.728,83.3267</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{842bb4d3-e1ab-416f-b368-017333e7cb4f}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>761.021,71.8568 761.021,88.2873</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{94955cb6-fcd2-410a-9d60-29dc2931cffa}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>740.314,71.8568 740.314,88.2873</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d1bb1bfa-8fb4-42ab-8cc0-fc28d8f17365}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>725.494,40.2297 725.494,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{b556912e-5504-40d7-9872-14294febaa9f}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>699.56,40.2297 699.56,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7ced1632-ff80-4706-8252-c062d0bab067}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>672.967,69.3765 672.967,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0010efd6-e4c1-4aa3-9fac-9c04a909e3d3}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>652.26,69.3765 652.26,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8d88fd30-7638-4c5e-b002-140727af0e59}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>637.439,40.2297 637.439,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{883b90e6-f886-47f0-8dab-1c5485e6ea25}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>611.505,40.2297 611.505,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c5199bf4-efbe-46ce-aacf-e510ceeb41a8}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>584.913,69.3765 584.913,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{10f12caf-bd00-44f6-9828-6c486aaa6da2}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>564.206,69.3765 564.206,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{cc982414-3232-445f-8686-e94372a499ce}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>549.385,40.2297 549.385,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8f177d73-0595-4184-a748-bde849db0d0b}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>501.074,66.7423 501.074,83.3267</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.2293</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{a88be59c-2502-4646-955a-81db67943fb2}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>478.116,69.3765 478.116,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d4f299ac-848c-4204-9705-9adc2601e1ae}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>454.98,71.8568 454.98,88.2873</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{2139cf01-dca7-4389-954c-98f635fda685}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>429.394,69.3765 429.394,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{f22f76f2-badb-4832-b2f4-5452f3f36ee7}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>408.571,66.8962 408.571,83.3267</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{604597be-93e5-4e28-aba8-3d43b5654016}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>393.635,40.2297 393.635,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{58525d4d-36de-4c4d-9fe7-96bcebd0aafb}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>372.811,37.7494 372.811,21.3188</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{8e2dd74c-5916-4c32-a901-c999f82308c1}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>347.343,40.2297 347.343,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d38b8c60-ce5a-486f-83b1-9b9432beb5d8}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>320.75,69.3765 320.75,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7bddcb67-25bf-4904-8192-3b2e57f08c09}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>300.043,69.3765 300.043,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{d18c7b96-954b-448b-8288-7bc137d5a8b5}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>285.222,40.2297 285.222,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{1f87e761-7d44-44e0-9a0b-335034aea7c9}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>259.288,40.2297 259.288,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{02f1ffbe-39cf-43bf-8fda-abce586315a3}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>232.695,69.3765 232.695,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{9c288d39-e8da-4574-8a61-b36ffa5d61f5}</string>
+				<key>idx</key>
+				<string>2</string>
+				<key>points</key>
+				<string>211.989,69.3765 211.989,85.807</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{dceea1c3-a4c0-4021-a57f-0c207d88b707}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>197.168,40.2297 197.168,23.7991</string>
+				<key>width</key>
+				<string>0.644882</string>
+				<key>height</key>
+				<string>17.0754</string>
+			</dict>
+		</array>
+		<key>LedgerLine</key>
+		<array>
+			
+			<dict>
+				<key>id</key>
+				<string>{aad219f8-2b38-4575-99ab-25cca2c120e6}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>717.797,41.1614 727.304,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{5db47253-b65b-46ac-9da5-a2302832036a}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>691.863,41.1614 701.37,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{b06fb7c6-be30-401c-89c1-730abbe56f8c}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>629.743,41.1614 639.25,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{0561f2a3-f708-4f6d-b4e9-539b919431f4}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>603.809,41.1614 613.316,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{294d8247-4111-48f2-b288-382027986c9a}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>541.688,41.1614 551.196,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{4bc6a25e-a8c7-4889-a265-0ec728ca2887}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>385.938,41.1614 395.445,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{3e15c2e8-4281-4f5a-87ec-063670a83fc9}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>339.646,41.1614 349.153,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{7f582150-7a05-4dcf-9c37-0db0ac4aece2}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>277.526,41.1614 287.033,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{57b2219d-d6ae-4396-8188-d480c9f29e5b}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>251.592,41.1614 261.099,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+			
+			<dict>
+				<key>id</key>
+				<string>{c914b392-26bf-4a45-91c6-59888b9ea998}</string>
+				<key>idx</key>
+				<string>1</string>
+				<key>points</key>
+				<string>189.471,41.1614 198.979,41.1614</string>
+				<key>width</key>
+				<string>10.3011</string>
+				<key>height</key>
+				<string>0.793701</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
