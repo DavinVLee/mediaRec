@@ -21,7 +21,7 @@
 			<string>96</string>
 		</dict>
 		<key>mwidth</key>
-		<string>87.3597</string>
+		<string>82.3009</string>
 		<key>keysig</key>
 		<string>-2</string>
 	</dict>
@@ -5502,6 +5502,42 @@
 			<key>hand</key>
 			<string>2</string>
 		</dict>
+		<key>{0c8fd44a-9cf4-478e-b314-9f95b4b9a460}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.25</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+		</dict>
+		<key>{1272c070-da22-4716-8910-8729043d155f}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.25</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{f24b584b-a520-4e6d-8852-19da3ecb4348}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.25</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+		</dict>
+		<key>{4146e068-c981-4be5-ac9f-9b39639bcbf7}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.25</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
 	</dict>
 	<key>events</key>
 	<dict>
@@ -7644,11 +7680,47 @@
 		<key>112</key>
 		<dict>
 			<key>elid</key>
-			<string>-2</string>
+			<string>112</string>
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
 			<string>70000</string>
+			<key>identifys</key>
+			<array>
+				
+				<string>rest_{0c8fd44a-9cf4-478e-b314-9f95b4b9a460}</string>
+				
+				<string>rest_{1272c070-da22-4716-8910-8729043d155f}</string>
+			</array>
+			<key>mduration</key>
+			<integer>0</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>elid</key>
+			<string>113</string>
+			<key>sysno</key>
+			<string>4</string>
+			<key>position</key>
+			<string>71250</string>
+			<key>identifys</key>
+			<array>
+				
+				<string>rest_{f24b584b-a520-4e6d-8852-19da3ecb4348}</string>
+				
+				<string>rest_{4146e068-c981-4be5-ac9f-9b39639bcbf7}</string>
+			</array>
+			<key>mduration</key>
+			<integer>0</integer>
+		</dict>
+		<key>114</key>
+		<dict>
+			<key>elid</key>
+			<string>-2</string>
+			<key>sysno</key>
+			<string>4</string>
+			<key>position</key>
+			<string>72500</string>
 			<key>identifys</key>
 			<array>
 			</array>
@@ -8214,6 +8286,26 @@
 			<string>3</string>
 		</dict>
 		<key>69375</key>
+		<dict>
+			<key>type</key>
+			<string>4</string>
+		</dict>
+		<key>70000</key>
+		<dict>
+			<key>type</key>
+			<string>3</string>
+		</dict>
+		<key>70625</key>
+		<dict>
+			<key>type</key>
+			<string>4</string>
+		</dict>
+		<key>71250</key>
+		<dict>
+			<key>type</key>
+			<string>3</string>
+		</dict>
+		<key>71875</key>
 		<dict>
 			<key>type</key>
 			<string>4</string>
