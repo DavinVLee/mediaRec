@@ -594,7 +594,7 @@
 			<key>type</key>
 			<string>whole</string>
 			<key>duration</key>
-			<string>13.5</string>
+			<string>2</string>
 			<key>dynamics</key>
 			<string>70.0</string>
 			<key>step</key>
@@ -947,6 +947,29 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+		</dict>
+		<key>{079433ba-641c-4902-9fc2-b4433744693f}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>B</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>alter</key>
+			<string>-1</string>
 		</dict>
 		<key>{3b01fd2b-6998-463a-86aa-1404955c700d}</key>
 		<dict>
@@ -1836,7 +1859,7 @@
 			<key>position</key>
 			<string>24000</string>
 			<key>notes</key>
-			<string>{a0898dc1-6627-4924-9cdd-9ad471af356e} {3b01fd2b-6998-463a-86aa-1404955c700d}</string>
+			<string>{a0898dc1-6627-4924-9cdd-9ad471af356e} {079433ba-641c-4902-9fc2-b4433744693f} {3b01fd2b-6998-463a-86aa-1404955c700d}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>

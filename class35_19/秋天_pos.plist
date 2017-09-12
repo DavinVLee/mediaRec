@@ -21,18 +21,18 @@
 			<string>90</string>
 		</dict>
 		<key>mwidth</key>
-		<string>146.364</string>
+		<string>150.159</string>
 		<key>keysig</key>
 		<string>2</string>
 	</dict>
 	<key>notes</key>
 	<dict>
-		<key>{79d41661-86e6-4de2-8610-77a24e71acf8}</key>
+		<key>{a8fc9e6e-d8de-4af0-94da-a2f93c45e00a}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
 			<key>duration</key>
-			<string>0.5</string>
+			<string>0.666667</string>
 			<key>dynamics</key>
 			<string>70.0</string>
 			<key>step</key>
@@ -46,1306 +46,190 @@
 			<key>isgrace</key>
 			<string>0</string>
 			<key>step_id</key>
-			<string>{66aea84c-d354-42c4-9bf0-e265fe84b3f2}</string>
+			<string>{fb394e05-35b4-4e8b-a9e2-15e9c2ac7a3f}</string>
 		</dict>
-		<key>{a360f4a3-af0d-48db-8741-d1e886e26b10}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{e2eb0f9b-bc94-492f-961e-e4e9f746f9bd}</string>
-		</dict>
-		<key>{5e63d8ae-e244-4837-aba1-458148a06a70}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>B</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{ac348040-2300-401f-803e-9fd86213bb11}</string>
-		</dict>
-		<key>{885def81-3f17-4dec-a622-39336ec09a90}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{dd0c20c0-afbb-4774-9efe-4cb525101ec8}</string>
-		</dict>
-		<key>{1a8e5e51-64cc-4ba1-bc4c-c958eb465c80}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{ebc83048-5397-4e9e-bb2c-a1d2a9adbc31}</string>
-		</dict>
-		<key>{fecef063-0467-43b9-a777-ec3b28019e2d}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{a5f47d1e-ad4e-42a8-8983-3fad7f95d4a9}</string>
-		</dict>
-		<key>{0e34cfa5-3124-4f4c-ae32-20b877ac8e10}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{a2325c06-dbc1-4227-ab05-0ceae841e118}</string>
-		</dict>
-		<key>{abf40860-72e0-47d6-8a1e-cfe9bd0e6e82}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{6f85fe0c-9241-43c0-8262-ab2aa83581e9}</string>
-		</dict>
-		<key>{bbe8827a-eb8a-4344-8c5c-937824b82269}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{76b66934-266d-4e17-aa48-662df72f3457}</string>
-		</dict>
-		<key>{c8cd1e2c-b3bc-4fdd-9bdc-8cde1b0419c5}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{9e92a8d2-f309-41d9-9e06-902294ef2c2e}</string>
-		</dict>
-		<key>{90956186-288d-4dea-80e0-83dcac00543b}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{fb4f0e30-8d66-4866-92d7-65baeeecb60c}</string>
-		</dict>
-		<key>{b2cf3adc-12a9-44b9-8a7c-65a0cc998557}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{d1854b42-6cf6-4152-a700-15a603c43c5c}</string>
-		</dict>
-		<key>{1ff0bdcf-e941-48c8-97b1-5aa104297422}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{c8956d68-730e-4630-a1d4-6d1af96ed4cd}</string>
-		</dict>
-		<key>{bc95eedd-e807-4c92-8cf3-a73328fd3308}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{46df833b-3933-4f45-ada8-b16123fb5ea5}</string>
-		</dict>
-		<key>{954a4721-be89-4707-b54f-b21d94ec8012}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{e44b4002-a2f6-4d22-bc80-b04622553763}</string>
-		</dict>
-		<key>{e8424c4e-77be-4814-ade2-1cff659fc066}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{c9e3f85b-c2de-491b-867d-1e1be4b50e42}</string>
-		</dict>
-		<key>{76efc285-cc1b-4887-86b7-a2287d742b76}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{ec1e006d-8f0f-4abf-8b5e-1f8ce65830f9}</string>
-		</dict>
-		<key>{09f968b8-eb94-4ecf-b117-af77a5b78178}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{d8338de0-3b0a-4571-ac63-2a33981d2fcb}</string>
-		</dict>
-		<key>{3a28a8af-7491-4802-a2ce-87d96c630d3c}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{452ff00a-85b9-4132-b610-c91fcaacd779}</string>
-		</dict>
-		<key>{27e344f6-4931-4da3-bce4-5c2c7b836bd2}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{4ee42174-b1c1-4c94-a6ae-8d3638daeb05}</string>
-		</dict>
-		<key>{7651d078-6b62-4c6e-a57c-74d8ea7be7b4}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{9e833b94-a08c-449e-b275-58dcf5725796}</string>
-		</dict>
-		<key>{6e003fb3-d581-4acc-b3c9-bf49b727acdb}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{d33f3aed-6394-4fd8-9cbd-3928b89e302d}</string>
-		</dict>
-		<key>{14fa8345-1f5c-4843-bf84-4ca2c1912672}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>B</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{81133ac7-e196-4a8d-82f6-879a95e767b3}</string>
-		</dict>
-		<key>{2760afbd-5b52-4888-b674-ffd273eeb341}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{96b01ec0-0991-4f4d-93fb-47269dfca3ad}</string>
-		</dict>
-		<key>{ee6fcc98-808b-4c31-bde5-0f299d1c60e8}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{1c649bc1-b05c-44ab-9578-13740e603f2d}</string>
-		</dict>
-		<key>{ff40618c-0567-4b28-ac61-6d495a5d0e83}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{fd4d6e4d-fc21-42d1-af42-0e91fa650ea8}</string>
-		</dict>
-		<key>{a16aff00-f760-4a5a-8860-6d4be9c7d98e}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{6702c392-5ba3-42ca-ae04-3c85c023ba5b}</string>
-		</dict>
-		<key>{58e0b238-07f5-4fdb-b469-98825b513df6}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{b4fb6ff9-64fa-4108-8a15-5fc2b2fcef24}</string>
-		</dict>
-		<key>{2674340f-462c-4d54-bcf1-d3ce2ea174dc}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{5e1b1a8f-2373-452e-adfe-f6af942973fa}</string>
-		</dict>
-		<key>{a194a14d-15f0-4137-9dfc-244b4bbd9094}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{8cb1a397-468b-476a-9301-df6f82ed544c}</string>
-		</dict>
-		<key>{20ce8c85-66db-4126-b611-fc1dc222659d}</key>
+		<key>{9ec39001-a412-4c1c-83d4-01e4e1807ec9}</key>
 		<dict>
 			<key>type</key>
 			<string>half</string>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
 			<key>dynamics</key>
 			<string>70.0</string>
 			<key>step</key>
 			<string>D</string>
 			<key>octave</key>
-			<string>4</string>
+			<string>3</string>
 			<key>staff</key>
-			<string>1</string>
+			<string>2</string>
 			<key>hand</key>
-			<string>1</string>
+			<string>2</string>
 			<key>isgrace</key>
 			<string>0</string>
 			<key>step_id</key>
-			<string>{5de10bf8-c2fd-477c-bcca-e372de8c6d49}</string>
+			<string>{74ee1182-99fb-4e0b-b788-d6c4087f2dbf}</string>
 		</dict>
-		<key>{ed819af3-c35d-4162-bdfc-833ecd53fecf}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{9f0b09db-5a00-476c-8ced-68014273a67c}</string>
-		</dict>
-		<key>{109d27fd-fdf5-4800-bf89-293ffb825fed}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{5c30f791-82cb-4d03-9928-38ce83a3614c}</string>
-		</dict>
-		<key>{4c69c664-c8ef-40f4-bcfe-c68f776d4dd9}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>B</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{5b97d1bb-49ef-47ff-881f-a9fa1d6db9ea}</string>
-		</dict>
-		<key>{986f4f73-da45-49e0-a94e-20c77f953f28}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{fe925a31-f03c-40e1-9b7a-c48915279bf8}</string>
-		</dict>
-		<key>{22bcdbb9-8ec0-4270-a3b6-6e07136e3a4b}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{2eb3ac1d-98a4-4583-822f-334cd47ee62f}</string>
-		</dict>
-		<key>{d90173a8-a417-4477-afb8-5bb85f500276}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{83c4da52-b5ea-4452-8894-5ab6a8384053}</string>
-		</dict>
-		<key>{edeca5c6-ccfa-4fa3-b4cc-b6befcb53cfd}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{57bfc3be-f2de-465d-8ead-8c6ef70b259b}</string>
-		</dict>
-		<key>{4748ce75-db69-438b-b043-f793e67037e4}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{02ec7b09-5ae9-49fe-b3a7-1cd30c1739f6}</string>
-		</dict>
-		<key>{d3e9d447-88b0-405f-9ca1-b02148ce3ef8}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{738ade4a-7ee0-4ca9-af77-163de03fc478}</string>
-		</dict>
-		<key>{737bd9a2-fe83-4395-8b1b-e28f9af7628f}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{ba13cf85-d488-474e-ac41-7220c754e997}</string>
-		</dict>
-		<key>{ce9e23f2-14fd-44b4-afe5-133b9405f611}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{6ef058d5-f1aa-4917-96c4-77580419f2e3}</string>
-		</dict>
-		<key>{f467dc78-f69d-42cc-8256-cec969af5b8a}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{e1bfbb64-3744-498f-b9b3-08349906970f}</string>
-		</dict>
-		<key>{240a1da8-cfb9-4d21-acd9-e892efa4c767}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{21e0b1c8-5e48-4c1f-bcda-2493eeeb3fd1}</string>
-		</dict>
-		<key>{a91a1dd7-e460-48c0-929e-e6dc8f80a66c}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{2ad4d254-6758-4182-8c30-5d011f4e99ca}</string>
-		</dict>
-		<key>{a2935e60-1d5f-421c-a934-ba097c85cfde}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{c2900fc6-dde5-4b61-a4b3-b929e8bbc1d4}</string>
-		</dict>
-		<key>{bff460dc-8304-41d4-9b88-f5f6d0fb9d2f}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{0154001e-7418-40b6-8cc5-ab1a39489532}</string>
-		</dict>
-		<key>{1fc96c58-7af0-4593-897c-3e38f98692fe}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{c0fe03e5-84f5-4c11-a8cc-b162f2a2491d}</string>
-		</dict>
-		<key>{55f955fe-95da-4158-b5e1-49856ae2a5aa}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{73ffba8c-c5e0-4e29-84da-971acf4adc00}</string>
-		</dict>
-		<key>{08e280e7-1551-4773-8e27-239d7b2cd229}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{b04aea3e-e985-4a00-8194-d83948949f30}</string>
-		</dict>
-		<key>{b6cfc3da-7804-4185-8ead-63c8f7632db2}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{c7386bfb-0afe-4693-99bd-563cf00dcd0e}</string>
-		</dict>
-		<key>{bc7f368f-f1db-4e15-a5f7-1acb28031d3e}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{32183d97-5ace-493d-82ee-ef932f43b310}</string>
-		</dict>
-		<key>{1557a431-8f73-422b-8a50-74a677a42dc4}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{874eaabf-f8f3-4e45-a022-bd83b04b49d4}</string>
-		</dict>
-		<key>{e10143df-ba97-478b-a30b-1726a4077662}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>B</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{2ae2931e-d1c9-4cd4-8eff-a1ba72374dbd}</string>
-		</dict>
-		<key>{dbd9ab5d-dbdc-462e-9069-b1319ba1bfa5}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>A</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{6089c76a-3732-496c-9d48-4422ab496e66}</string>
-		</dict>
-		<key>{68b4ce92-d114-404b-9675-b83df57d52a9}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{22faad6e-7125-4240-90d5-7da732daeb19}</string>
-		</dict>
-		<key>{933fb72e-630f-4ba5-ae53-fd7b75cc378b}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{7adaee15-6cc7-4826-a668-942dcb5655d4}</string>
-		</dict>
-		<key>{6598d4cb-5271-4e90-86e8-061b0c0ac771}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{44051515-d809-46ec-aa80-a8eefe2da69e}</string>
-		</dict>
-		<key>{c568421d-550a-4493-ad64-5d85170214d6}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{19b9b873-a425-48ba-bdd5-ae039125fa6b}</string>
-		</dict>
-		<key>{40f91d7c-009f-4ced-8d75-07d1b99ee217}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>F</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>alter</key>
-			<string>1</string>
-			<key>step_id</key>
-			<string>{53dd5b87-30b9-436a-9781-23c6a7001b1b}</string>
-		</dict>
-		<key>{3dad392a-e4ff-466a-a846-2f117051a226}</key>
-		<dict>
-			<key>type</key>
-			<string>eighth</string>
-			<key>duration</key>
-			<string>0.25</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>E</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>step_id</key>
-			<string>{0938bee4-5a2c-4e2a-b5ae-e8b8ca984c66}</string>
-		</dict>
-		<key>{713f6cd9-f52c-4eb4-93d4-b30962dbf30f}</key>
+		<key>{536d4b1d-56d4-463d-a540-0ce840f80f58}</key>
 		<dict>
 			<key>type</key>
 			<string>half</string>
 			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
 			<string>1</string>
+			<key>step_id</key>
+			<string>{63e03e0b-2d3e-4a57-b614-3bddf49eb24b}</string>
+		</dict>
+		<key>{46620b94-750b-4fab-b79e-3bcf294e0c10}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{355e5f04-4454-4ce1-9f72-d67373dcbc59}</string>
+		</dict>
+		<key>{f5c6a12e-c687-41e1-aea1-be76939f2831}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>B</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{3e8e1aac-d53d-46de-9ddc-76bfa6e967d5}</string>
+		</dict>
+		<key>{b31dcff9-5406-4e80-8984-a118cc041e9b}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a6a2b7c8-a89b-48d1-8364-11fd85776ac6}</string>
+		</dict>
+		<key>{09904a89-bc99-4209-a563-ec613a124783}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{8cc148ee-2137-4881-86c4-20f373e739dc}</string>
+		</dict>
+		<key>{e6a2d741-5ce9-4a5f-b0f5-9dd384ae1247}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{54268ad2-3e17-4921-beaa-9c86d5a936ff}</string>
+		</dict>
+		<key>{0bc3515d-0c83-4f5c-91c6-965b35273b43}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{711759b8-8ecd-4262-93ce-e6fb32fe3c26}</string>
+		</dict>
+		<key>{a16969ee-b686-4f39-a81b-215a644ff644}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
 			<key>dynamics</key>
 			<string>70.0</string>
 			<key>step</key>
@@ -1359,154 +243,2282 @@
 			<key>isgrace</key>
 			<string>0</string>
 			<key>step_id</key>
-			<string>{559a0405-a3af-435d-9bfc-04e77810b7e5}</string>
+			<string>{1d0f5c5f-9851-43c6-b6a0-1d40012bb818}</string>
+		</dict>
+		<key>{dbc97634-474a-4a64-8760-79e3948b640c}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{7c208a08-088f-483d-b046-57104460ba75}</string>
+		</dict>
+		<key>{7d3b07b1-d3b0-4d1e-bb3b-45238901780b}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{41fb9311-df54-4059-b33a-8dd79c34e042}</string>
+		</dict>
+		<key>{c92d7b5c-d30c-4b76-936c-c7de8a4e49ea}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{d2ced082-4ff6-4579-85d2-704f0400f105}</string>
+		</dict>
+		<key>{ff349c40-d96f-4e90-80a1-16e608f3237f}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{30bc507b-1778-4c33-90d0-bdf215bf286b}</string>
+		</dict>
+		<key>{1b69b1bc-6457-4424-8b37-aac6826e9e8c}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{85ff2e02-11f6-4b46-a4ab-f25f6d6443a8}</string>
+		</dict>
+		<key>{40a17bed-ca72-4c92-91bb-cc9d4f9660d2}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{11f234e3-21af-44c8-8ddf-cb2aba7b7c6e}</string>
+		</dict>
+		<key>{02d3b9fa-5f74-45c2-b842-42926caa3ce1}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{153e0175-1aad-43de-b016-9fee7a183768}</string>
+		</dict>
+		<key>{38c2a703-7265-4a29-b8a3-e80942d0395f}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{2d15a706-7294-4b66-82f1-166fff377ca3}</string>
+		</dict>
+		<key>{22101087-0e6f-4dd7-a06a-047a53cbbfa1}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{9b745154-7602-46c2-ac84-1faf88cb45a3}</string>
+		</dict>
+		<key>{56ed4a48-00f9-43d7-b6a7-33a0c2ad62a6}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{131965d2-686b-455a-9c80-442a89932bbd}</string>
+		</dict>
+		<key>{8dc3c773-eaa8-4de3-a16c-2e0b735a761f}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a8f5970d-8c9d-4dd6-aae6-4e3853c84026}</string>
+		</dict>
+		<key>{d4150b74-153c-44d9-9afd-92b74a3fd595}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c7795922-b970-4d03-bbe8-1ee1b0d0ec3a}</string>
+		</dict>
+		<key>{d5e81f1e-fe5c-416c-964a-317b29b17c7d}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a81c07c4-f630-45c7-b091-cae3000fa478}</string>
+		</dict>
+		<key>{871d562c-61a5-42a4-94d3-f1f159c91c70}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{afaa95c6-4339-4c60-8d16-adbd7cb6b947}</string>
+		</dict>
+		<key>{62d36f15-7bbb-4acd-ad36-bd0a5b5f7850}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{6c3c4858-f3ef-40fa-9804-71df043412a3}</string>
+		</dict>
+		<key>{2e769c91-257d-4715-b10b-bcb3de4d6df6}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{497f327d-a58b-4f44-95ed-bb9a9506574f}</string>
+		</dict>
+		<key>{093a942a-35cd-4fb5-9762-a28fb142ed3e}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{cc348051-c2f0-49f3-b893-663b6742e5e4}</string>
+		</dict>
+		<key>{8310600d-e953-4a49-b3e8-8ac0be53bfe5}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{ff2d0cd2-cdcb-46a2-bdcf-a4b106d163dc}</string>
+		</dict>
+		<key>{bd466e94-f0b1-4b76-bdfc-9e4f29aba216}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a5367985-0f39-4eb3-bd31-ad9bc7fe2b8a}</string>
+		</dict>
+		<key>{9942027f-89fa-4286-8d89-a71bc69d9ec1}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{cb3a249e-2432-4316-9c67-f53ec5ee4bfa}</string>
+		</dict>
+		<key>{c13f5c42-4ea6-424d-a9f5-4ce080dfb8a6}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{1781cd8f-7dbe-4539-84f1-985fca35f4af}</string>
+		</dict>
+		<key>{208c58ee-2de5-43a0-94ea-d3d02c487a0a}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{39721e5a-a4c1-43b3-817a-86bcd8474464}</string>
+		</dict>
+		<key>{f75aa712-3271-42b8-b02a-2322f426141c}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c566bc77-2c0e-441b-9eba-c19629fe9025}</string>
+		</dict>
+		<key>{09227342-2599-4d22-a44c-ddc3a5f6a580}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{10cc57b2-d66e-4592-9f97-eb8e18870566}</string>
+		</dict>
+		<key>{8120c980-2dbf-427c-8c6f-05a9516e19c4}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{06724c18-7b72-43d1-a45c-d877ace97528}</string>
+		</dict>
+		<key>{5c491a12-8dad-4382-be6d-7faa796d3813}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{ce9fd466-acca-4168-837b-87efa973b25c}</string>
+		</dict>
+		<key>{eb05268f-0bde-4dd7-afdc-5cbe82ba121d}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>B</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{49fe8f62-0cd5-4b6c-acb5-c4f4f7ecc520}</string>
+		</dict>
+		<key>{926726c2-8eee-4ff9-8f3a-66cecc829ae0}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{309d3c22-05da-45cd-958a-b655c5049d5c}</string>
+		</dict>
+		<key>{21b28664-b2ad-40f5-b444-a7cce16ea655}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{21d1be44-5e22-4f96-a14b-6e17e9005d04}</string>
+		</dict>
+		<key>{2fec5ec7-d362-42cd-b4f5-ebb3fd3bd4b9}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{5134a273-12b1-4cbe-80f5-4eb21fb93ffd}</string>
+		</dict>
+		<key>{d58d5ef2-16ef-4579-8329-8ecc4c680f1b}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{6c4072d9-38b5-4e90-a3df-6742c6fcd721}</string>
+		</dict>
+		<key>{4b07cac1-d26d-4d45-9fe9-fe860fa46e00}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c55695af-bfe3-4a22-a3e6-aecd0a45e1bb}</string>
+		</dict>
+		<key>{d09c9623-68ec-426f-80e5-010e75323f2b}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{4f04c3e7-5194-43b8-9177-2803a9445e97}</string>
+		</dict>
+		<key>{c66c2695-cfb2-4606-bfe2-122cd2c2cbc9}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c9df8f73-cd0f-4dab-a83e-c2e3c06d66b3}</string>
+		</dict>
+		<key>{97a2b3e6-a3a4-4c3f-adae-d2fc67a0f9c8}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c326054f-ae82-4a03-b279-87a56a277c7f}</string>
+		</dict>
+		<key>{567fc52c-122e-46c6-8099-1aaca8ddeced}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{2d9a7f74-8229-4096-af86-7e38157cf8a4}</string>
+		</dict>
+		<key>{7efa84e8-536a-49c5-812d-8db6dc35eb45}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{becea904-15dd-43ec-babe-ed81e21aacbd}</string>
+		</dict>
+		<key>{5685be97-b744-4ddd-9c18-862cbabe5440}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{580e734d-0158-48d6-a332-929ec745dd5f}</string>
+		</dict>
+		<key>{b7e0689d-c8fa-4345-8eae-f12a0a6b5846}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{aeb5f8ce-df98-4239-9516-8ed862cf262f}</string>
+		</dict>
+		<key>{49daf736-b89c-4105-ace7-bcdd1fa446f2}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{c5673b25-6e59-44fc-86d0-4d42e046ffb5}</string>
+		</dict>
+		<key>{7e7b2007-6813-4525-b6bd-6e1fc760589f}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{3508623b-cec3-4d1b-b337-809777d3f024}</string>
+		</dict>
+		<key>{a419f3a0-fadb-42b4-8a36-9aaede17a0a6}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{f6c381bf-919c-4b97-aa07-eb824b3d8ecf}</string>
+		</dict>
+		<key>{084f6f3d-c38a-4775-bd5f-9d31329f0302}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{9f23413a-ab06-487b-bd2d-020fff641eaf}</string>
+		</dict>
+		<key>{3aa4e4c0-1792-4b73-ba31-10e5bf1421fd}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{5642390f-ed10-41fa-b08d-55e3958b0972}</string>
+		</dict>
+		<key>{532dafd7-6926-4cd5-aaa4-58d07bc5c482}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{fea83ebc-3f13-43db-b4a3-e2625d790655}</string>
+		</dict>
+		<key>{b237d38d-f3f0-4efa-8518-d89b528869fb}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>B</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a883d1e7-5cf6-45fc-a592-532146e45de8}</string>
+		</dict>
+		<key>{4ecc7fdb-e65e-4775-beec-cbaeaba8dda4}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{6b8eb1e4-6f34-448a-a318-6444f758c55c}</string>
+		</dict>
+		<key>{f11a1847-d25b-4af2-86cb-9a893d2fa42b}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{9c8f22e9-05a4-492f-9b9d-46bf5635ccec}</string>
+		</dict>
+		<key>{d22f5170-f236-4f35-b544-cb6156cd65a0}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{afd944ff-b587-402f-90a3-5f1984e22c5a}</string>
+		</dict>
+		<key>{4727d7b4-84bc-49d9-9244-ef63b1a97e12}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{ac933a3a-9513-454e-96c7-f1b5fa7550db}</string>
+		</dict>
+		<key>{e43ed198-cccc-4a6d-9ccc-724dbdf76d4f}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{47f5e5d8-af41-40a8-aae5-b62b959a8286}</string>
+		</dict>
+		<key>{2ebb8955-a1fe-44f4-a356-dbcdc2283566}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{9a4a4dec-670c-4b0f-bb7b-d284e6cf3697}</string>
+		</dict>
+		<key>{901bb9c8-604f-4de3-a65d-98e56bfd2b47}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{716543d1-1b9f-45a6-9d59-ce1de1be4377}</string>
+		</dict>
+		<key>{eb26c7a0-a35b-4ba6-a239-52db4e8cfe89}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{61d0c8f1-c9de-4d03-90cb-c4e8c050ee83}</string>
+		</dict>
+		<key>{e98ffe81-80fe-4eeb-8f82-b3fc5077ee88}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{a6b3df82-b153-4cae-bf14-4fb2e8c1d360}</string>
+		</dict>
+		<key>{c0e24b66-3f01-4590-b32e-efc632f9e84c}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{d69b1f29-16ae-4b87-8ddd-d8d66138dfa0}</string>
+		</dict>
+		<key>{02caedb1-2a7e-4dee-9e02-0abe623c5554}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{e28c4249-e872-4b3c-9dae-c24f7ae44410}</string>
+		</dict>
+		<key>{e62c016b-1f6c-4823-becd-a064badcf0ef}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{6d54f886-d3c4-43fa-b815-830c6d2c1d5a}</string>
+		</dict>
+		<key>{d25a548d-3d2a-4577-bb77-a96fab704b96}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{9f55af87-5e2f-4b16-9c37-b4475c1963aa}</string>
+		</dict>
+		<key>{c9d04a49-3899-4eb5-bc74-fa3e4857925b}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{eef5bf68-fba7-4bb6-a723-783738edb7fc}</string>
+		</dict>
+		<key>{524d2ec0-8d65-49bb-a9cf-65131bb84a4c}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{44efbe29-662c-4971-af53-3629df8126c8}</string>
+		</dict>
+		<key>{f02ed2bc-2900-4df0-9eea-02f176f43eb3}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{d905d6f3-47a6-4f54-8b28-188640368148}</string>
+		</dict>
+		<key>{85bbf5aa-9c3d-4d86-9148-057d77ef625b}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{719ffff7-7e3d-42e5-88ea-56b70acfe874}</string>
+		</dict>
+		<key>{60800b59-9468-4f9c-9cf1-f84f22defa3e}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{0e9828b2-72fa-4405-bb40-d333083ae023}</string>
+		</dict>
+		<key>{d892f48e-0eb0-41c6-b379-3a3164bd847c}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{d01d557e-ae5c-4e56-adab-fdc75a96d530}</string>
+		</dict>
+		<key>{08bcb831-2f5e-42d9-8bfc-614d338d9af9}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{7a529dbb-369e-4e67-9857-3f4818dc7d96}</string>
+		</dict>
+		<key>{7a55be7e-a85d-469b-8084-223bddf23afe}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{34686dbd-0d3d-463a-a22e-0b05bee76481}</string>
+		</dict>
+		<key>{0990db36-9d54-4735-a40c-237816c7d064}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{dafe7b0f-6670-4856-a1d0-6e93c20e8ab8}</string>
+		</dict>
+		<key>{be34d74f-767a-4fbe-9a40-81c5b1b7a51e}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{710742ce-3ab5-4eb4-9c06-62e1526a8cf9}</string>
+		</dict>
+		<key>{b8767f98-32ff-4103-a575-75355d7a066e}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{255b2992-40e1-4452-888e-20cf4aab9046}</string>
+		</dict>
+		<key>{ac17445c-8209-4538-a824-507c0d4800a5}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{a90d416a-c69b-45cb-87a9-567c25bfdad5}</string>
+		</dict>
+		<key>{ea348e5d-8f62-49cc-ad86-050909371e18}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{8ec03620-2122-405a-881e-3d4bbbcda4f8}</string>
+		</dict>
+		<key>{10adb168-23ea-4713-946e-b8c5ce7c1ec8}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{0c491de9-456e-4786-a888-aba83d37abd7}</string>
+		</dict>
+		<key>{d0919352-322b-461d-b767-69acf54a16b5}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{2f9288ae-a15f-4f37-831d-a84162322810}</string>
+		</dict>
+		<key>{1badbea3-c983-486b-86af-e4ed9ef614c3}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{cf5f5c12-31b1-4dd9-abb8-2b1262ff33a8}</string>
+		</dict>
+		<key>{440e2edc-583c-4681-a741-9fbc2050ab8a}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{202c8e2e-0f80-433b-81d7-7f28aa552b95}</string>
+		</dict>
+		<key>{16b653c1-3386-42e6-9943-15bbd7244e4a}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{68135129-b8aa-43bc-a1e0-73d2b01886a5}</string>
+		</dict>
+		<key>{3617d8b5-fe4b-4e8a-b7e4-57b729d6a295}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>B</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{460518ee-f66e-4724-bd21-3739cd724611}</string>
+		</dict>
+		<key>{32df8085-0521-48af-9b1e-915ee52d3142}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.666667</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>A</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{845f673b-0469-4e7a-ae96-3a45b0c7d86d}</string>
+		</dict>
+		<key>{d6e5fd74-757b-4773-8644-800fd20fc747}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{81f64278-d4ba-4c59-b370-68d482881dae}</string>
+		</dict>
+		<key>{3c189c11-d498-4af1-829b-5cdad0e5d81f}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{003d7f0f-82ec-4409-8ad5-dec5e944899a}</string>
+		</dict>
+		<key>{c7b6337e-173a-4bd5-adeb-12b36975c753}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{3f93f8ef-fdd6-4ac8-9c41-f6c71e9f2345}</string>
+		</dict>
+		<key>{7206dbad-e35d-4d38-9e00-28c631a93b1a}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{51828c38-f645-4e54-9761-ebafda47504e}</string>
+		</dict>
+		<key>{24c5c309-b2be-44a1-9f43-f462977b0f8e}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{44ea1d71-c3fa-433b-a28d-93d45124d269}</string>
+		</dict>
+		<key>{7c86ad80-f3c6-4818-ba6f-28b31ae8b77e}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{4d2c269c-80e7-46ba-81cb-94a199ac0c52}</string>
+		</dict>
+		<key>{14c2e653-bc32-4c1f-8690-20f409d87af6}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{8c1f3c18-7657-4e8e-b9db-9f3870481d77}</string>
+		</dict>
+		<key>{81fbeb75-8ac7-4700-8359-7c95892fab9e}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{5d07096a-f6b7-41b8-9e33-2b1f4c17abdd}</string>
+		</dict>
+		<key>{42ea6e7c-0e2b-4afa-a65c-b88e66e51c8d}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{18eaf460-c831-4180-83ec-bba52f0b96d5}</string>
+		</dict>
+		<key>{a597acc9-f559-4393-ba77-d3c4d99170c8}</key>
+		<dict>
+			<key>type</key>
+			<string>eighth</string>
+			<key>duration</key>
+			<string>0.333333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>E</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{fd22f29f-2a6c-4b94-bc20-53ccc1660b26}</string>
+		</dict>
+		<key>{05407434-4b03-4264-b256-22d970ef803b}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{e940281c-59bb-439c-b19d-93875aea4736}</string>
+		</dict>
+		<key>{4419891c-6a57-43d8-9dff-bddf291aa7f1}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>step_id</key>
+			<string>{66bb68bd-6d00-4cf8-8d45-8277fe4e1080}</string>
+		</dict>
+		<key>{bdacd12f-6d24-4c65-bc78-81c735e67fb6}</key>
+		<dict>
+			<key>type</key>
+			<string>half</string>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>F</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>alter</key>
+			<string>1</string>
+			<key>step_id</key>
+			<string>{1b47a1f9-aeba-4e97-b2cb-3ba73f0847f7}</string>
 		</dict>
 	</dict>
 	<key>rests</key>
 	<dict>
-		<key>{69d925a0-1137-4766-833e-e78b8fb0e360}</key>
+		<key>{f91a7879-e0ba-41e1-907f-7e870aad250b}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{3085604f-4761-4198-a435-9b6e21e0f5f3}</key>
+		<key>{d0a8f150-e69a-4d46-8c98-bf8dddb0e1e3}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{a92343f4-de9e-4cd8-99e9-42f24c0cc831}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{90e56e77-921c-47ce-a22d-d333c1d4819d}</key>
+		<key>{dcbb0e1a-973b-4de5-b9b5-5b1d3def0da0}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{8b2dfe84-30da-41de-9d6d-7574cb2113f5}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{6d941251-8190-4c7e-a8e8-a3ce383304bf}</key>
+		<key>{0f33dd34-4d92-430d-9ebd-e6eb519ddcf7}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{64565d4b-252e-4c36-ac38-8169301736d2}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{c0256728-0947-478f-b154-b7a95b2b0f46}</key>
+		<key>{c76dca3b-a246-48db-ab75-d6092ed8f40d}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{33cae99b-0e2d-4440-9cba-3689142f1c6f}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{e5e4c11d-98cc-48ee-ade2-add98d8505f6}</key>
+		<key>{077581be-9aed-4449-9dba-baec96b1583f}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{cf1f7aa1-21b4-4ecf-9ada-4d563905b11b}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{a60209de-5547-49ce-871f-e7dd9bc12076}</key>
+		<key>{fbd6570d-c317-4b03-959c-e0cea016763a}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{eb15ea2e-925f-4193-a4aa-3dcbc2008244}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{227aaea5-f98e-46d4-9ec6-c7838a66a96f}</key>
+		<key>{13bcae91-fd56-4307-b4bb-3b9ce0354fc6}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{54d05245-038d-439c-adad-b0f850d4ff11}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{4c565907-2037-4c5a-aabf-63b28030a2c3}</key>
+		<key>{6f327d50-0bca-4e8b-a717-1cf6608327a9}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{8515bfe2-a4a5-4459-8ad5-eacd672b65a7}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{92992b83-8309-43ef-a6fb-a7eb543ea1c5}</key>
+		<key>{79287825-84e8-41cb-ba62-8e131f35b0c7}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{72a2b16d-823f-4057-9b28-58dc0ee261c2}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{8c1bbd85-85b6-49b4-8ec1-15a8f78137be}</key>
+		<key>{c650c32d-eca3-4061-96f0-e5aab14ea891}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{149ce229-90f6-47b0-a937-2df19110ff77}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{73ce791d-e04f-466b-9b94-4b9e9a8b85ec}</key>
+		<key>{d39ee62a-5948-4720-ac0c-c49faf69896e}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{49e6b929-6775-4ae5-9f73-61e4bf33747f}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{8a12fd1f-8859-4edb-ba41-f36232c60664}</key>
+		<key>{b6e0c267-1d6a-4b35-8b32-18f56317ee87}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{391427c4-b111-4050-a5e9-b755f654592a}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{d50bc4c4-3296-4a30-8734-e8e03aac6b5e}</key>
+		<key>{f5934342-00a5-4467-9938-a4fa74c6067a}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{5bd2da22-7b7f-4a33-be89-16fa40b6c75e}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{55597b54-e6fc-46bb-8718-98ff8243e91c}</key>
+		<key>{d9b3e21e-d10b-4ef7-8815-ba33f48a60ea}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{fe18b5bb-fe7d-4752-8f49-6f6a7cd3ae47}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
 		</dict>
-		<key>{8295775a-0605-42ac-81b2-17ed2f6b4ec0}</key>
+		<key>{e07c5f79-de27-435a-ad8e-26f4af53f720}</key>
 		<dict>
 			<key>duration</key>
-			<string>1</string>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{e917c94f-2c4c-4deb-93e5-d98ce7d1c368}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
 			<key>staff</key>
 			<string>1</string>
 			<key>hand</key>
 			<string>1</string>
+		</dict>
+		<key>{3e479407-564a-4193-8c0e-09fbf96a7ae3}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.33333</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
 		</dict>
 	</dict>
 	<key>events</key>
@@ -1522,7 +2534,9 @@
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{69d925a0-1137-4766-833e-e78b8fb0e360}</string>
+				<string>rest_{f91a7879-e0ba-41e1-907f-7e870aad250b}</string>
+				
+				<string>rest_{d0a8f150-e69a-4d46-8c98-bf8dddb0e1e3}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1534,11 +2548,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>1000</string>
+			<string>1333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{3085604f-4761-4198-a435-9b6e21e0f5f3}</string>
+				<string>rest_{a92343f4-de9e-4cd8-99e9-42f24c0cc831}</string>
+				
+				<string>rest_{dcbb0e1a-973b-4de5-b9b5-5b1d3def0da0}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1550,11 +2566,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>2000</string>
+			<string>2667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{90e56e77-921c-47ce-a22d-d333c1d4819d}</string>
+				<string>rest_{8b2dfe84-30da-41de-9d6d-7574cb2113f5}</string>
+				
+				<string>rest_{0f33dd34-4d92-430d-9ebd-e6eb519ddcf7}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1566,11 +2584,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>3333</string>
+			<string>4000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{6d941251-8190-4c7e-a8e8-a3ce383304bf}</string>
+				<string>rest_{64565d4b-252e-4c36-ac38-8169301736d2}</string>
+				
+				<string>rest_{c76dca3b-a246-48db-ab75-d6092ed8f40d}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1582,11 +2602,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>4667</string>
+			<string>5333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{c0256728-0947-478f-b154-b7a95b2b0f46}</string>
+				<string>rest_{33cae99b-0e2d-4440-9cba-3689142f1c6f}</string>
+				
+				<string>rest_{077581be-9aed-4449-9dba-baec96b1583f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1598,11 +2620,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>6000</string>
+			<string>6667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{e5e4c11d-98cc-48ee-ade2-add98d8505f6}</string>
+				<string>rest_{cf1f7aa1-21b4-4ecf-9ada-4d563905b11b}</string>
+				
+				<string>rest_{fbd6570d-c317-4b03-959c-e0cea016763a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1614,11 +2638,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>7333</string>
+			<string>8000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{a60209de-5547-49ce-871f-e7dd9bc12076}</string>
+				<string>rest_{eb15ea2e-925f-4193-a4aa-3dcbc2008244}</string>
+				
+				<string>rest_{13bcae91-fd56-4307-b4bb-3b9ce0354fc6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1630,11 +2656,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>8667</string>
+			<string>9333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{227aaea5-f98e-46d4-9ec6-c7838a66a96f}</string>
+				<string>rest_{54d05245-038d-439c-adad-b0f850d4ff11}</string>
+				
+				<string>rest_{6f327d50-0bca-4e8b-a717-1cf6608327a9}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1646,11 +2674,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>10000</string>
+			<string>10667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{4c565907-2037-4c5a-aabf-63b28030a2c3}</string>
+				<string>rest_{8515bfe2-a4a5-4459-8ad5-eacd672b65a7}</string>
+				
+				<string>rest_{79287825-84e8-41cb-ba62-8e131f35b0c7}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1662,11 +2692,13 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>11333</string>
+			<string>12000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{92992b83-8309-43ef-a6fb-a7eb543ea1c5}</string>
+				<string>rest_{72a2b16d-823f-4057-9b28-58dc0ee261c2}</string>
+				
+				<string>rest_{c650c32d-eca3-4061-96f0-e5aab14ea891}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1678,11 +2710,15 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>12667</string>
+			<string>13333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{79d41661-86e6-4de2-8610-77a24e71acf8}</string>
+				<string>note_{a8fc9e6e-d8de-4af0-94da-a2f93c45e00a}</string>
+				
+				<string>note_{9ec39001-a412-4c1c-83d4-01e4e1807ec9}</string>
+				
+				<string>note_{536d4b1d-56d4-463d-a540-0ce840f80f58}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1694,11 +2730,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>13333</string>
+			<string>14000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a360f4a3-af0d-48db-8741-d1e886e26b10}</string>
+				<string>note_{46620b94-750b-4fab-b79e-3bcf294e0c10}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1710,11 +2746,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>13667</string>
+			<string>14333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{5e63d8ae-e244-4837-aba1-458148a06a70}</string>
+				<string>note_{f5c6a12e-c687-41e1-aea1-be76939f2831}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1726,11 +2762,15 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>14000</string>
+			<string>14667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{885def81-3f17-4dec-a622-39336ec09a90}</string>
+				<string>note_{b31dcff9-5406-4e80-8984-a118cc041e9b}</string>
+				
+				<string>note_{09904a89-bc99-4209-a563-ec613a124783}</string>
+				
+				<string>note_{e6a2d741-5ce9-4a5f-b0f5-9dd384ae1247}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1742,11 +2782,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>14667</string>
+			<string>15333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1a8e5e51-64cc-4ba1-bc4c-c958eb465c80}</string>
+				<string>note_{0bc3515d-0c83-4f5c-91c6-965b35273b43}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1758,11 +2798,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>15000</string>
+			<string>15667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{fecef063-0467-43b9-a777-ec3b28019e2d}</string>
+				<string>note_{a16969ee-b686-4f39-a81b-215a644ff644}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1774,11 +2814,15 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>15333</string>
+			<string>16000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{0e34cfa5-3124-4f4c-ae32-20b877ac8e10}</string>
+				<string>note_{dbc97634-474a-4a64-8760-79e3948b640c}</string>
+				
+				<string>note_{7d3b07b1-d3b0-4d1e-bb3b-45238901780b}</string>
+				
+				<string>note_{c92d7b5c-d30c-4b76-936c-c7de8a4e49ea}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1790,11 +2834,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>15667</string>
+			<string>16333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{abf40860-72e0-47d6-8a1e-cfe9bd0e6e82}</string>
+				<string>note_{ff349c40-d96f-4e90-80a1-16e608f3237f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1806,11 +2850,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>16000</string>
+			<string>16667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{bbe8827a-eb8a-4344-8c5c-937824b82269}</string>
+				<string>note_{1b69b1bc-6457-4424-8b37-aac6826e9e8c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1822,11 +2866,11 @@
 			<key>sysno</key>
 			<string>1</string>
 			<key>position</key>
-			<string>16333</string>
+			<string>17000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c8cd1e2c-b3bc-4fdd-9bdc-8cde1b0419c5}</string>
+				<string>note_{40a17bed-ca72-4c92-91bb-cc9d4f9660d2}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1838,11 +2882,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>16667</string>
+			<string>17333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{90956186-288d-4dea-80e0-83dcac00543b}</string>
+				<string>note_{02d3b9fa-5f74-45c2-b842-42926caa3ce1}</string>
+				
+				<string>note_{38c2a703-7265-4a29-b8a3-e80942d0395f}</string>
+				
+				<string>note_{22101087-0e6f-4dd7-a06a-047a53cbbfa1}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1854,11 +2902,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>17000</string>
+			<string>17667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{b2cf3adc-12a9-44b9-8a7c-65a0cc998557}</string>
+				<string>note_{56ed4a48-00f9-43d7-b6a7-33a0c2ad62a6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1870,11 +2918,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>17333</string>
+			<string>18000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1ff0bdcf-e941-48c8-97b1-5aa104297422}</string>
+				<string>note_{8dc3c773-eaa8-4de3-a16c-2e0b735a761f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1886,11 +2934,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>18000</string>
+			<string>18667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{bc95eedd-e807-4c92-8cf3-a73328fd3308}</string>
+				<string>note_{d4150b74-153c-44d9-9afd-92b74a3fd595}</string>
+				
+				<string>note_{d5e81f1e-fe5c-416c-964a-317b29b17c7d}</string>
+				
+				<string>note_{871d562c-61a5-42a4-94d3-f1f159c91c70}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1902,11 +2954,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>18333</string>
+			<string>19000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{954a4721-be89-4707-b54f-b21d94ec8012}</string>
+				<string>note_{62d36f15-7bbb-4acd-ad36-bd0a5b5f7850}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1918,11 +2970,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>18667</string>
+			<string>19333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{e8424c4e-77be-4814-ade2-1cff659fc066}</string>
+				<string>note_{2e769c91-257d-4715-b10b-bcb3de4d6df6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1934,11 +2986,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>19000</string>
+			<string>19667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{76efc285-cc1b-4887-86b7-a2287d742b76}</string>
+				<string>note_{093a942a-35cd-4fb5-9762-a28fb142ed3e}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1950,11 +3002,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>19333</string>
+			<string>20000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{09f968b8-eb94-4ecf-b117-af77a5b78178}</string>
+				<string>note_{8310600d-e953-4a49-b3e8-8ac0be53bfe5}</string>
+				
+				<string>note_{bd466e94-f0b1-4b76-bdfc-9e4f29aba216}</string>
+				
+				<string>note_{9942027f-89fa-4286-8d89-a71bc69d9ec1}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1966,11 +3022,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>19667</string>
+			<string>20333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{3a28a8af-7491-4802-a2ce-87d96c630d3c}</string>
+				<string>note_{c13f5c42-4ea6-424d-a9f5-4ce080dfb8a6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1982,11 +3038,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>20000</string>
+			<string>20667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{27e344f6-4931-4da3-bce4-5c2c7b836bd2}</string>
+				<string>note_{208c58ee-2de5-43a0-94ea-d3d02c487a0a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -1998,11 +3054,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>20667</string>
+			<string>21333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{7651d078-6b62-4c6e-a57c-74d8ea7be7b4}</string>
+				<string>note_{f75aa712-3271-42b8-b02a-2322f426141c}</string>
+				
+				<string>note_{09227342-2599-4d22-a44c-ddc3a5f6a580}</string>
+				
+				<string>note_{8120c980-2dbf-427c-8c6f-05a9516e19c4}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2014,11 +3074,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>21333</string>
+			<string>22000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{6e003fb3-d581-4acc-b3c9-bf49b727acdb}</string>
+				<string>note_{5c491a12-8dad-4382-be6d-7faa796d3813}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2030,11 +3090,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>21667</string>
+			<string>22333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{14fa8345-1f5c-4843-bf84-4ca2c1912672}</string>
+				<string>note_{eb05268f-0bde-4dd7-afdc-5cbe82ba121d}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2046,11 +3106,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>22000</string>
+			<string>22667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{2760afbd-5b52-4888-b674-ffd273eeb341}</string>
+				<string>note_{926726c2-8eee-4ff9-8f3a-66cecc829ae0}</string>
+				
+				<string>note_{21b28664-b2ad-40f5-b444-a7cce16ea655}</string>
+				
+				<string>note_{2fec5ec7-d362-42cd-b4f5-ebb3fd3bd4b9}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2062,11 +3126,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>22667</string>
+			<string>23333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{ee6fcc98-808b-4c31-bde5-0f299d1c60e8}</string>
+				<string>note_{d58d5ef2-16ef-4579-8329-8ecc4c680f1b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2078,11 +3142,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>23000</string>
+			<string>23667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{ff40618c-0567-4b28-ac61-6d495a5d0e83}</string>
+				<string>note_{4b07cac1-d26d-4d45-9fe9-fe860fa46e00}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2094,11 +3158,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>23333</string>
+			<string>24000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a16aff00-f760-4a5a-8860-6d4be9c7d98e}</string>
+				<string>note_{d09c9623-68ec-426f-80e5-010e75323f2b}</string>
+				
+				<string>note_{c66c2695-cfb2-4606-bfe2-122cd2c2cbc9}</string>
+				
+				<string>note_{97a2b3e6-a3a4-4c3f-adae-d2fc67a0f9c8}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2110,11 +3178,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>23667</string>
+			<string>24333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{58e0b238-07f5-4fdb-b469-98825b513df6}</string>
+				<string>note_{567fc52c-122e-46c6-8099-1aaca8ddeced}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2126,11 +3194,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>24000</string>
+			<string>24667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{2674340f-462c-4d54-bcf1-d3ce2ea174dc}</string>
+				<string>note_{7efa84e8-536a-49c5-812d-8db6dc35eb45}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2142,11 +3210,11 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>24333</string>
+			<string>25000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a194a14d-15f0-4137-9dfc-244b4bbd9094}</string>
+				<string>note_{5685be97-b744-4ddd-9c18-862cbabe5440}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2158,11 +3226,15 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>24667</string>
+			<string>25333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{20ce8c85-66db-4126-b611-fc1dc222659d}</string>
+				<string>note_{b7e0689d-c8fa-4345-8eae-f12a0a6b5846}</string>
+				
+				<string>note_{49daf736-b89c-4105-ace7-bcdd1fa446f2}</string>
+				
+				<string>note_{7e7b2007-6813-4525-b6bd-6e1fc760589f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2174,11 +3246,13 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>26000</string>
+			<string>26667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{8c1bbd85-85b6-49b4-8ec1-15a8f78137be}</string>
+				<string>rest_{149ce229-90f6-47b0-a937-2df19110ff77}</string>
+				
+				<string>rest_{d39ee62a-5948-4720-ac0c-c49faf69896e}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2190,11 +3264,13 @@
 			<key>sysno</key>
 			<string>2</string>
 			<key>position</key>
-			<string>27333</string>
+			<string>28000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{73ce791d-e04f-466b-9b94-4b9e9a8b85ec}</string>
+				<string>rest_{49e6b929-6775-4ae5-9f73-61e4bf33747f}</string>
+				
+				<string>rest_{b6e0c267-1d6a-4b35-8b32-18f56317ee87}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2206,11 +3282,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>28667</string>
+			<string>29333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{ed819af3-c35d-4162-bdfc-833ecd53fecf}</string>
+				<string>note_{a419f3a0-fadb-42b4-8a36-9aaede17a0a6}</string>
+				
+				<string>note_{084f6f3d-c38a-4775-bd5f-9d31329f0302}</string>
+				
+				<string>note_{3aa4e4c0-1792-4b73-ba31-10e5bf1421fd}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2222,11 +3302,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>29333</string>
+			<string>30000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{109d27fd-fdf5-4800-bf89-293ffb825fed}</string>
+				<string>note_{532dafd7-6926-4cd5-aaa4-58d07bc5c482}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2238,11 +3318,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>29667</string>
+			<string>30333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{4c69c664-c8ef-40f4-bcfe-c68f776d4dd9}</string>
+				<string>note_{b237d38d-f3f0-4efa-8518-d89b528869fb}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2254,11 +3334,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>30000</string>
+			<string>30667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{986f4f73-da45-49e0-a94e-20c77f953f28}</string>
+				<string>note_{4ecc7fdb-e65e-4775-beec-cbaeaba8dda4}</string>
+				
+				<string>note_{f11a1847-d25b-4af2-86cb-9a893d2fa42b}</string>
+				
+				<string>note_{d22f5170-f236-4f35-b544-cb6156cd65a0}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2270,11 +3354,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>30667</string>
+			<string>31333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{22bcdbb9-8ec0-4270-a3b6-6e07136e3a4b}</string>
+				<string>note_{4727d7b4-84bc-49d9-9244-ef63b1a97e12}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2286,11 +3370,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>31000</string>
+			<string>31667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{d90173a8-a417-4477-afb8-5bb85f500276}</string>
+				<string>note_{e43ed198-cccc-4a6d-9ccc-724dbdf76d4f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2302,11 +3386,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>31333</string>
+			<string>32000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{edeca5c6-ccfa-4fa3-b4cc-b6befcb53cfd}</string>
+				<string>note_{2ebb8955-a1fe-44f4-a356-dbcdc2283566}</string>
+				
+				<string>note_{901bb9c8-604f-4de3-a65d-98e56bfd2b47}</string>
+				
+				<string>note_{eb26c7a0-a35b-4ba6-a239-52db4e8cfe89}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2318,11 +3406,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>31667</string>
+			<string>32333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{4748ce75-db69-438b-b043-f793e67037e4}</string>
+				<string>note_{e98ffe81-80fe-4eeb-8f82-b3fc5077ee88}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2334,11 +3422,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>32000</string>
+			<string>32667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{d3e9d447-88b0-405f-9ca1-b02148ce3ef8}</string>
+				<string>note_{c0e24b66-3f01-4590-b32e-efc632f9e84c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2350,11 +3438,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>32333</string>
+			<string>33000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{737bd9a2-fe83-4395-8b1b-e28f9af7628f}</string>
+				<string>note_{02caedb1-2a7e-4dee-9e02-0abe623c5554}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2366,11 +3454,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>32667</string>
+			<string>33333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{ce9e23f2-14fd-44b4-afe5-133b9405f611}</string>
+				<string>note_{e62c016b-1f6c-4823-becd-a064badcf0ef}</string>
+				
+				<string>note_{d25a548d-3d2a-4577-bb77-a96fab704b96}</string>
+				
+				<string>note_{c9d04a49-3899-4eb5-bc74-fa3e4857925b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2382,11 +3474,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>33000</string>
+			<string>33667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{f467dc78-f69d-42cc-8256-cec969af5b8a}</string>
+				<string>note_{524d2ec0-8d65-49bb-a9cf-65131bb84a4c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2398,11 +3490,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>33333</string>
+			<string>34000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{240a1da8-cfb9-4d21-acd9-e892efa4c767}</string>
+				<string>note_{f02ed2bc-2900-4df0-9eea-02f176f43eb3}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2414,11 +3506,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>34000</string>
+			<string>34667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a91a1dd7-e460-48c0-929e-e6dc8f80a66c}</string>
+				<string>note_{85bbf5aa-9c3d-4d86-9148-057d77ef625b}</string>
+				
+				<string>note_{60800b59-9468-4f9c-9cf1-f84f22defa3e}</string>
+				
+				<string>note_{d892f48e-0eb0-41c6-b379-3a3164bd847c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2430,11 +3526,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>34333</string>
+			<string>35000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a2935e60-1d5f-421c-a934-ba097c85cfde}</string>
+				<string>note_{08bcb831-2f5e-42d9-8bfc-614d338d9af9}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2446,11 +3542,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>34667</string>
+			<string>35333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{bff460dc-8304-41d4-9b88-f5f6d0fb9d2f}</string>
+				<string>note_{7a55be7e-a85d-469b-8084-223bddf23afe}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2462,11 +3558,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>35000</string>
+			<string>35667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1fc96c58-7af0-4593-897c-3e38f98692fe}</string>
+				<string>note_{0990db36-9d54-4735-a40c-237816c7d064}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2478,11 +3574,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>35333</string>
+			<string>36000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{55f955fe-95da-4158-b5e1-49856ae2a5aa}</string>
+				<string>note_{be34d74f-767a-4fbe-9a40-81c5b1b7a51e}</string>
+				
+				<string>note_{b8767f98-32ff-4103-a575-75355d7a066e}</string>
+				
+				<string>note_{ac17445c-8209-4538-a824-507c0d4800a5}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2494,11 +3594,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>35667</string>
+			<string>36333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{08e280e7-1551-4773-8e27-239d7b2cd229}</string>
+				<string>note_{ea348e5d-8f62-49cc-ad86-050909371e18}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2510,11 +3610,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>36000</string>
+			<string>36667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{b6cfc3da-7804-4185-8ead-63c8f7632db2}</string>
+				<string>note_{10adb168-23ea-4713-946e-b8c5ce7c1ec8}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2526,11 +3626,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>36667</string>
+			<string>37333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{bc7f368f-f1db-4e15-a5f7-1acb28031d3e}</string>
+				<string>note_{d0919352-322b-461d-b767-69acf54a16b5}</string>
+				
+				<string>note_{1badbea3-c983-486b-86af-e4ed9ef614c3}</string>
+				
+				<string>note_{440e2edc-583c-4681-a741-9fbc2050ab8a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2542,11 +3646,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>37333</string>
+			<string>38000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1557a431-8f73-422b-8a50-74a677a42dc4}</string>
+				<string>note_{16b653c1-3386-42e6-9943-15bbd7244e4a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2558,11 +3662,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>37667</string>
+			<string>38333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{e10143df-ba97-478b-a30b-1726a4077662}</string>
+				<string>note_{3617d8b5-fe4b-4e8a-b7e4-57b729d6a295}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2574,11 +3678,15 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>38000</string>
+			<string>38667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{dbd9ab5d-dbdc-462e-9069-b1319ba1bfa5}</string>
+				<string>note_{32df8085-0521-48af-9b1e-915ee52d3142}</string>
+				
+				<string>note_{d6e5fd74-757b-4773-8644-800fd20fc747}</string>
+				
+				<string>note_{3c189c11-d498-4af1-829b-5cdad0e5d81f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2590,11 +3698,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>38667</string>
+			<string>39333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{68b4ce92-d114-404b-9675-b83df57d52a9}</string>
+				<string>note_{c7b6337e-173a-4bd5-adeb-12b36975c753}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2606,11 +3714,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>39000</string>
+			<string>39667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{933fb72e-630f-4ba5-ae53-fd7b75cc378b}</string>
+				<string>note_{7206dbad-e35d-4d38-9e00-28c631a93b1a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2622,11 +3730,15 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>39333</string>
+			<string>40000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{6598d4cb-5271-4e90-86e8-061b0c0ac771}</string>
+				<string>note_{24c5c309-b2be-44a1-9f43-f462977b0f8e}</string>
+				
+				<string>note_{7c86ad80-f3c6-4818-ba6f-28b31ae8b77e}</string>
+				
+				<string>note_{14c2e653-bc32-4c1f-8690-20f409d87af6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2638,11 +3750,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>39667</string>
+			<string>40333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c568421d-550a-4493-ad64-5d85170214d6}</string>
+				<string>note_{81fbeb75-8ac7-4700-8359-7c95892fab9e}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2654,11 +3766,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>40000</string>
+			<string>40667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{40f91d7c-009f-4ced-8d75-07d1b99ee217}</string>
+				<string>note_{42ea6e7c-0e2b-4afa-a65c-b88e66e51c8d}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2670,11 +3782,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>40333</string>
+			<string>41000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{3dad392a-e4ff-466a-a846-2f117051a226}</string>
+				<string>note_{a597acc9-f559-4393-ba77-d3c4d99170c8}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2686,11 +3798,15 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>40667</string>
+			<string>41333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{713f6cd9-f52c-4eb4-93d4-b30962dbf30f}</string>
+				<string>note_{05407434-4b03-4264-b256-22d970ef803b}</string>
+				
+				<string>note_{4419891c-6a57-43d8-9dff-bddf291aa7f1}</string>
+				
+				<string>note_{bdacd12f-6d24-4c65-bc78-81c735e67fb6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2702,11 +3818,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>42000</string>
+			<string>42667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{8a12fd1f-8859-4edb-ba41-f36232c60664}</string>
+				<string>rest_{391427c4-b111-4050-a5e9-b755f654592a}</string>
+				
+				<string>rest_{f5934342-00a5-4467-9938-a4fa74c6067a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2718,11 +3836,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>43333</string>
+			<string>44000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{d50bc4c4-3296-4a30-8734-e8e03aac6b5e}</string>
+				<string>rest_{5bd2da22-7b7f-4a33-be89-16fa40b6c75e}</string>
+				
+				<string>rest_{d9b3e21e-d10b-4ef7-8815-ba33f48a60ea}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2734,11 +3854,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>44667</string>
+			<string>45333</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{55597b54-e6fc-46bb-8718-98ff8243e91c}</string>
+				<string>rest_{fe18b5bb-fe7d-4752-8f49-6f6a7cd3ae47}</string>
+				
+				<string>rest_{e07c5f79-de27-435a-ad8e-26f4af53f720}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2750,11 +3872,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>46000</string>
+			<string>46667</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{8295775a-0605-42ac-81b2-17ed2f6b4ec0}</string>
+				<string>rest_{e917c94f-2c4c-4deb-93e5-d98ce7d1c368}</string>
+				
+				<string>rest_{3e479407-564a-4193-8c0e-09fbf96a7ae3}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -2766,7 +3890,7 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>47000</string>
+			<string>48000</string>
 			<key>identifys</key>
 			<array>
 			</array>
@@ -2781,357 +3905,357 @@
 			<key>type</key>
 			<string>3</string>
 		</dict>
-		<key>500</key>
+		<key>667</key>
 		<dict>
 			<key>type</key>
 			<string>4</string>
 		</dict>
-		<key>1000</key>
+		<key>1333</key>
 		<dict>
 			<key>type</key>
 			<string>3</string>
-		</dict>
-		<key>1500</key>
-		<dict>
-			<key>type</key>
-			<string>4</string>
 		</dict>
 		<key>2000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>2667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>3333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>4000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>4667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>5333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>6000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>6667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>7333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>8000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>8667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>9333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>10000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>10667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>11333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>12000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>12667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>13333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>14000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>14667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>15333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>16000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>16667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>17333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>18000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>18667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>19333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>20000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>20667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>21333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>22000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>22667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>23333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>24000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>24667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>25333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>26000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>26667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>27333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>28000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>28667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>29333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>30000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>30667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>31333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>32000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>32667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>33333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>34000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>34667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>35333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>36000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>36667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>37333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>38000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>38667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>39333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>40000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>40667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>41333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>42000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>42667</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>43333</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>44000</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>44667</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>45333</key>
 		<dict>
 			<key>type</key>
-			<string>4</string>
+			<string>3</string>
 		</dict>
 		<key>46000</key>
 		<dict>
 			<key>type</key>
-			<string>3</string>
+			<string>4</string>
 		</dict>
 		<key>46667</key>
+		<dict>
+			<key>type</key>
+			<string>3</string>
+		</dict>
+		<key>47333</key>
 		<dict>
 			<key>type</key>
 			<string>4</string>

@@ -21,7 +21,7 @@
 			<string>80</string>
 		</dict>
 		<key>mwidth</key>
-		<string>93.8789</string>
+		<string>87.5173</string>
 		<key>keysig</key>
 		<string>0</string>
 	</dict>
@@ -3363,24 +3363,6 @@
 			<key>hand</key>
 			<string>2</string>
 		</dict>
-		<key>{f6f40aa7-c958-447d-8622-fbae9f5e87cd}</key>
-		<dict>
-			<key>duration</key>
-			<string>2.25001</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-		</dict>
-		<key>{122be25c-34b8-4cf9-b211-ff51f16bcb81}</key>
-		<dict>
-			<key>duration</key>
-			<string>2.25001</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-		</dict>
 		<key>{96d2e842-74cb-4cef-9041-b74c6975af8d}</key>
 		<dict>
 			<key>duration</key>
@@ -3529,6 +3511,24 @@
 		<dict>
 			<key>duration</key>
 			<string>0.750002</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
+		<key>{398e9de0-6861-4d89-8d11-9877b1fbe72f}</key>
+		<dict>
+			<key>duration</key>
+			<string>2.25001</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+		</dict>
+		<key>{559d0481-7e4f-4066-a615-0947bdc04177}</key>
+		<dict>
+			<key>duration</key>
+			<string>2.25001</string>
 			<key>staff</key>
 			<string>2</string>
 			<key>hand</key>
@@ -4656,9 +4656,9 @@
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{f6f40aa7-c958-447d-8622-fbae9f5e87cd}</string>
+				<string>rest_{96d2e842-74cb-4cef-9041-b74c6975af8d}</string>
 				
-				<string>rest_{122be25c-34b8-4cf9-b211-ff51f16bcb81}</string>
+				<string>rest_{33363fbd-f814-4cc1-ba96-0e41b3a950a6}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4674,9 +4674,9 @@
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{96d2e842-74cb-4cef-9041-b74c6975af8d}</string>
+				<string>rest_{0b9afc5f-e3d3-4ff1-8af9-cab265109a8d}</string>
 				
-				<string>rest_{33363fbd-f814-4cc1-ba96-0e41b3a950a6}</string>
+				<string>rest_{b2803c98-afba-4e52-aa33-1acf2892f03b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4688,13 +4688,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>54000</string>
+			<string>53250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{0b9afc5f-e3d3-4ff1-8af9-cab265109a8d}</string>
-				
-				<string>rest_{b2803c98-afba-4e52-aa33-1acf2892f03b}</string>
+				<string>note_{75a3918f-7153-46be-b29c-b679bd60bb5c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4706,11 +4704,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>55500</string>
+			<string>53625</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{75a3918f-7153-46be-b29c-b679bd60bb5c}</string>
+				<string>note_{613e05b2-2749-4ba8-b26a-c7da8e16eee1}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4722,11 +4720,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>55875</string>
+			<string>54000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{613e05b2-2749-4ba8-b26a-c7da8e16eee1}</string>
+				<string>note_{b792550f-ba39-4b4b-9939-010f1404b5e0}</string>
+				
+				<string>note_{c9f57266-50f3-4b32-a710-41950a3a1f8d}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4738,13 +4738,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>56250</string>
+			<string>54750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{b792550f-ba39-4b4b-9939-010f1404b5e0}</string>
-				
-				<string>note_{c9f57266-50f3-4b32-a710-41950a3a1f8d}</string>
+				<string>note_{6b7bb502-4ff3-4377-8436-e4f3b72b14d9}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4756,11 +4754,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>57000</string>
+			<string>55500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{6b7bb502-4ff3-4377-8436-e4f3b72b14d9}</string>
+				<string>note_{57276609-b3c2-40d2-849f-bba2f088a9d3}</string>
+				
+				<string>rest_{b78f01da-9a1f-48dd-ac42-d94f9beacd70}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4772,13 +4772,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>57750</string>
+			<string>55875</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{57276609-b3c2-40d2-849f-bba2f088a9d3}</string>
-				
-				<string>rest_{b78f01da-9a1f-48dd-ac42-d94f9beacd70}</string>
+				<string>note_{f740e427-f1d0-47a8-a1c4-bf845e2fba1b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4790,11 +4788,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>58125</string>
+			<string>56250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{f740e427-f1d0-47a8-a1c4-bf845e2fba1b}</string>
+				<string>note_{2678a63e-907f-43b6-b394-aa8072b0dc99}</string>
+				
+				<string>note_{ef52e8c1-0796-4466-b606-24b71efdd7b7}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4806,13 +4806,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>58500</string>
+			<string>57000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{2678a63e-907f-43b6-b394-aa8072b0dc99}</string>
-				
-				<string>note_{ef52e8c1-0796-4466-b606-24b71efdd7b7}</string>
+				<string>note_{6f7d0d98-6fae-47cb-9f39-d3ffce07c23d}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4824,11 +4822,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>59250</string>
+			<string>57750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{6f7d0d98-6fae-47cb-9f39-d3ffce07c23d}</string>
+				<string>note_{df1de4e5-fd02-4ce5-a760-57524298c4c1}</string>
+				
+				<string>rest_{ad069fb9-77e0-44d8-b4d4-8c601512c734}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4840,13 +4840,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>60000</string>
+			<string>58125</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{df1de4e5-fd02-4ce5-a760-57524298c4c1}</string>
-				
-				<string>rest_{ad069fb9-77e0-44d8-b4d4-8c601512c734}</string>
+				<string>note_{c39c3652-2f19-4777-99bc-1c6a8b0e020c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4858,11 +4856,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>60375</string>
+			<string>58500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c39c3652-2f19-4777-99bc-1c6a8b0e020c}</string>
+				<string>note_{f018a4ba-75ba-4976-9fef-54a8a2cd94e0}</string>
+				
+				<string>note_{43516aa2-b5b9-4095-a9e9-fc07c17cf8c4}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4874,13 +4874,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>60750</string>
+			<string>59250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{f018a4ba-75ba-4976-9fef-54a8a2cd94e0}</string>
-				
-				<string>note_{43516aa2-b5b9-4095-a9e9-fc07c17cf8c4}</string>
+				<string>note_{10792059-9b6c-4150-8803-aaeb5bcf62ca}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4892,11 +4890,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>61500</string>
+			<string>60000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{10792059-9b6c-4150-8803-aaeb5bcf62ca}</string>
+				<string>note_{4dbecb12-13c9-488f-9584-5c4e0a4b287a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4908,11 +4906,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>62250</string>
+			<string>60750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{4dbecb12-13c9-488f-9584-5c4e0a4b287a}</string>
+				<string>note_{9e1dea8e-02e1-4403-92fe-e7af134f5f01}</string>
+				
+				<string>note_{0ef2cc5a-f962-488e-b8b9-facf01eed61b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4924,13 +4924,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>63000</string>
+			<string>61500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{9e1dea8e-02e1-4403-92fe-e7af134f5f01}</string>
-				
-				<string>note_{0ef2cc5a-f962-488e-b8b9-facf01eed61b}</string>
+				<string>note_{c10a46ec-2c36-4cce-a37f-b82300abddf8}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4942,11 +4940,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>63750</string>
+			<string>62250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c10a46ec-2c36-4cce-a37f-b82300abddf8}</string>
+				<string>note_{e8cc1d85-7853-4619-9aaf-401aaa9875db}</string>
+				
+				<string>rest_{0ab564ed-824c-4fbb-a418-fef5b68838d9}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4958,13 +4958,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>64500</string>
+			<string>62625</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{e8cc1d85-7853-4619-9aaf-401aaa9875db}</string>
-				
-				<string>rest_{0ab564ed-824c-4fbb-a418-fef5b68838d9}</string>
+				<string>note_{6f4fbace-7274-4ed1-b2d3-691497e52962}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4976,11 +4974,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>64875</string>
+			<string>63000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{6f4fbace-7274-4ed1-b2d3-691497e52962}</string>
+				<string>note_{5967a24c-ea16-43ec-8c17-c5ed02f78fcd}</string>
+				
+				<string>note_{16dca1ef-2250-4988-8861-16f54eee8236}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -4992,13 +4992,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>65250</string>
+			<string>63750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{5967a24c-ea16-43ec-8c17-c5ed02f78fcd}</string>
-				
-				<string>note_{16dca1ef-2250-4988-8861-16f54eee8236}</string>
+				<string>note_{988ec3af-261f-46ee-ab9c-21df6f771246}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5010,11 +5008,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>66000</string>
+			<string>64500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{988ec3af-261f-46ee-ab9c-21df6f771246}</string>
+				<string>note_{8ff7f813-5db1-4227-8a62-907a1a586e7a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5026,11 +5024,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>66750</string>
+			<string>64875</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{8ff7f813-5db1-4227-8a62-907a1a586e7a}</string>
+				<string>note_{25316954-4530-4cf4-a24e-fd3454c06825}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5042,11 +5040,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>67125</string>
+			<string>65250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{25316954-4530-4cf4-a24e-fd3454c06825}</string>
+				<string>note_{e33cbb7b-66f9-41ab-aee1-f470f974b890}</string>
+				
+				<string>note_{72762a5f-d49a-490e-80d0-ff4c26627e8a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5058,13 +5058,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>67500</string>
+			<string>66000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{e33cbb7b-66f9-41ab-aee1-f470f974b890}</string>
+				<string>note_{9845a818-4b1f-4686-a361-27d1c901e245}</string>
 				
-				<string>note_{72762a5f-d49a-490e-80d0-ff4c26627e8a}</string>
+				<string>rest_{97504e67-3a0d-423c-83d3-d7796cee3fee}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5076,13 +5076,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>68250</string>
+			<string>66750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{9845a818-4b1f-4686-a361-27d1c901e245}</string>
+				<string>note_{65d29673-ab57-4cd9-a28b-4d4b587a8059}</string>
 				
-				<string>rest_{97504e67-3a0d-423c-83d3-d7796cee3fee}</string>
+				<string>rest_{5325a05d-1110-45b7-978a-ae90fd4e7fd7}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5094,13 +5094,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>69000</string>
+			<string>67125</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{65d29673-ab57-4cd9-a28b-4d4b587a8059}</string>
-				
-				<string>rest_{5325a05d-1110-45b7-978a-ae90fd4e7fd7}</string>
+				<string>note_{d3975995-b7d2-484c-ad0d-f6ed45e68861}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5112,11 +5110,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>69375</string>
+			<string>67500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{d3975995-b7d2-484c-ad0d-f6ed45e68861}</string>
+				<string>note_{d48988bd-1c6d-4d21-8a6a-9711a6bf18c2}</string>
+				
+				<string>note_{5d26e3cf-c587-48a5-8957-d40aeb26fcfe}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5128,13 +5128,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>69750</string>
+			<string>67875</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{d48988bd-1c6d-4d21-8a6a-9711a6bf18c2}</string>
-				
-				<string>note_{5d26e3cf-c587-48a5-8957-d40aeb26fcfe}</string>
+				<string>note_{a9bbbd50-acb9-431b-b5c8-30b987986d5f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5146,11 +5144,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>70125</string>
+			<string>68250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{a9bbbd50-acb9-431b-b5c8-30b987986d5f}</string>
+				<string>note_{9705c043-ec59-48b5-a151-515cd0f1bc2a}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5162,11 +5160,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>70500</string>
+			<string>69000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{9705c043-ec59-48b5-a151-515cd0f1bc2a}</string>
+				<string>note_{1c6c0efe-a47b-49ba-a9af-45e9a937370b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5178,11 +5176,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>71250</string>
+			<string>69750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1c6c0efe-a47b-49ba-a9af-45e9a937370b}</string>
+				<string>note_{0ead1a7a-110a-41ae-94eb-c87977dd2ca3}</string>
+				
+				<string>note_{6d7ad595-e8f0-4e49-981c-870fb669632c}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5194,13 +5194,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>72000</string>
+			<string>71250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{0ead1a7a-110a-41ae-94eb-c87977dd2ca3}</string>
+				<string>note_{5cbf9e88-db20-4db8-9432-c7a9b3036590}</string>
 				
-				<string>note_{6d7ad595-e8f0-4e49-981c-870fb669632c}</string>
+				<string>rest_{d0e7b73a-ed89-4cd2-b845-5a1c60db39ee}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5212,13 +5212,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>73500</string>
+			<string>71625</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{5cbf9e88-db20-4db8-9432-c7a9b3036590}</string>
-				
-				<string>rest_{d0e7b73a-ed89-4cd2-b845-5a1c60db39ee}</string>
+				<string>note_{7b8c4ff9-1c67-4ebd-a18d-c8475c684926}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5230,11 +5228,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>73875</string>
+			<string>72000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{7b8c4ff9-1c67-4ebd-a18d-c8475c684926}</string>
+				<string>note_{245f5946-8294-401d-9633-6a4a69cf5e2b}</string>
+				
+				<string>note_{d55a9cc7-b19c-4c86-9eb6-2c40fab95567}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5246,13 +5246,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>74250</string>
+			<string>72750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{245f5946-8294-401d-9633-6a4a69cf5e2b}</string>
-				
-				<string>note_{d55a9cc7-b19c-4c86-9eb6-2c40fab95567}</string>
+				<string>note_{1b98f798-8b27-4c9f-93aa-3d1e810ac47b}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5264,11 +5262,13 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>75000</string>
+			<string>73500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1b98f798-8b27-4c9f-93aa-3d1e810ac47b}</string>
+				<string>note_{9c0de38f-624b-42a8-b04c-fcd6ff9c3f2b}</string>
+				
+				<string>rest_{58ccec49-2152-48b6-97f8-136a96cfb9e8}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5280,13 +5280,11 @@
 			<key>sysno</key>
 			<string>3</string>
 			<key>position</key>
-			<string>75750</string>
+			<string>73875</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{9c0de38f-624b-42a8-b04c-fcd6ff9c3f2b}</string>
-				
-				<string>rest_{58ccec49-2152-48b6-97f8-136a96cfb9e8}</string>
+				<string>note_{70b8625b-3517-4a2d-b534-4be66b2f2105}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5296,13 +5294,15 @@
 			<key>elid</key>
 			<string>103</string>
 			<key>sysno</key>
-			<string>3</string>
+			<string>4</string>
 			<key>position</key>
-			<string>76125</string>
+			<string>74250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{70b8625b-3517-4a2d-b534-4be66b2f2105}</string>
+				<string>note_{d426f1e1-d045-430d-b0f7-adfb1a3f72ba}</string>
+				
+				<string>note_{f9c4d65c-a13c-4fbf-a900-a7318727bf14}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5314,13 +5314,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>76500</string>
+			<string>75000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{d426f1e1-d045-430d-b0f7-adfb1a3f72ba}</string>
-				
-				<string>note_{f9c4d65c-a13c-4fbf-a900-a7318727bf14}</string>
+				<string>note_{910504e0-db77-476c-b08a-c58e7e2551fd}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5332,11 +5330,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>77250</string>
+			<string>75750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{910504e0-db77-476c-b08a-c58e7e2551fd}</string>
+				<string>note_{217237dd-8828-47b1-9256-284cca4423fc}</string>
+				
+				<string>rest_{0811335c-b131-4422-8bb7-5493e3e183ef}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5348,13 +5348,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>78000</string>
+			<string>76125</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{217237dd-8828-47b1-9256-284cca4423fc}</string>
-				
-				<string>rest_{0811335c-b131-4422-8bb7-5493e3e183ef}</string>
+				<string>note_{4990deaf-d244-4db2-8472-ac15083ee499}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5366,11 +5364,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>78375</string>
+			<string>76500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{4990deaf-d244-4db2-8472-ac15083ee499}</string>
+				<string>note_{926b81dc-5587-44be-a51d-11de7960382f}</string>
+				
+				<string>note_{b670ece8-a289-45cf-b32a-17422429e468}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5382,13 +5382,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>78750</string>
+			<string>77250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{926b81dc-5587-44be-a51d-11de7960382f}</string>
-				
-				<string>note_{b670ece8-a289-45cf-b32a-17422429e468}</string>
+				<string>note_{c2c6179f-f0f0-434f-886a-6b518b4b964f}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5400,11 +5398,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>79500</string>
+			<string>78000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c2c6179f-f0f0-434f-886a-6b518b4b964f}</string>
+				<string>note_{64f05878-49f0-40eb-8d33-d1ac0a9778b1}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5416,11 +5414,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>80250</string>
+			<string>78750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{64f05878-49f0-40eb-8d33-d1ac0a9778b1}</string>
+				<string>note_{1ec23f23-6bb1-4e30-9a81-63b7706e9466}</string>
+				
+				<string>note_{1eb255ce-1ae4-49f1-9c56-a8a36f40ff15}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5432,13 +5432,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>81000</string>
+			<string>80250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{1ec23f23-6bb1-4e30-9a81-63b7706e9466}</string>
+				<string>note_{f5cf216e-854d-4993-93fb-6a029cba32e3}</string>
 				
-				<string>note_{1eb255ce-1ae4-49f1-9c56-a8a36f40ff15}</string>
+				<string>rest_{af23eb11-b76f-4241-a2ec-11a4ea0168b4}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5450,13 +5450,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>82500</string>
+			<string>80625</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{f5cf216e-854d-4993-93fb-6a029cba32e3}</string>
-				
-				<string>rest_{af23eb11-b76f-4241-a2ec-11a4ea0168b4}</string>
+				<string>note_{c00aabe1-ebf9-4396-bb91-0db6668ee7d1}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5468,11 +5466,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>82875</string>
+			<string>81000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c00aabe1-ebf9-4396-bb91-0db6668ee7d1}</string>
+				<string>note_{ef987236-5b2f-4864-aa0e-2ecce0fdc2a4}</string>
+				
+				<string>note_{362daee9-cdec-49ac-ac75-39f88db8e519}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5484,13 +5484,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>83250</string>
+			<string>81750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{ef987236-5b2f-4864-aa0e-2ecce0fdc2a4}</string>
-				
-				<string>note_{362daee9-cdec-49ac-ac75-39f88db8e519}</string>
+				<string>note_{890ad36d-b8af-4d3e-9efc-585a8b599aaf}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5502,11 +5500,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>84000</string>
+			<string>82500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{890ad36d-b8af-4d3e-9efc-585a8b599aaf}</string>
+				<string>note_{411e6b3f-cfe6-4a25-ab5c-d4a266c2cc93}</string>
+				
+				<string>rest_{03099e93-e3b8-4939-a992-76e292b62b98}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5518,13 +5518,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>84750</string>
+			<string>82875</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{411e6b3f-cfe6-4a25-ab5c-d4a266c2cc93}</string>
-				
-				<string>rest_{03099e93-e3b8-4939-a992-76e292b62b98}</string>
+				<string>note_{10122b21-5e93-4f63-8939-9d5711061101}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5536,11 +5534,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>85125</string>
+			<string>83250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{10122b21-5e93-4f63-8939-9d5711061101}</string>
+				<string>note_{4b57af59-90ac-4611-954e-b03f78be219e}</string>
+				
+				<string>note_{411559b6-0f8e-46b4-a394-e58f7aa37174}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5552,13 +5552,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>85500</string>
+			<string>84000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{4b57af59-90ac-4611-954e-b03f78be219e}</string>
-				
-				<string>note_{411559b6-0f8e-46b4-a394-e58f7aa37174}</string>
+				<string>note_{0568032c-d79d-4bc9-99bb-2bb7666e8dbd}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5570,11 +5568,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>86250</string>
+			<string>84750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{0568032c-d79d-4bc9-99bb-2bb7666e8dbd}</string>
+				<string>note_{84a6e525-0ba2-4953-a877-78899b2a7bc9}</string>
+				
+				<string>rest_{bff7bf0d-94f1-4b4f-b2d2-8276cad6be82}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5586,13 +5586,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>87000</string>
+			<string>85125</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{84a6e525-0ba2-4953-a877-78899b2a7bc9}</string>
-				
-				<string>rest_{bff7bf0d-94f1-4b4f-b2d2-8276cad6be82}</string>
+				<string>note_{c97c3bd2-ce22-4d56-972f-5a4241165353}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5604,11 +5602,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>87375</string>
+			<string>85500</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c97c3bd2-ce22-4d56-972f-5a4241165353}</string>
+				<string>note_{f7b63eeb-41f2-474b-9b00-3b6ff87440c2}</string>
+				
+				<string>note_{d0cd84a9-8239-4569-97e9-0ce707bd4329}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5620,13 +5620,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>87750</string>
+			<string>86250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{f7b63eeb-41f2-474b-9b00-3b6ff87440c2}</string>
-				
-				<string>note_{d0cd84a9-8239-4569-97e9-0ce707bd4329}</string>
+				<string>note_{410b1367-f5c9-426c-81f0-916de36ab1a7}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5638,11 +5636,11 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>88500</string>
+			<string>87000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{410b1367-f5c9-426c-81f0-916de36ab1a7}</string>
+				<string>note_{042acd80-55bc-4bf6-ac86-fa79f8962ffb}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5654,11 +5652,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>89250</string>
+			<string>87750</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{042acd80-55bc-4bf6-ac86-fa79f8962ffb}</string>
+				<string>note_{c58e5734-67d9-43e3-a9ab-a58c4de4fdf3}</string>
+				
+				<string>note_{453d52fe-52f0-4730-8184-d0787f43f8e2}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5670,13 +5670,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>90000</string>
+			<string>89250</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>note_{c58e5734-67d9-43e3-a9ab-a58c4de4fdf3}</string>
+				<string>rest_{8c5a3605-a1a3-40ff-a254-535015e7505a}</string>
 				
-				<string>note_{453d52fe-52f0-4730-8184-d0787f43f8e2}</string>
+				<string>rest_{1eefc121-8c85-4219-9909-b848bc335206}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
@@ -5688,13 +5688,13 @@
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>91500</string>
+			<string>90000</string>
 			<key>identifys</key>
 			<array>
 				
-				<string>rest_{8c5a3605-a1a3-40ff-a254-535015e7505a}</string>
+				<string>rest_{398e9de0-6861-4d89-8d11-9877b1fbe72f}</string>
 				
-				<string>rest_{1eefc121-8c85-4219-9909-b848bc335206}</string>
+				<string>rest_{559d0481-7e4f-4066-a615-0947bdc04177}</string>
 			</array>
 			<key>mduration</key>
 			<integer>0</integer>
