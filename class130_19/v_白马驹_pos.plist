@@ -16,7 +16,53 @@
 	</dict>
 	<key>notes</key>
 	<dict>
-		<key>{e042f34e-751b-4f57-8519-b8b100ddf101}</key>
+		<key>{ba3b2aef-8367-4c25-b2b3-7718d2cd5ab7}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>2</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{5aa977db-e971-49a7-9777-042ca85a78a3}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{ba9f4a45-bb63-4413-a9b2-5490183d883a}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -37,7 +83,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{45db9f3f-d40f-4b19-b255-6cdd71d4029a}</key>
+		<key>{26ba1604-fa6d-4689-bfbf-f3f91e194320}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -58,7 +104,53 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{3ca5acd0-5e56-4203-a965-1105b56e90da}</key>
+		<key>{b242a80f-62b2-4bfa-b25f-a5f298c1712c}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>2</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{0e080530-2870-478f-b2a6-709980f2b06e}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{75f8319c-004b-42a7-9d06-29f6ac14b835}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -79,7 +171,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{2fbcffca-149c-4d43-a99b-f7e6bd57f893}</key>
+		<key>{0ec17bae-d7b4-495b-96f0-38c4323ccfb2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -100,91 +192,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{bada64c4-49f6-4578-9755-bef343ba1b53}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>2</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{046580e0-b0c6-4e07-9681-5d0315b4ed9c}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>3</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{1f02344f-b213-411a-89be-fb12582ed7f4}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>2</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{6341d4d0-614e-4092-92fa-aea434a41cd6}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>3</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{a3ca3e47-883f-46f5-b4a6-b8bbe67ab92e}</key>
+		<key>{08e3fd4f-12f1-483e-8afc-806c41d20434}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -204,8 +212,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
 		</dict>
-		<key>{1fb74681-973e-4eb3-beb6-2d3a087a1fc3}</key>
+		<key>{7376bdd5-5ce1-4a73-a75a-afff637d00a5}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -225,8 +235,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
 		</dict>
-		<key>{527c6036-aa77-4e73-b576-04d49daa45ec}</key>
+		<key>{0efaae8e-4ddd-41cb-ab4b-6649656e5775}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -246,8 +258,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{1de6bda8-02bc-4498-9129-e440442af7bb}</key>
+		<key>{43cf8538-071a-4d78-a590-1177d5b06f08}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -267,8 +281,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{c76f8a85-13b4-4f65-b9fb-e6c3bd24b3ff}</key>
+		<key>{7c4d6b31-7fc3-41c4-baa1-6fcdfa75b9cf}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -288,8 +304,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{6221cd97-1ac6-4d78-9850-1b03ede9c688}</key>
+		<key>{77850179-a59c-4f89-9dc2-8f3e22a90898}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -310,7 +328,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{9ba2d4ce-fdb1-4489-ad98-7797c0239e83}</key>
+		<key>{0b1e4ce5-58a5-4761-af67-ed627fa58961}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -331,7 +349,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6228a343-9698-4787-a6c1-06ab10aa7465}</key>
+		<key>{bbe1e968-26c1-46c1-8df9-2af6a8e2e12c}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -351,8 +369,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{ed58f155-9aa3-4383-bdad-0349f98083dd}</key>
+		<key>{73c01d2d-5a13-4e14-b315-c02904531c0c}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -372,8 +392,56 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{c8ccf42f-f6a5-4696-a552-5365e4287a85}</key>
+		<key>{66e5f4ea-32de-4bb8-98dc-7e85be5d2df9}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>2</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{a545b79a-5f92-487d-ae2c-123d8be489ae}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{6f64ea43-ba90-41e5-9a33-0b01dc466162}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -394,7 +462,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{8449424b-08a6-4fdc-8fb9-b1f206bb2184}</key>
+		<key>{f2238210-1902-4129-9cda-82b0caf4f80d}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -415,49 +483,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{3306c3c5-d648-4177-8b5a-4d8adc41445d}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>2</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{66ef4a38-3f07-46e1-98c8-0cd2329510f6}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>3</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{c05cafa1-49b3-477b-8875-64eac2fc9c80}</key>
+		<key>{ccd4d450-a305-4b86-90c3-412b3e28e4d5}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -477,8 +503,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
 		</dict>
-		<key>{54bf0f46-c44b-4fa3-8450-7a9be7694ea5}</key>
+		<key>{3ae77138-03dc-4fcb-b076-7071ca234bb9}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -499,7 +527,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{dc70678a-d3b2-4b7e-b3d8-05dbb601f17f}</key>
+		<key>{6cef27c1-68d2-44f4-bb4d-5e1bff275ea7}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -520,7 +548,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{4c874d79-0809-4d20-b1cb-932152799d6b}</key>
+		<key>{f822e61e-60f6-4e0d-a8c8-9d9cb90d373b}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -540,8 +568,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{96f94f4c-b304-4764-91d6-45ca5d8b5df0}</key>
+		<key>{c1577e2c-3dff-4ab9-b597-fc03f3fd5d07}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -561,8 +591,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{6757ab32-9ca8-45a2-84a6-969b866da34e}</key>
+		<key>{e404c285-0a32-48f1-9fde-0592a0520b87}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -583,7 +615,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{95d2cfe7-b1b1-4764-b44e-3d224ebc8ca2}</key>
+		<key>{be62bc24-e2d4-43c2-afae-bc91c6c870a8}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -604,7 +636,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{5875fa83-733e-488d-a4ab-d49366b10a5c}</key>
+		<key>{97c3317a-e65d-46ef-89b2-dea6c22cd520}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -624,8 +656,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{d015ad2c-635e-4a1e-810c-b7da1ab4c074}</key>
+		<key>{b1234d80-5c04-478a-9791-3af15b87fe0b}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -645,8 +679,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{23dcfef6-fd55-4c13-890c-c843d93c95a7}</key>
+		<key>{51ca3979-7fcd-4b92-91cc-bdcdce0ceb33}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -667,7 +703,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{8ccf0255-dd01-47ab-9bbb-1d44760934a3}</key>
+		<key>{310e20c4-7e3e-4860-8988-b3675dc6a5c1}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -688,7 +724,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{0bc37639-87b6-42c3-b395-26c424f5aa23}</key>
+		<key>{1a12c8fd-2508-4ecc-9a8e-4787b85c66c8}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -709,7 +745,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{4d49337a-fd4f-4e17-8eac-864d11fcf18c}</key>
+		<key>{79bbc35f-887d-4d71-90d9-b66c5771fdf2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -730,7 +766,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{d8d2f34f-6e58-4b8e-8d3d-b63dc425447e}</key>
+		<key>{c1bb3634-a06c-4924-8220-f934b9a0d1a2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -750,8 +786,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{96e6b722-e814-4f62-aaf2-8203f28c31ba}</key>
+		<key>{03bbf568-cdf8-4726-b365-8a9867950b20}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -772,7 +810,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6fd5ee61-5a2d-46d2-80b4-b957930d8f5e}</key>
+		<key>{ee20cf57-710f-4385-b563-70e5b5408568}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -793,7 +831,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{12e14596-f05b-481b-95c0-df1590cd0f4e}</key>
+		<key>{db08f72c-dab5-4a97-be84-e57b2b466c09}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -813,8 +851,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{e2790836-8ceb-4546-8aa7-ec6d1f4e46a4}</key>
+		<key>{5beac4a1-44c6-416a-8d1c-af444ca3f097}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -835,7 +875,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{9f155bbf-c22e-4c37-baf1-aa6036f3003d}</key>
+		<key>{6d75fbed-2525-438f-837a-7095109dccb6}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -856,7 +896,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{dd9b0d5c-0f25-4732-a1e6-2acf78233c43}</key>
+		<key>{c5976825-d1ea-431d-9d67-96d9d9dc3bfa}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -876,8 +916,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{dc027ae7-9975-4695-b3db-ea004fdb3e37}</key>
+		<key>{6b16c170-3530-4ea0-b11f-bb8f19ffe3fb}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -898,7 +940,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{cd1e57e0-1660-44ad-9af7-daca739e919f}</key>
+		<key>{037570d7-b98e-4e31-897a-7f1138068841}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -919,7 +961,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{1b8bace1-e960-413b-85af-1393a1d0d3ee}</key>
+		<key>{e4d602e2-fea3-429f-a2d4-76cdd45694c2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -939,8 +981,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{b8365518-8e7c-4129-9347-3ff5d3e794bf}</key>
+		<key>{09cb37e0-15c0-4d73-b6c0-fa1a31dfaf8a}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -961,7 +1005,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{42e00fab-7a42-463e-8d4b-73a1f6d27f9e}</key>
+		<key>{6312ca50-5511-4d88-b1cc-c8ed54898bf2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -982,7 +1026,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{57eeae56-ce54-4734-bf63-9ec943ff20df}</key>
+		<key>{2900f251-17de-4c72-bb28-3e34dfc523b2}</key>
 		<dict>
 			<key>type</key>
 			<string>half</string>
@@ -1002,8 +1046,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{732c6dd3-4c65-49f2-8263-cae25e86df12}</key>
+		<key>{aba24425-7dab-436c-8e2e-81c369aacc43}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1024,7 +1070,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{5df0cf21-422f-4472-a69a-b82478eaa81a}</key>
+		<key>{9fdb1393-6a91-45a1-896e-db9030f8ef7f}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1045,7 +1091,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{fa00c0b3-d983-40a0-b7ec-50adca8ccfa9}</key>
+		<key>{1c130646-e653-4d73-b808-44e3d03b1ac2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1066,7 +1112,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{58d70ef9-7d79-474b-a7d8-ce0d83d636f4}</key>
+		<key>{b2a6e8f9-79c7-4f82-8459-0d178fb1a95f}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1087,7 +1133,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6fed2322-575e-4b15-8981-cb4995636205}</key>
+		<key>{b1c6716d-2696-4e7f-9c7a-bfda01bdeafb}</key>
 		<dict>
 			<key>type</key>
 			<string>half</string>
@@ -1107,8 +1153,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{6c48db29-354a-4524-8e4a-0e1407f038c2}</key>
+		<key>{3af77807-d50c-4059-9716-a43ab3a1fe46}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1129,7 +1177,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{1be75c4e-ad84-4fcb-ab7f-0519cbb05970}</key>
+		<key>{e3bc3a23-c06e-4403-8138-daf1b572271d}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1150,7 +1198,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{eefeb83b-7a9b-486e-8444-659f4d260de5}</key>
+		<key>{625a26e7-f6ca-4dae-b43e-5d66b66b662d}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1171,7 +1219,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{49a01d9a-bfc0-496b-b0dd-c9ab38c99f53}</key>
+		<key>{c5b4fbb2-87f6-4b17-9e94-a8265c7261c2}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1192,7 +1240,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{8f22ee25-e750-47c8-8ca0-a934a880c399}</key>
+		<key>{7545be99-79cc-449b-bebb-cc9b60215104}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1212,8 +1260,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
 		</dict>
-		<key>{b24d443a-5fa1-421e-a181-bc8611a82c9c}</key>
+		<key>{c502e7da-0364-42e0-a6b8-8c371d2085b7}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1234,7 +1284,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{72fbb0d6-2559-4f85-bc1b-5b28d3b0f257}</key>
+		<key>{293644b2-80dd-48ff-a97b-04533c5e325e}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1255,7 +1305,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{93244523-dbff-418d-9ef8-6f422dd4f4e2}</key>
+		<key>{13667dd2-e6a0-4da9-baec-f66e8083e511}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1275,8 +1325,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{b4b96f40-e116-4864-8b34-dc9960d2f74b}</key>
+		<key>{e1c9f116-17c2-4392-b54f-ca756614475c}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1296,8 +1348,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{5eed1380-7fa9-4127-a221-4798a8c96903}</key>
+		<key>{201ff007-a03e-4045-9584-fe934fe73628}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1318,7 +1372,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{145c2627-724d-493f-bb70-9fdb5ec75203}</key>
+		<key>{7e7a1b3a-5185-4417-84be-1d0a46ac8933}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1339,7 +1393,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{ec8e210d-f70e-4d9f-81c0-04ab635456c7}</key>
+		<key>{bca4120f-d9eb-47e9-9020-0788651e3318}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1359,8 +1413,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{e7315abd-f393-450b-b75d-33bb5c3971a1}</key>
+		<key>{d9a10bca-8679-443c-b42f-57218ac159c0}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1380,8 +1436,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{803e554d-9a3f-4831-be23-74a7a7270409}</key>
+		<key>{f2ab0b4e-0e05-4cce-a48c-ba369782a449}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1402,7 +1460,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6e06b222-80a6-4406-b0d3-6225c724b576}</key>
+		<key>{01021863-73e7-471f-a3ea-0174f5227a09}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1423,7 +1481,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{75f36d10-304f-40e8-bcbc-d6c707a2d4df}</key>
+		<key>{8516c5ea-398a-482a-8412-f5f8bad3ffbd}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1444,7 +1502,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{72e85b87-4bc6-427d-af73-eb2de84ebc04}</key>
+		<key>{f29428e6-9db4-408b-bf89-702f4263f902}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1465,7 +1523,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{1084ed35-72d7-44c2-bcda-9e9f1081fe6b}</key>
+		<key>{27209482-af7f-49b9-89eb-f4eb21e3da94}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1485,8 +1543,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
 		</dict>
-		<key>{273cefd3-73e7-44f6-879c-ee8fc2ce5f04}</key>
+		<key>{8f8cdf79-8374-4876-a6a6-d1e80d9f618d}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1507,7 +1567,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{0e3a1cc8-84ac-44b4-af8f-5c48dd61593a}</key>
+		<key>{83f3dfc3-f7f5-4c2e-b9b9-4e9624333969}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1528,7 +1588,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{1be9534f-86ab-4d24-b1b5-d78de724faba}</key>
+		<key>{3e29da03-e927-42d9-801c-0ca4d7d74089}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1548,8 +1608,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{00ac7e93-497a-44f5-a456-9fd347bfe157}</key>
+		<key>{3a97d1de-f59e-4d53-a2cb-a868cf968ce1}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1569,8 +1631,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{4d246dc7-2d12-400f-b628-c2a0f72027bc}</key>
+		<key>{93d7c535-978a-4cae-af31-d64e8f7d6b86}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1591,7 +1655,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{f7fce992-5191-4fb2-99d5-0f13a77e60eb}</key>
+		<key>{0b4c20af-4cf4-4124-a02d-57434e85dd07}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1612,7 +1676,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{af6ad521-0160-4919-a3a3-3a5e3bdb7935}</key>
+		<key>{aadb1b4a-9833-427e-9564-717bcc7f000c}</key>
 		<dict>
 			<key>type</key>
 			<string>eighth</string>
@@ -1632,8 +1696,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{d7918dcb-ef2d-46da-915d-3995bf23d2b4}</key>
+		<key>{a5103ff8-3b21-4284-875b-dca7d952035e}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1653,8 +1719,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{35e97c2a-1435-47c4-816f-2fc820369d14}</key>
+		<key>{81561b87-d6ea-4877-9a6f-bf7b803cfff6}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1675,7 +1743,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{37ff4f42-5865-478c-97d0-20b3eddf9206}</key>
+		<key>{f70b57ec-e5d1-4462-9fc8-b8e8bfa16502}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1696,7 +1764,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6cb98ac1-8ec8-4b98-94db-2a33f43f9311}</key>
+		<key>{f963d98c-0b48-4a7f-89a6-1ccfbb2a1684}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1717,7 +1785,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{9654cc45-5ec4-40b3-a757-8df334af0b93}</key>
+		<key>{7a60d34f-f4c0-4350-839e-8e4a2d62ac2f}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1738,7 +1806,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{5ff7eb18-16c0-4b62-8411-872921e4609e}</key>
+		<key>{af56966c-2217-4580-b05d-684ae9591727}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1758,8 +1826,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{2b46677e-f9df-4011-9a18-d0c79733050c}</key>
+		<key>{fc6bfc4d-5edd-4b54-b40b-4435cd073137}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1780,7 +1850,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{4213dd3c-0180-4efa-ae28-2d0465424151}</key>
+		<key>{5d52ad32-d622-4f01-be21-ed0951ef840f}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1801,7 +1871,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{ce773fba-07bd-4c0f-be9f-0efc460417f2}</key>
+		<key>{f8d571c1-32e4-4cfc-92bd-f9de98a2f3d6}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1821,8 +1891,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>4</string>
 		</dict>
-		<key>{180b1238-9a8a-4fd5-9bf4-83b43bfe914c}</key>
+		<key>{d09fceb4-780a-416a-8d05-c08a34b8ce08}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1843,7 +1915,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{9a44b510-d243-4224-977e-e5b82885be7d}</key>
+		<key>{0d6d0d3b-1e58-47dd-8cb2-f10fc0c7eb40}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1864,7 +1936,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{56219c61-31d7-4740-970c-6ca13208b6e0}</key>
+		<key>{d89f7abf-fecc-4260-b6b6-710de374cfce}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1884,8 +1956,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>3</string>
 		</dict>
-		<key>{8f55a208-7d2c-4a2d-989d-de0b2cd66256}</key>
+		<key>{49a0b92b-bebe-435d-8282-c4905233e77c}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1906,7 +1980,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{2852c6bb-b63d-4276-a28f-2defd654e4b8}</key>
+		<key>{ccbf3967-29ac-48a8-b1dd-f5a472f43411}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1927,7 +2001,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{6ae9486a-33d2-494a-b1a1-3bb170109fcc}</key>
+		<key>{1d33b462-6f6d-4db7-8074-466705124ebb}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1947,8 +2021,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>2</string>
 		</dict>
-		<key>{326e3a96-e238-4fc2-b171-2f668b220f79}</key>
+		<key>{628b5adf-873d-4b38-a936-bb1d792d4b15}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1969,7 +2045,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{a42f9519-aa12-4de6-9540-f00592cded6c}</key>
+		<key>{8a89c6f0-b7ca-4978-84c6-e2e078752a00}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -1990,7 +2066,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{58e7e8f7-e343-4f28-828d-5f92a29b5414}</key>
+		<key>{2bc31180-7220-4b06-ac12-6e4495d6aad6}</key>
 		<dict>
 			<key>type</key>
 			<string>half</string>
@@ -2010,8 +2086,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{06c0993a-1690-4c6f-9c8b-44c63089b6c5}</key>
+		<key>{8e481751-b13b-4de9-9699-55ef5dac49cd}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2032,7 +2110,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{b62a3348-d81f-4b66-bdd9-27f797223a94}</key>
+		<key>{1facd88c-0e73-4038-981e-f3219e3b7bfb}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2053,7 +2131,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{db0084f8-3ab0-4224-bd09-69ceb3cb7bdd}</key>
+		<key>{98a3e1a1-cd39-4a32-aeaf-8fbaea6275af}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2074,7 +2152,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{0fcc3956-c2d1-4aaf-92fc-836057702622}</key>
+		<key>{f23a3c6a-827a-41cf-966d-145677cee996}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2095,7 +2173,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{bd7cf2e2-3893-4c70-a615-3d30549b612c}</key>
+		<key>{96ffab39-1426-4633-9b22-223d58e91a3c}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2116,7 +2194,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{5e818179-2d7f-49d4-a96d-9db58c1ab2de}</key>
+		<key>{03fc69a7-bab3-4c1a-8402-76b485be2714}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2137,7 +2215,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{bb3598bc-40ea-41ab-869f-7cffa8b3b4b7}</key>
+		<key>{b0393f5d-bb18-4d49-99f7-73f6646bee7b}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2158,7 +2236,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{85503470-15f6-41e4-9e5d-489354baa285}</key>
+		<key>{a9415c77-5992-424c-8d6e-f6f7184dce3e}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2179,7 +2257,99 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{2bad0af4-8afd-4389-ab32-8d8fbcc46556}</key>
+		<key>{9a480289-e356-4de4-8640-a0512c8bf188}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{36ab317b-746e-415d-821e-c2ef6edd4d33}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>5</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{d72032b4-8c8f-4d85-9e0d-94b86293e8e1}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>2</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{02edc632-b940-4925-9507-f2cb984e74f9}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{4b1412d9-98ae-47a4-947c-beeeabeb70e8}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2200,7 +2370,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{aa3b7861-a6ab-4423-b4d9-401df7908e08}</key>
+		<key>{e403a235-276d-4ad5-b540-87defbc0f987}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2221,7 +2391,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{631a09be-cd84-4241-b8d2-ba34ccf96ef0}</key>
+		<key>{7592dce4-7ee5-40db-bae1-3f8e91ac0147}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2242,7 +2412,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{d44fba81-62e7-44d0-beea-82637192f619}</key>
+		<key>{f44c607a-ff61-450b-b11a-21c160b36e54}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2263,7 +2433,99 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{5e42e2a5-7835-4c53-a681-5358b2e0ff7c}</key>
+		<key>{cec64e39-60bc-4037-800d-c26e33c58e44}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>4</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{97b1db6c-f295-4943-bf6d-fc5e5811bf8d}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>5</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{1c057e1b-c78f-4ce5-a319-f41dfcfcd67e}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>G</string>
+			<key>octave</key>
+			<string>2</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>5</string>
+		</dict>
+		<key>{f107215a-4306-4557-bb6f-218ff0cda8ff}</key>
+		<dict>
+			<key>type</key>
+			<string>quarter</string>
+			<key>duration</key>
+			<string>0.5</string>
+			<key>dynamics</key>
+			<string>70.0</string>
+			<key>step</key>
+			<string>D</string>
+			<key>octave</key>
+			<string>3</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+			<key>isgrace</key>
+			<string>0</string>
+			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
+		</dict>
+		<key>{8d4d2b59-b4d3-4ffd-974e-34c54507b60d}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2284,7 +2546,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{26d8cd76-1279-4124-be36-ed466efd21f2}</key>
+		<key>{3905ef7e-eef9-49ab-b694-8255cc4b56c3}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2305,7 +2567,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{9fe86230-fbc6-471c-9281-32a85d084a35}</key>
+		<key>{24adfb89-8786-43e6-865d-f73ea7d61747}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2326,7 +2588,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{d20df826-8225-4569-ade1-2af385008c05}</key>
+		<key>{692cf55e-7ce6-4e74-afa6-2f6fa4805292}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2347,7 +2609,7 @@
 			<key>voice</key>
 			<string>1</string>
 		</dict>
-		<key>{a85b824f-9cd7-484c-b804-867f91aab128}</key>
+		<key>{b977c9bf-8808-40c9-92c8-360b4e167355}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2367,8 +2629,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
+			<key>fingering</key>
+			<string>1</string>
 		</dict>
-		<key>{8d4b36b5-5351-44ef-bdac-66ac2f628d3f}</key>
+		<key>{5d266aa4-4b50-4778-a0ad-88dfba6ec7cd}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2388,92 +2652,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
-		</dict>
-		<key>{8651f19a-67ae-4a69-aab3-1284380339ff}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>2</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{e8e759ca-f0cf-4995-871f-256e12e8df24}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>3</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{6f07c08e-411a-43cb-8e93-01af42049a13}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{a5109fc4-b203-471d-a5e7-43dfae7d7f47}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
+			<key>fingering</key>
 			<string>5</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
 		</dict>
-		<key>{d65d71e2-236c-4fe1-aa64-bf807c18f9e4}</key>
+		<key>{5c52072f-fd93-4f80-9cc8-ea728742f3f9}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2493,92 +2675,10 @@
 			<string>0</string>
 			<key>voice</key>
 			<string>1</string>
-		</dict>
-		<key>{3505dfee-29ac-4a8d-87fc-ca2f73b890eb}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
-			<string>3</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{837a4d9a-2291-45f1-a4ed-e6d0f06fbfda}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>4</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{85431e3f-16ee-4bdf-a49a-805cd7745430}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>D</string>
-			<key>octave</key>
+			<key>fingering</key>
 			<string>5</string>
-			<key>staff</key>
-			<string>1</string>
-			<key>hand</key>
-			<string>1</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
 		</dict>
-		<key>{2f29891d-6e5a-4284-8587-11518449d4c2}</key>
-		<dict>
-			<key>type</key>
-			<string>quarter</string>
-			<key>duration</key>
-			<string>0.5</string>
-			<key>dynamics</key>
-			<string>70.0</string>
-			<key>step</key>
-			<string>G</string>
-			<key>octave</key>
-			<string>2</string>
-			<key>staff</key>
-			<string>2</string>
-			<key>hand</key>
-			<string>2</string>
-			<key>isgrace</key>
-			<string>0</string>
-			<key>voice</key>
-			<string>1</string>
-		</dict>
-		<key>{c8231acb-c56e-4134-8fea-5203ae6e982b}</key>
+		<key>{5abf3052-955e-4432-921f-8ede6c95fc4e}</key>
 		<dict>
 			<key>type</key>
 			<string>quarter</string>
@@ -2597,6 +2697,8 @@
 			<key>isgrace</key>
 			<string>0</string>
 			<key>voice</key>
+			<string>1</string>
+			<key>fingering</key>
 			<string>1</string>
 		</dict>
 	</dict>
@@ -2611,7 +2713,7 @@
 			<key>position</key>
 			<string>0</string>
 			<key>notes</key>
-			<string>{e042f34e-751b-4f57-8519-b8b100ddf101} {45db9f3f-d40f-4b19-b255-6cdd71d4029a}</string>
+			<string>{ba3b2aef-8367-4c25-b2b3-7718d2cd5ab7} {5aa977db-e971-49a7-9777-042ca85a78a3}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2626,7 +2728,7 @@
 			<key>position</key>
 			<string>500</string>
 			<key>notes</key>
-			<string>{3ca5acd0-5e56-4203-a965-1105b56e90da} {2fbcffca-149c-4d43-a99b-f7e6bd57f893}</string>
+			<string>{ba9f4a45-bb63-4413-a9b2-5490183d883a} {26ba1604-fa6d-4689-bfbf-f3f91e194320}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2641,7 +2743,7 @@
 			<key>position</key>
 			<string>1000</string>
 			<key>notes</key>
-			<string>{bada64c4-49f6-4578-9755-bef343ba1b53} {046580e0-b0c6-4e07-9681-5d0315b4ed9c}</string>
+			<string>{b242a80f-62b2-4bfa-b25f-a5f298c1712c} {0e080530-2870-478f-b2a6-709980f2b06e}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2656,7 +2758,7 @@
 			<key>position</key>
 			<string>1500</string>
 			<key>notes</key>
-			<string>{1f02344f-b213-411a-89be-fb12582ed7f4} {6341d4d0-614e-4092-92fa-aea434a41cd6}</string>
+			<string>{75f8319c-004b-42a7-9d06-29f6ac14b835} {0ec17bae-d7b4-495b-96f0-38c4323ccfb2}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2671,7 +2773,7 @@
 			<key>position</key>
 			<string>2000</string>
 			<key>notes</key>
-			<string>{a3ca3e47-883f-46f5-b4a6-b8bbe67ab92e} {1fb74681-973e-4eb3-beb6-2d3a087a1fc3} {527c6036-aa77-4e73-b576-04d49daa45ec}</string>
+			<string>{08e3fd4f-12f1-483e-8afc-806c41d20434} {7376bdd5-5ce1-4a73-a75a-afff637d00a5} {0efaae8e-4ddd-41cb-ab4b-6649656e5775}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2686,7 +2788,7 @@
 			<key>position</key>
 			<string>2250</string>
 			<key>notes</key>
-			<string>{1de6bda8-02bc-4498-9129-e440442af7bb}</string>
+			<string>{43cf8538-071a-4d78-a590-1177d5b06f08}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2701,7 +2803,7 @@
 			<key>position</key>
 			<string>2500</string>
 			<key>notes</key>
-			<string>{c76f8a85-13b4-4f65-b9fb-e6c3bd24b3ff} {6221cd97-1ac6-4d78-9850-1b03ede9c688} {9ba2d4ce-fdb1-4489-ad98-7797c0239e83}</string>
+			<string>{7c4d6b31-7fc3-41c4-baa1-6fcdfa75b9cf} {77850179-a59c-4f89-9dc2-8f3e22a90898} {0b1e4ce5-58a5-4761-af67-ed627fa58961}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2716,7 +2818,7 @@
 			<key>position</key>
 			<string>2750</string>
 			<key>notes</key>
-			<string>{6228a343-9698-4787-a6c1-06ab10aa7465}</string>
+			<string>{bbe1e968-26c1-46c1-8df9-2af6a8e2e12c}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2731,7 +2833,7 @@
 			<key>position</key>
 			<string>3000</string>
 			<key>notes</key>
-			<string>{ed58f155-9aa3-4383-bdad-0349f98083dd} {c8ccf42f-f6a5-4696-a552-5365e4287a85} {8449424b-08a6-4fdc-8fb9-b1f206bb2184}</string>
+			<string>{73c01d2d-5a13-4e14-b315-c02904531c0c} {66e5f4ea-32de-4bb8-98dc-7e85be5d2df9} {a545b79a-5f92-487d-ae2c-123d8be489ae}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2746,7 +2848,7 @@
 			<key>position</key>
 			<string>3500</string>
 			<key>notes</key>
-			<string>{3306c3c5-d648-4177-8b5a-4d8adc41445d} {66ef4a38-3f07-46e1-98c8-0cd2329510f6}</string>
+			<string>{6f64ea43-ba90-41e5-9a33-0b01dc466162} {f2238210-1902-4129-9cda-82b0caf4f80d}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2761,7 +2863,7 @@
 			<key>position</key>
 			<string>4000</string>
 			<key>notes</key>
-			<string>{c05cafa1-49b3-477b-8875-64eac2fc9c80} {54bf0f46-c44b-4fa3-8450-7a9be7694ea5} {dc70678a-d3b2-4b7e-b3d8-05dbb601f17f}</string>
+			<string>{ccd4d450-a305-4b86-90c3-412b3e28e4d5} {3ae77138-03dc-4fcb-b076-7071ca234bb9} {6cef27c1-68d2-44f4-bb4d-5e1bff275ea7}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2776,7 +2878,7 @@
 			<key>position</key>
 			<string>4250</string>
 			<key>notes</key>
-			<string>{4c874d79-0809-4d20-b1cb-932152799d6b}</string>
+			<string>{f822e61e-60f6-4e0d-a8c8-9d9cb90d373b}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2791,7 +2893,7 @@
 			<key>position</key>
 			<string>4500</string>
 			<key>notes</key>
-			<string>{96f94f4c-b304-4764-91d6-45ca5d8b5df0} {6757ab32-9ca8-45a2-84a6-969b866da34e} {95d2cfe7-b1b1-4764-b44e-3d224ebc8ca2}</string>
+			<string>{c1577e2c-3dff-4ab9-b597-fc03f3fd5d07} {e404c285-0a32-48f1-9fde-0592a0520b87} {be62bc24-e2d4-43c2-afae-bc91c6c870a8}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2806,7 +2908,7 @@
 			<key>position</key>
 			<string>4750</string>
 			<key>notes</key>
-			<string>{5875fa83-733e-488d-a4ab-d49366b10a5c}</string>
+			<string>{97c3317a-e65d-46ef-89b2-dea6c22cd520}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2821,7 +2923,7 @@
 			<key>position</key>
 			<string>5000</string>
 			<key>notes</key>
-			<string>{d015ad2c-635e-4a1e-810c-b7da1ab4c074} {23dcfef6-fd55-4c13-890c-c843d93c95a7} {8ccf0255-dd01-47ab-9bbb-1d44760934a3}</string>
+			<string>{b1234d80-5c04-478a-9791-3af15b87fe0b} {51ca3979-7fcd-4b92-91cc-bdcdce0ceb33} {310e20c4-7e3e-4860-8988-b3675dc6a5c1}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2836,7 +2938,7 @@
 			<key>position</key>
 			<string>5500</string>
 			<key>notes</key>
-			<string>{0bc37639-87b6-42c3-b395-26c424f5aa23} {4d49337a-fd4f-4e17-8eac-864d11fcf18c}</string>
+			<string>{1a12c8fd-2508-4ecc-9a8e-4787b85c66c8} {79bbc35f-887d-4d71-90d9-b66c5771fdf2}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2851,7 +2953,7 @@
 			<key>position</key>
 			<string>6000</string>
 			<key>notes</key>
-			<string>{d8d2f34f-6e58-4b8e-8d3d-b63dc425447e} {96e6b722-e814-4f62-aaf2-8203f28c31ba} {6fd5ee61-5a2d-46d2-80b4-b957930d8f5e}</string>
+			<string>{c1bb3634-a06c-4924-8220-f934b9a0d1a2} {03bbf568-cdf8-4726-b365-8a9867950b20} {ee20cf57-710f-4385-b563-70e5b5408568}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2866,7 +2968,7 @@
 			<key>position</key>
 			<string>6500</string>
 			<key>notes</key>
-			<string>{12e14596-f05b-481b-95c0-df1590cd0f4e} {e2790836-8ceb-4546-8aa7-ec6d1f4e46a4} {9f155bbf-c22e-4c37-baf1-aa6036f3003d}</string>
+			<string>{db08f72c-dab5-4a97-be84-e57b2b466c09} {5beac4a1-44c6-416a-8d1c-af444ca3f097} {6d75fbed-2525-438f-837a-7095109dccb6}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2881,7 +2983,7 @@
 			<key>position</key>
 			<string>7000</string>
 			<key>notes</key>
-			<string>{dd9b0d5c-0f25-4732-a1e6-2acf78233c43} {dc027ae7-9975-4695-b3db-ea004fdb3e37} {cd1e57e0-1660-44ad-9af7-daca739e919f}</string>
+			<string>{c5976825-d1ea-431d-9d67-96d9d9dc3bfa} {6b16c170-3530-4ea0-b11f-bb8f19ffe3fb} {037570d7-b98e-4e31-897a-7f1138068841}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2896,7 +2998,7 @@
 			<key>position</key>
 			<string>7500</string>
 			<key>notes</key>
-			<string>{1b8bace1-e960-413b-85af-1393a1d0d3ee} {b8365518-8e7c-4129-9347-3ff5d3e794bf} {42e00fab-7a42-463e-8d4b-73a1f6d27f9e}</string>
+			<string>{e4d602e2-fea3-429f-a2d4-76cdd45694c2} {09cb37e0-15c0-4d73-b6c0-fa1a31dfaf8a} {6312ca50-5511-4d88-b1cc-c8ed54898bf2}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2911,7 +3013,7 @@
 			<key>position</key>
 			<string>8000</string>
 			<key>notes</key>
-			<string>{57eeae56-ce54-4734-bf63-9ec943ff20df} {732c6dd3-4c65-49f2-8263-cae25e86df12} {5df0cf21-422f-4472-a69a-b82478eaa81a}</string>
+			<string>{2900f251-17de-4c72-bb28-3e34dfc523b2} {aba24425-7dab-436c-8e2e-81c369aacc43} {9fdb1393-6a91-45a1-896e-db9030f8ef7f}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2926,7 +3028,7 @@
 			<key>position</key>
 			<string>8500</string>
 			<key>notes</key>
-			<string>{fa00c0b3-d983-40a0-b7ec-50adca8ccfa9} {58d70ef9-7d79-474b-a7d8-ce0d83d636f4}</string>
+			<string>{1c130646-e653-4d73-b808-44e3d03b1ac2} {b2a6e8f9-79c7-4f82-8459-0d178fb1a95f}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2941,7 +3043,7 @@
 			<key>position</key>
 			<string>9000</string>
 			<key>notes</key>
-			<string>{6fed2322-575e-4b15-8981-cb4995636205} {6c48db29-354a-4524-8e4a-0e1407f038c2} {1be75c4e-ad84-4fcb-ab7f-0519cbb05970}</string>
+			<string>{b1c6716d-2696-4e7f-9c7a-bfda01bdeafb} {3af77807-d50c-4059-9716-a43ab3a1fe46} {e3bc3a23-c06e-4403-8138-daf1b572271d}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2956,7 +3058,7 @@
 			<key>position</key>
 			<string>9500</string>
 			<key>notes</key>
-			<string>{eefeb83b-7a9b-486e-8444-659f4d260de5} {49a01d9a-bfc0-496b-b0dd-c9ab38c99f53}</string>
+			<string>{625a26e7-f6ca-4dae-b43e-5d66b66b662d} {c5b4fbb2-87f6-4b17-9e94-a8265c7261c2}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2971,7 +3073,7 @@
 			<key>position</key>
 			<string>10000</string>
 			<key>notes</key>
-			<string>{8f22ee25-e750-47c8-8ca0-a934a880c399} {b24d443a-5fa1-421e-a181-bc8611a82c9c} {72fbb0d6-2559-4f85-bc1b-5b28d3b0f257}</string>
+			<string>{7545be99-79cc-449b-bebb-cc9b60215104} {c502e7da-0364-42e0-a6b8-8c371d2085b7} {293644b2-80dd-48ff-a97b-04533c5e325e}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -2986,7 +3088,7 @@
 			<key>position</key>
 			<string>10250</string>
 			<key>notes</key>
-			<string>{93244523-dbff-418d-9ef8-6f422dd4f4e2}</string>
+			<string>{13667dd2-e6a0-4da9-baec-f66e8083e511}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3001,7 +3103,7 @@
 			<key>position</key>
 			<string>10500</string>
 			<key>notes</key>
-			<string>{b4b96f40-e116-4864-8b34-dc9960d2f74b} {5eed1380-7fa9-4127-a221-4798a8c96903} {145c2627-724d-493f-bb70-9fdb5ec75203}</string>
+			<string>{e1c9f116-17c2-4392-b54f-ca756614475c} {201ff007-a03e-4045-9584-fe934fe73628} {7e7a1b3a-5185-4417-84be-1d0a46ac8933}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3016,7 +3118,7 @@
 			<key>position</key>
 			<string>10750</string>
 			<key>notes</key>
-			<string>{ec8e210d-f70e-4d9f-81c0-04ab635456c7}</string>
+			<string>{bca4120f-d9eb-47e9-9020-0788651e3318}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3031,7 +3133,7 @@
 			<key>position</key>
 			<string>11000</string>
 			<key>notes</key>
-			<string>{e7315abd-f393-450b-b75d-33bb5c3971a1} {803e554d-9a3f-4831-be23-74a7a7270409} {6e06b222-80a6-4406-b0d3-6225c724b576}</string>
+			<string>{d9a10bca-8679-443c-b42f-57218ac159c0} {f2ab0b4e-0e05-4cce-a48c-ba369782a449} {01021863-73e7-471f-a3ea-0174f5227a09}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3046,7 +3148,7 @@
 			<key>position</key>
 			<string>11500</string>
 			<key>notes</key>
-			<string>{75f36d10-304f-40e8-bcbc-d6c707a2d4df} {72e85b87-4bc6-427d-af73-eb2de84ebc04}</string>
+			<string>{8516c5ea-398a-482a-8412-f5f8bad3ffbd} {f29428e6-9db4-408b-bf89-702f4263f902}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3061,7 +3163,7 @@
 			<key>position</key>
 			<string>12000</string>
 			<key>notes</key>
-			<string>{1084ed35-72d7-44c2-bcda-9e9f1081fe6b} {273cefd3-73e7-44f6-879c-ee8fc2ce5f04} {0e3a1cc8-84ac-44b4-af8f-5c48dd61593a}</string>
+			<string>{27209482-af7f-49b9-89eb-f4eb21e3da94} {8f8cdf79-8374-4876-a6a6-d1e80d9f618d} {83f3dfc3-f7f5-4c2e-b9b9-4e9624333969}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3076,7 +3178,7 @@
 			<key>position</key>
 			<string>12250</string>
 			<key>notes</key>
-			<string>{1be9534f-86ab-4d24-b1b5-d78de724faba}</string>
+			<string>{3e29da03-e927-42d9-801c-0ca4d7d74089}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3091,7 +3193,7 @@
 			<key>position</key>
 			<string>12500</string>
 			<key>notes</key>
-			<string>{00ac7e93-497a-44f5-a456-9fd347bfe157} {4d246dc7-2d12-400f-b628-c2a0f72027bc} {f7fce992-5191-4fb2-99d5-0f13a77e60eb}</string>
+			<string>{3a97d1de-f59e-4d53-a2cb-a868cf968ce1} {93d7c535-978a-4cae-af31-d64e8f7d6b86} {0b4c20af-4cf4-4124-a02d-57434e85dd07}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3106,7 +3208,7 @@
 			<key>position</key>
 			<string>12750</string>
 			<key>notes</key>
-			<string>{af6ad521-0160-4919-a3a3-3a5e3bdb7935}</string>
+			<string>{aadb1b4a-9833-427e-9564-717bcc7f000c}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3121,7 +3223,7 @@
 			<key>position</key>
 			<string>13000</string>
 			<key>notes</key>
-			<string>{d7918dcb-ef2d-46da-915d-3995bf23d2b4} {35e97c2a-1435-47c4-816f-2fc820369d14} {37ff4f42-5865-478c-97d0-20b3eddf9206}</string>
+			<string>{a5103ff8-3b21-4284-875b-dca7d952035e} {81561b87-d6ea-4877-9a6f-bf7b803cfff6} {f70b57ec-e5d1-4462-9fc8-b8e8bfa16502}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3136,7 +3238,7 @@
 			<key>position</key>
 			<string>13500</string>
 			<key>notes</key>
-			<string>{6cb98ac1-8ec8-4b98-94db-2a33f43f9311} {9654cc45-5ec4-40b3-a757-8df334af0b93}</string>
+			<string>{f963d98c-0b48-4a7f-89a6-1ccfbb2a1684} {7a60d34f-f4c0-4350-839e-8e4a2d62ac2f}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3151,7 +3253,7 @@
 			<key>position</key>
 			<string>14000</string>
 			<key>notes</key>
-			<string>{5ff7eb18-16c0-4b62-8411-872921e4609e} {2b46677e-f9df-4011-9a18-d0c79733050c} {4213dd3c-0180-4efa-ae28-2d0465424151}</string>
+			<string>{af56966c-2217-4580-b05d-684ae9591727} {fc6bfc4d-5edd-4b54-b40b-4435cd073137} {5d52ad32-d622-4f01-be21-ed0951ef840f}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3166,7 +3268,7 @@
 			<key>position</key>
 			<string>14500</string>
 			<key>notes</key>
-			<string>{ce773fba-07bd-4c0f-be9f-0efc460417f2} {180b1238-9a8a-4fd5-9bf4-83b43bfe914c} {9a44b510-d243-4224-977e-e5b82885be7d}</string>
+			<string>{f8d571c1-32e4-4cfc-92bd-f9de98a2f3d6} {d09fceb4-780a-416a-8d05-c08a34b8ce08} {0d6d0d3b-1e58-47dd-8cb2-f10fc0c7eb40}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3181,7 +3283,7 @@
 			<key>position</key>
 			<string>15000</string>
 			<key>notes</key>
-			<string>{56219c61-31d7-4740-970c-6ca13208b6e0} {8f55a208-7d2c-4a2d-989d-de0b2cd66256} {2852c6bb-b63d-4276-a28f-2defd654e4b8}</string>
+			<string>{d89f7abf-fecc-4260-b6b6-710de374cfce} {49a0b92b-bebe-435d-8282-c4905233e77c} {ccbf3967-29ac-48a8-b1dd-f5a472f43411}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3196,7 +3298,7 @@
 			<key>position</key>
 			<string>15500</string>
 			<key>notes</key>
-			<string>{6ae9486a-33d2-494a-b1a1-3bb170109fcc} {326e3a96-e238-4fc2-b171-2f668b220f79} {a42f9519-aa12-4de6-9540-f00592cded6c}</string>
+			<string>{1d33b462-6f6d-4db7-8074-466705124ebb} {628b5adf-873d-4b38-a936-bb1d792d4b15} {8a89c6f0-b7ca-4978-84c6-e2e078752a00}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3211,7 +3313,7 @@
 			<key>position</key>
 			<string>16000</string>
 			<key>notes</key>
-			<string>{58e7e8f7-e343-4f28-828d-5f92a29b5414} {06c0993a-1690-4c6f-9c8b-44c63089b6c5} {b62a3348-d81f-4b66-bdd9-27f797223a94}</string>
+			<string>{2bc31180-7220-4b06-ac12-6e4495d6aad6} {8e481751-b13b-4de9-9699-55ef5dac49cd} {1facd88c-0e73-4038-981e-f3219e3b7bfb}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3226,7 +3328,7 @@
 			<key>position</key>
 			<string>16500</string>
 			<key>notes</key>
-			<string>{db0084f8-3ab0-4224-bd09-69ceb3cb7bdd} {0fcc3956-c2d1-4aaf-92fc-836057702622}</string>
+			<string>{98a3e1a1-cd39-4a32-aeaf-8fbaea6275af} {f23a3c6a-827a-41cf-966d-145677cee996}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3241,7 +3343,7 @@
 			<key>position</key>
 			<string>17000</string>
 			<key>notes</key>
-			<string>{bd7cf2e2-3893-4c70-a615-3d30549b612c} {5e818179-2d7f-49d4-a96d-9db58c1ab2de}</string>
+			<string>{96ffab39-1426-4633-9b22-223d58e91a3c} {03fc69a7-bab3-4c1a-8402-76b485be2714}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3256,7 +3358,7 @@
 			<key>position</key>
 			<string>17500</string>
 			<key>notes</key>
-			<string>{bb3598bc-40ea-41ab-869f-7cffa8b3b4b7} {85503470-15f6-41e4-9e5d-489354baa285}</string>
+			<string>{b0393f5d-bb18-4d49-99f7-73f6646bee7b} {a9415c77-5992-424c-8d6e-f6f7184dce3e}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3271,7 +3373,7 @@
 			<key>position</key>
 			<string>18000</string>
 			<key>notes</key>
-			<string>{2bad0af4-8afd-4389-ab32-8d8fbcc46556} {aa3b7861-a6ab-4423-b4d9-401df7908e08} {631a09be-cd84-4241-b8d2-ba34ccf96ef0} {d44fba81-62e7-44d0-beea-82637192f619}</string>
+			<string>{9a480289-e356-4de4-8640-a0512c8bf188} {36ab317b-746e-415d-821e-c2ef6edd4d33} {d72032b4-8c8f-4d85-9e0d-94b86293e8e1} {02edc632-b940-4925-9507-f2cb984e74f9}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3286,7 +3388,7 @@
 			<key>position</key>
 			<string>18500</string>
 			<key>notes</key>
-			<string>{5e42e2a5-7835-4c53-a681-5358b2e0ff7c} {26d8cd76-1279-4124-be36-ed466efd21f2} {9fe86230-fbc6-471c-9281-32a85d084a35} {d20df826-8225-4569-ade1-2af385008c05}</string>
+			<string>{4b1412d9-98ae-47a4-947c-beeeabeb70e8} {e403a235-276d-4ad5-b540-87defbc0f987} {7592dce4-7ee5-40db-bae1-3f8e91ac0147} {f44c607a-ff61-450b-b11a-21c160b36e54}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3301,7 +3403,7 @@
 			<key>position</key>
 			<string>19000</string>
 			<key>notes</key>
-			<string>{a85b824f-9cd7-484c-b804-867f91aab128} {8d4b36b5-5351-44ef-bdac-66ac2f628d3f} {8651f19a-67ae-4a69-aab3-1284380339ff} {e8e759ca-f0cf-4995-871f-256e12e8df24}</string>
+			<string>{cec64e39-60bc-4037-800d-c26e33c58e44} {97b1db6c-f295-4943-bf6d-fc5e5811bf8d} {1c057e1b-c78f-4ce5-a319-f41dfcfcd67e} {f107215a-4306-4557-bb6f-218ff0cda8ff}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3316,7 +3418,7 @@
 			<key>position</key>
 			<string>19500</string>
 			<key>notes</key>
-			<string>{6f07c08e-411a-43cb-8e93-01af42049a13} {a5109fc4-b203-471d-a5e7-43dfae7d7f47} {d65d71e2-236c-4fe1-aa64-bf807c18f9e4} {3505dfee-29ac-4a8d-87fc-ca2f73b890eb}</string>
+			<string>{8d4d2b59-b4d3-4ffd-974e-34c54507b60d} {3905ef7e-eef9-49ab-b694-8255cc4b56c3} {24adfb89-8786-43e6-865d-f73ea7d61747} {692cf55e-7ce6-4e74-afa6-2f6fa4805292}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>
@@ -3331,7 +3433,7 @@
 			<key>position</key>
 			<string>20000</string>
 			<key>notes</key>
-			<string>{837a4d9a-2291-45f1-a4ed-e6d0f06fbfda} {85431e3f-16ee-4bdf-a49a-805cd7745430} {2f29891d-6e5a-4284-8587-11518449d4c2} {c8231acb-c56e-4134-8fea-5203ae6e982b}</string>
+			<string>{b977c9bf-8808-40c9-92c8-360b4e167355} {5d266aa4-4b50-4778-a0ad-88dfba6ec7cd} {5c52072f-fd93-4f80-9cc8-ea728742f3f9} {5abf3052-955e-4432-921f-8ede6c95fc4e}</string>
 			<key>tempo</key>
 			<string>120</string>
 			<key>tempo_interval</key>

@@ -50,963 +50,457 @@
 			<key>x</key>
 			<string>46.1339</string>
 			<key>y</key>
-			<string>536.679</string>
+			<string>541.205</string>
 			<key>bx</key>
 			<string>46.1339</string>
 			<key>by</key>
-			<string>572.258</string>
-			<key>spatium</key>
-			<string>4.96063</string>
-		</dict>
-		<key>5</key>
-		<dict>
-			<key>x</key>
-			<string>46.1339</string>
-			<key>y</key>
-			<string>670.554</string>
-			<key>bx</key>
-			<string>46.1339</string>
-			<key>by</key>
-			<string>706.134</string>
-			<key>spatium</key>
-			<string>4.96063</string>
-		</dict>
-		<key>6</key>
-		<dict>
-			<key>x</key>
-			<string>46.1339</string>
-			<key>y</key>
-			<string>816.893</string>
-			<key>bx</key>
-			<string>46.1339</string>
-			<key>by</key>
-			<string>852.473</string>
-			<key>spatium</key>
-			<string>4.96063</string>
-		</dict>
-		<key>7</key>
-		<dict>
-			<key>x</key>
-			<string>46.1339</string>
-			<key>y</key>
-			<string>963.232</string>
-			<key>bx</key>
-			<string>46.1339</string>
-			<key>by</key>
-			<string>998.811</string>
-			<key>spatium</key>
-			<string>4.96063</string>
-		</dict>
-		<key>8</key>
-		<dict>
-			<key>x</key>
-			<string>46.1339</string>
-			<key>y</key>
-			<string>1109.57</string>
-			<key>bx</key>
-			<string>46.1339</string>
-			<key>by</key>
-			<string>1145.15</string>
-			<key>spatium</key>
-			<string>4.96063</string>
-		</dict>
-		<key>9</key>
-		<dict>
-			<key>x</key>
-			<string>46.1339</string>
-			<key>y</key>
-			<string>1255.91</string>
-			<key>bx</key>
-			<string>46.1339</string>
-			<key>by</key>
-			<string>1291.49</string>
+			<string>576.784</string>
 			<key>spatium</key>
 			<string>4.96063</string>
 		</dict>
 	</dict>
 	<key>notes</key>
 	<dict>
-		<key>{e6003835-3126-4a92-b4b4-b1e056c62948}</key>
+		<key>{38371ac4-94e8-4320-9ac9-8e7922e140d9}</key>
 		<dict>
 			<key>x</key>
-			<string>519.168</string>
+			<string>452.515</string>
+			<key>y</key>
+			<string>598.252</string>
+		</dict>
+		<key>{dbd839ac-6a62-4d5d-ab2c-4c7d7e046142}</key>
+		<dict>
+			<key>x</key>
+			<string>452.515</string>
+			<key>y</key>
+			<string>558.567</string>
+		</dict>
+		<key>{a74c84c1-dc59-464d-bac3-e56be8a2111a}</key>
+		<dict>
+			<key>x</key>
+			<string>409.62</string>
+			<key>y</key>
+			<string>588.331</string>
+		</dict>
+		<key>{a71702e1-0762-4505-847d-880ae31acc00}</key>
+		<dict>
+			<key>x</key>
+			<string>373.471</string>
+			<key>y</key>
+			<string>593.291</string>
+		</dict>
+		<key>{08719a7e-ce8b-4c9a-826a-f0ee5477172c}</key>
+		<dict>
+			<key>x</key>
+			<string>337.143</string>
+			<key>y</key>
+			<string>558.567</string>
+		</dict>
+		<key>{dc4a861d-b3f0-4096-82ea-81c0f18796f3}</key>
+		<dict>
+			<key>x</key>
+			<string>288.715</string>
+			<key>y</key>
+			<string>588.331</string>
+		</dict>
+		<key>{a0cfc440-8dbe-486c-9dae-78f5271a983d}</key>
+		<dict>
+			<key>x</key>
+			<string>282.829</string>
+			<key>y</key>
+			<string>590.811</string>
+		</dict>
+		<key>{083660c7-331b-4b80-940c-ed28cb73d5c3}</key>
+		<dict>
+			<key>x</key>
+			<string>247.319</string>
+			<key>y</key>
+			<string>588.331</string>
+		</dict>
+		<key>{9b732f0b-0172-4e20-b9e0-f6664a92e243}</key>
+		<dict>
+			<key>x</key>
+			<string>241.433</string>
+			<key>y</key>
+			<string>590.811</string>
+		</dict>
+		<key>{6a695155-ef22-4c6e-bd17-ef90d77fd84b}</key>
+		<dict>
+			<key>x</key>
+			<string>205.744</string>
+			<key>y</key>
+			<string>548.646</string>
+		</dict>
+		<key>{4db7a9ea-3906-4edd-80ab-957dc1b12e73}</key>
+		<dict>
+			<key>x</key>
+			<string>158.812</string>
+			<key>y</key>
+			<string>588.331</string>
+		</dict>
+		<key>{5a006eb8-0280-411f-98f4-8142a85b392a}</key>
+		<dict>
+			<key>x</key>
+			<string>152.926</string>
+			<key>y</key>
+			<string>590.811</string>
+		</dict>
+		<key>{72771de3-4f02-40a3-8ae5-4513a15aee2d}</key>
+		<dict>
+			<key>x</key>
+			<string>118.913</string>
+			<key>y</key>
+			<string>588.331</string>
+		</dict>
+		<key>{5f072b5b-8bc2-4eba-824d-8d2529dfa876}</key>
+		<dict>
+			<key>x</key>
+			<string>113.027</string>
+			<key>y</key>
+			<string>590.811</string>
+		</dict>
+		<key>{1b27de6d-385c-4c43-b559-f9f24a4658c8}</key>
+		<dict>
+			<key>x</key>
+			<string>78.8345</string>
+			<key>y</key>
+			<string>556.087</string>
+		</dict>
+		<key>{df75cf0f-9252-43f5-86e8-415243536c4b}</key>
+		<dict>
+			<key>x</key>
+			<string>519.775</string>
 			<key>y</key>
 			<string>402.307</string>
 		</dict>
-		<key>{b3bfba0a-9d19-4f09-ba02-3d228e9cb41c}</key>
+		<key>{aa77fc2b-4b07-4dd0-9ea7-6dee9b8ee790}</key>
 		<dict>
 			<key>x</key>
-			<string>479.572</string>
+			<string>480.785</string>
 			<key>y</key>
 			<string>407.268</string>
 		</dict>
-		<key>{7d86f41c-4570-4e60-a6f4-e930fdde4d16}</key>
+		<key>{983ca0b6-33cb-4661-b5cd-ac112e142cb6}</key>
 		<dict>
 			<key>x</key>
-			<string>439.975</string>
+			<string>441.796</string>
 			<key>y</key>
 			<string>412.228</string>
 		</dict>
-		<key>{d4dadee9-73cd-4ec1-bbfa-ceb98929150e}</key>
+		<key>{9adff59b-2df6-4152-aa2f-5af7fe0fb4f0}</key>
 		<dict>
 			<key>x</key>
-			<string>393.632</string>
+			<string>396.059</string>
 			<key>y</key>
 			<string>441.992</string>
 		</dict>
-		<key>{30536d23-08c7-471c-b08e-42011be10bb8}</key>
+		<key>{4044ccf8-bf21-4480-ae8b-a53515c8041d}</key>
 		<dict>
 			<key>x</key>
-			<string>354.035</string>
+			<string>357.07</string>
 			<key>y</key>
 			<string>446.953</string>
 		</dict>
-		<key>{e7159717-0d8b-4621-827f-ad1a3c6807b2}</key>
+		<key>{64e545de-3bb2-4fc9-9c7c-028fd8ea317d}</key>
 		<dict>
 			<key>x</key>
-			<string>314.439</string>
+			<string>318.08</string>
 			<key>y</key>
 			<string>451.913</string>
 		</dict>
-		<key>{e5c72a06-3cd5-48d7-8126-893db650a228}</key>
+		<key>{7eb18448-4293-475e-aa2a-9d5b38a60d72}</key>
 		<dict>
 			<key>x</key>
-			<string>268.819</string>
+			<string>273.067</string>
 			<key>y</key>
 			<string>402.307</string>
 		</dict>
-		<key>{08e48373-4665-4448-afa4-6b05887756b9}</key>
+		<key>{5ae94a3f-6f9b-42f4-90de-4900ac6b59ad}</key>
 		<dict>
 			<key>x</key>
-			<string>268.819</string>
+			<string>273.067</string>
 			<key>y</key>
 			<string>412.228</string>
 		</dict>
-		<key>{1ab631a9-62fe-42d0-9400-5351c08eae49}</key>
+		<key>{705c99e7-255d-4568-bf47-c5614d506617}</key>
 		<dict>
 			<key>x</key>
-			<string>229.946</string>
+			<string>234.801</string>
 			<key>y</key>
 			<string>402.307</string>
 		</dict>
-		<key>{20fa518e-cb91-4a86-a093-15aa997f0a44}</key>
+		<key>{f2669462-1c74-4e72-a591-926530521e11}</key>
 		<dict>
 			<key>x</key>
-			<string>229.946</string>
+			<string>234.801</string>
 			<key>y</key>
 			<string>412.228</string>
 		</dict>
-		<key>{9cc8daf9-2209-43fc-bf79-05f9a26c19f8}</key>
+		<key>{cf87d8cd-3f92-4514-8d52-e0dcd3e3b5e6}</key>
 		<dict>
 			<key>x</key>
-			<string>190.894</string>
+			<string>196.356</string>
 			<key>y</key>
 			<string>451.913</string>
 		</dict>
-		<key>{284d65c6-4fc9-4840-896f-86e924af0857}</key>
+		<key>{5eca2fa9-a7a3-4024-b461-d292cee95906}</key>
 		<dict>
 			<key>x</key>
-			<string>146.485</string>
+			<string>152.553</string>
 			<key>y</key>
 			<string>402.307</string>
 		</dict>
-		<key>{d72cc486-fe44-4e4d-9bef-0904135add2a}</key>
+		<key>{f6491efe-0bde-4018-aef2-07dd7d66204a}</key>
 		<dict>
 			<key>x</key>
-			<string>146.485</string>
+			<string>152.553</string>
 			<key>y</key>
 			<string>412.228</string>
 		</dict>
-		<key>{fc9404a4-c5f0-4dfc-8320-f766f02dc201}</key>
+		<key>{4d2627b6-3933-4796-9d79-6fd0fb5d6900}</key>
 		<dict>
 			<key>x</key>
-			<string>109.108</string>
+			<string>115.783</string>
 			<key>y</key>
 			<string>402.307</string>
 		</dict>
-		<key>{e83f72dc-8b4f-496c-b858-08c44a764b52}</key>
+		<key>{450c7fc9-3957-41e2-b0d0-0736171be874}</key>
 		<dict>
 			<key>x</key>
-			<string>109.108</string>
+			<string>115.783</string>
 			<key>y</key>
 			<string>412.228</string>
 		</dict>
-		<key>{51cc3930-1f6c-4078-922d-91f44c711330}</key>
+		<key>{d659f253-8f71-4d29-8c8d-f1c60cb1ec2b}</key>
 		<dict>
 			<key>x</key>
-			<string>71.5524</string>
+			<string>78.8345</string>
 			<key>y</key>
 			<string>446.953</string>
 		</dict>
-		<key>{bc68d022-258d-4736-aad3-95cd45139694}</key>
+		<key>{f913fdf6-fc7e-4fc7-b72b-e7cf253bd48c}</key>
 		<dict>
 			<key>x</key>
-			<string>521.815</string>
+			<string>522.398</string>
 			<key>y</key>
 			<string>303.094</string>
 		</dict>
-		<key>{95677a57-3104-448a-ac9d-2f6e3203035f}</key>
+		<key>{60772e8f-9267-4284-b2f9-c79bd2a6462a}</key>
 		<dict>
 			<key>x</key>
-			<string>484.866</string>
+			<string>486.032</string>
 			<key>y</key>
 			<string>298.134</string>
 		</dict>
-		<key>{bfb7c087-9bed-463d-b70f-00334dde626f}</key>
+		<key>{7a202d44-1e99-4df2-be9d-1536e97b0b90}</key>
 		<dict>
 			<key>x</key>
-			<string>447.917</string>
+			<string>449.666</string>
 			<key>y</key>
 			<string>295.654</string>
 		</dict>
-		<key>{b7cf7876-ad9f-4cd6-bcec-3dafa75f2883}</key>
+		<key>{2752e538-f58e-4383-9150-6896dc1bb007}</key>
 		<dict>
 			<key>x</key>
-			<string>404.221</string>
+			<string>406.553</string>
 			<key>y</key>
 			<string>263.409</string>
 		</dict>
-		<key>{29f254bf-784b-45df-916a-5f727570dbc2}</key>
+		<key>{3d69baaf-43b3-47b2-8020-31dffaf8147a}</key>
 		<dict>
 			<key>x</key>
-			<string>367.272</string>
+			<string>370.187</string>
 			<key>y</key>
 			<string>258.449</string>
 		</dict>
-		<key>{f14b3766-1fa3-4041-9469-83d3436e0e0c}</key>
+		<key>{1d69ddfc-af3e-4099-9d63-94a0e4820c84}</key>
 		<dict>
 			<key>x</key>
-			<string>330.323</string>
+			<string>333.821</string>
 			<key>y</key>
 			<string>255.969</string>
 		</dict>
-		<key>{cf6c4f1b-a56d-43b3-a817-3edf3bcf4e26}</key>
+		<key>{6959238d-093f-44ea-8d97-a632b6d87dc3}</key>
 		<dict>
 			<key>x</key>
-			<string>282.103</string>
+			<string>286.184</string>
 			<key>y</key>
 			<string>295.654</string>
 		</dict>
-		<key>{2fe25826-00be-48e6-87dd-d146bc59c664}</key>
+		<key>{78156d61-dc25-4fbd-ae7e-48a3686a495d}</key>
 		<dict>
 			<key>x</key>
-			<string>276.217</string>
+			<string>280.298</string>
 			<key>y</key>
 			<string>298.134</string>
 		</dict>
-		<key>{2ce205c0-10bc-4c90-b627-5172c11289ea}</key>
+		<key>{53413676-e65a-4292-b3c8-4e4d691740ed}</key>
 		<dict>
 			<key>x</key>
-			<string>240.631</string>
+			<string>245.295</string>
 			<key>y</key>
 			<string>295.654</string>
 		</dict>
-		<key>{bd68a0e4-150f-41ae-a536-2e846a7dfab3}</key>
+		<key>{9b2ef2fc-3066-48d0-b8b9-02e5929bb626}</key>
 		<dict>
 			<key>x</key>
-			<string>234.745</string>
+			<string>239.409</string>
 			<key>y</key>
 			<string>298.134</string>
 		</dict>
-		<key>{b53d137f-a2cf-4789-96f8-f6c40aaa98ed}</key>
+		<key>{6bb5f3d7-ff43-41e1-bf6d-263faf5f15ee}</key>
 		<dict>
 			<key>x</key>
-			<string>198.979</string>
+			<string>204.226</string>
 			<key>y</key>
 			<string>268.37</string>
 		</dict>
-		<key>{c782c0a8-f14f-43ee-bbc6-352e8639ba77}</key>
+		<key>{9b73c877-e85b-48f5-8c4d-aefd7a318956}</key>
 		<dict>
 			<key>x</key>
-			<string>151.97</string>
+			<string>157.8</string>
 			<key>y</key>
 			<string>295.654</string>
 		</dict>
-		<key>{df32ec7e-8c85-4f76-a6f9-4d0fab61de3c}</key>
+		<key>{2e75da63-fa28-42e0-8cc9-b9e246d848f0}</key>
 		<dict>
 			<key>x</key>
-			<string>146.084</string>
+			<string>151.914</string>
 			<key>y</key>
 			<string>298.134</string>
 		</dict>
-		<key>{9c67f0de-d2db-46e0-bbb0-81d255f9eef1}</key>
+		<key>{8169db9e-fe09-43af-a2f8-f4db780ac4b0}</key>
 		<dict>
 			<key>x</key>
-			<string>111.994</string>
+			<string>118.407</string>
 			<key>y</key>
 			<string>295.654</string>
 		</dict>
-		<key>{83b6422d-bea2-4c1e-bca1-4a602c32628b}</key>
+		<key>{391ea1e9-bdb9-42c0-94f5-0690a5179185}</key>
 		<dict>
 			<key>x</key>
-			<string>106.108</string>
+			<string>112.521</string>
 			<key>y</key>
 			<string>298.134</string>
 		</dict>
-		<key>{3bb40eb8-87aa-4f32-ab7d-a65ac698ee7f}</key>
+		<key>{758118a6-56ea-4889-bfbe-c1cf548f7476}</key>
 		<dict>
 			<key>x</key>
-			<string>71.8384</string>
+			<string>78.8345</string>
 			<key>y</key>
 			<string>263.409</string>
 		</dict>
-		<key>{8adf119b-a35e-4578-9f9c-37005cdb6242}</key>
+		<key>{d70df077-8b07-40e8-84e1-eaff1c8648f4}</key>
 		<dict>
 			<key>x</key>
-			<string>520.932</string>
+			<string>521.309</string>
 			<key>y</key>
 			<string>109.63</string>
 		</dict>
-		<key>{eb6df93a-033c-4972-9730-11d1ca2cd53a}</key>
+		<key>{baca995d-c1e0-4e44-9c92-34d042c58c53}</key>
 		<dict>
 			<key>x</key>
-			<string>483.1</string>
+			<string>483.853</string>
 			<key>y</key>
 			<string>114.591</string>
 		</dict>
-		<key>{d7a59dd1-bd4f-4f1f-b4db-f04cb5faec10}</key>
+		<key>{02384eed-81a5-4eef-ad50-36cb9382383b}</key>
 		<dict>
 			<key>x</key>
-			<string>445.268</string>
+			<string>446.397</string>
 			<key>y</key>
 			<string>119.551</string>
 		</dict>
-		<key>{3d5c7872-8fd2-4fd2-ba3e-1a65b0250418}</key>
+		<key>{66bf2139-fb3b-4132-90f3-208bc031fc55}</key>
 		<dict>
 			<key>x</key>
-			<string>400.689</string>
+			<string>402.194</string>
 			<key>y</key>
 			<string>149.315</string>
 		</dict>
-		<key>{4ec9f47e-da14-46e4-811f-17d6fc5d0c8e}</key>
+		<key>{adf03b92-ed71-48bc-b2a3-6227609bddf2}</key>
 		<dict>
 			<key>x</key>
-			<string>362.856</string>
+			<string>364.738</string>
 			<key>y</key>
 			<string>154.276</string>
 		</dict>
-		<key>{cb1afa25-340b-496d-ab0d-121e46403e88}</key>
+		<key>{97e8d1bc-85fc-4b59-bfe5-a8cf87a062d4}</key>
 		<dict>
 			<key>x</key>
-			<string>325.024</string>
+			<string>327.282</string>
 			<key>y</key>
 			<string>159.236</string>
 		</dict>
-		<key>{8e3015b6-d006-433e-aff6-568f675ab8bd}</key>
+		<key>{673a4a66-8a8d-4242-980f-bd083fc06336}</key>
 		<dict>
 			<key>x</key>
-			<string>279.846</string>
+			<string>282.48</string>
 			<key>y</key>
 			<string>149.315</string>
 		</dict>
-		<key>{3f8ec264-be17-4641-abbe-dfd7143191e2}</key>
+		<key>{068c0d8e-83c0-439f-9adc-73e152afb13e}</key>
 		<dict>
 			<key>x</key>
-			<string>279.846</string>
+			<string>282.48</string>
 			<key>y</key>
 			<string>159.236</string>
 		</dict>
-		<key>{2f3c0ca2-7d75-4277-8170-bdc3252a4423}</key>
+		<key>{d5a3e843-4bbd-44e7-b025-1bf303488ba2}</key>
 		<dict>
 			<key>x</key>
-			<string>241.414</string>
+			<string>244.425</string>
 			<key>y</key>
 			<string>149.315</string>
 		</dict>
-		<key>{696e2e33-58ec-4586-88fa-2bab8152effd}</key>
+		<key>{aa8bf552-dc8f-47d4-b788-85c1152be9cb}</key>
 		<dict>
 			<key>x</key>
-			<string>241.414</string>
+			<string>244.425</string>
 			<key>y</key>
 			<string>159.236</string>
 		</dict>
-		<key>{3d682aa5-fa52-4a59-affe-744cff7756ad}</key>
+		<key>{88102159-f55b-4516-885a-443b26902835}</key>
 		<dict>
 			<key>x</key>
-			<string>202.803</string>
+			<string>206.19</string>
 			<key>y</key>
 			<string>119.551</string>
 		</dict>
-		<key>{f1f62f45-e4fc-4d9b-b6d4-94d0a996c6fb}</key>
+		<key>{5001e35f-ba3a-4eca-ba97-1653ebd3cbb9}</key>
 		<dict>
 			<key>x</key>
-			<string>158.835</string>
+			<string>162.598</string>
 			<key>y</key>
 			<string>149.315</string>
 		</dict>
-		<key>{a04b1ced-2139-42fd-a3ff-5b55f54fbca4}</key>
+		<key>{0dbdc114-78fe-4586-a83e-fdcefba42236}</key>
 		<dict>
 			<key>x</key>
-			<string>158.835</string>
+			<string>162.598</string>
 			<key>y</key>
 			<string>159.236</string>
 		</dict>
-		<key>{fc841a1e-0f0a-4915-9d6b-255fed12591d}</key>
+		<key>{7489317f-7c41-46ab-9e17-20ac552e1bab}</key>
 		<dict>
 			<key>x</key>
-			<string>121.9</string>
+			<string>126.039</string>
 			<key>y</key>
 			<string>149.315</string>
 		</dict>
-		<key>{ef8d44e3-b7e0-4c72-a930-a0381d6caa53}</key>
+		<key>{05eed792-ef17-497a-b0ef-9d807e6317eb}</key>
 		<dict>
 			<key>x</key>
-			<string>121.9</string>
+			<string>126.039</string>
 			<key>y</key>
 			<string>159.236</string>
 		</dict>
-		<key>{202406cb-71d4-4788-a8ce-4f4d20054dab}</key>
+		<key>{62f9e827-2d3f-4bed-af52-7e55ead39a46}</key>
 		<dict>
 			<key>x</key>
-			<string>84.7857</string>
+			<string>89.3014</string>
 			<key>y</key>
 			<string>114.591</string>
-		</dict>
-		<key>{a763e6a1-a3fc-4726-a04b-1b76ebd71f78}</key>
-		<dict>
-			<key>x</key>
-			<string>457.406</string>
-			<key>y</key>
-			<string>593.726</string>
-		</dict>
-		<key>{d7497090-d9eb-4ece-9650-8c5fe39fd809}</key>
-		<dict>
-			<key>x</key>
-			<string>457.406</string>
-			<key>y</key>
-			<string>554.041</string>
-		</dict>
-		<key>{116145e4-2eb2-4322-b447-cb6665b6147b}</key>
-		<dict>
-			<key>x</key>
-			<string>414.652</string>
-			<key>y</key>
-			<string>583.805</string>
-		</dict>
-		<key>{1d610fed-c78e-4566-8162-70a1cced19f8}</key>
-		<dict>
-			<key>x</key>
-			<string>378.646</string>
-			<key>y</key>
-			<string>588.765</string>
-		</dict>
-		<key>{773d541e-0cbc-4c1d-8bda-6bc4174411a6}</key>
-		<dict>
-			<key>x</key>
-			<string>342.46</string>
-			<key>y</key>
-			<string>554.041</string>
-		</dict>
-		<key>{5264d981-cc92-4a57-8ddd-8b1a7cdbe2ed}</key>
-		<dict>
-			<key>x</key>
-			<string>291.979</string>
-			<key>y</key>
-			<string>583.805</string>
-		</dict>
-		<key>{d900de62-0cc6-4559-b79a-90472a6835eb}</key>
-		<dict>
-			<key>x</key>
-			<string>286.093</string>
-			<key>y</key>
-			<string>586.285</string>
-		</dict>
-		<key>{4e816781-7ddf-463c-a09b-39dea40e53bd}</key>
-		<dict>
-			<key>x</key>
-			<string>248.531</string>
-			<key>y</key>
-			<string>583.805</string>
-		</dict>
-		<key>{11a6695d-d9b7-4fc9-8c63-0526c5a9846a}</key>
-		<dict>
-			<key>x</key>
-			<string>242.645</string>
-			<key>y</key>
-			<string>586.285</string>
-		</dict>
-		<key>{64d60a9b-3b97-40cd-aeba-6675edc022d3}</key>
-		<dict>
-			<key>x</key>
-			<string>204.904</string>
-			<key>y</key>
-			<string>544.12</string>
-		</dict>
-		<key>{b2a0f658-9a42-447b-bf49-2b4d779bc277}</key>
-		<dict>
-			<key>x</key>
-			<string>155.92</string>
-			<key>y</key>
-			<string>583.805</string>
-		</dict>
-		<key>{9b7d963d-b43c-4be6-ae16-af79d1dcde37}</key>
-		<dict>
-			<key>x</key>
-			<string>150.034</string>
-			<key>y</key>
-			<string>586.285</string>
-		</dict>
-		<key>{391e198c-e0a1-4cf2-857c-41c597944485}</key>
-		<dict>
-			<key>x</key>
-			<string>113.969</string>
-			<key>y</key>
-			<string>583.805</string>
-		</dict>
-		<key>{319a93b5-4e60-460e-ae2b-aa81638e8128}</key>
-		<dict>
-			<key>x</key>
-			<string>108.083</string>
-			<key>y</key>
-			<string>586.285</string>
-		</dict>
-		<key>{4ceca09c-d798-4a88-a176-6fd17c8f42c3}</key>
-		<dict>
-			<key>x</key>
-			<string>71.8384</string>
-			<key>y</key>
-			<string>551.561</string>
-		</dict>
-		<key>{000f3b8e-7121-4617-9eb0-0e2fea31e163}</key>
-		<dict>
-			<key>x</key>
-			<string>454.057</string>
-			<key>y</key>
-			<string>1312.96</string>
-		</dict>
-		<key>{ba17ddff-0987-4738-9d1f-2d6ab4686a1a}</key>
-		<dict>
-			<key>x</key>
-			<string>454.057</string>
-			<key>y</key>
-			<string>1273.27</string>
-		</dict>
-		<key>{999bda5e-f0ae-406c-bb19-9afebdf1935f}</key>
-		<dict>
-			<key>x</key>
-			<string>411.676</string>
-			<key>y</key>
-			<string>1303.03</string>
-		</dict>
-		<key>{2d2e4925-cb54-4ccb-a9c0-fdcb2edb8a59}</key>
-		<dict>
-			<key>x</key>
-			<string>376.041</string>
-			<key>y</key>
-			<string>1308</string>
-		</dict>
-		<key>{fd8eea98-7d0f-4ceb-b887-6c3aed10e2f5}</key>
-		<dict>
-			<key>x</key>
-			<string>340.227</string>
-			<key>y</key>
-			<string>1273.27</string>
-		</dict>
-		<key>{a8f69ce8-6eb9-4a8d-82cf-4b173bfd2526}</key>
-		<dict>
-			<key>x</key>
-			<string>290.119</string>
-			<key>y</key>
-			<string>1303.03</string>
-		</dict>
-		<key>{da808220-b57b-4ba3-aec2-7791886d3c25}</key>
-		<dict>
-			<key>x</key>
-			<string>284.233</string>
-			<key>y</key>
-			<string>1305.51</string>
-		</dict>
-		<key>{f3b62ac9-1805-42f0-b765-13d6dfb1e8d4}</key>
-		<dict>
-			<key>x</key>
-			<string>247.043</string>
-			<key>y</key>
-			<string>1303.03</string>
-		</dict>
-		<key>{9c300dc5-5e03-48b9-b4dd-80fc8e9dc24c}</key>
-		<dict>
-			<key>x</key>
-			<string>241.157</string>
-			<key>y</key>
-			<string>1305.51</string>
-		</dict>
-		<key>{fe8f21ca-4fb9-4ec2-ae45-aa48d39c945a}</key>
-		<dict>
-			<key>x</key>
-			<string>203.788</string>
-			<key>y</key>
-			<string>1263.35</string>
-		</dict>
-		<key>{79551ac0-e708-442c-b786-e09e2c958867}</key>
-		<dict>
-			<key>x</key>
-			<string>155.176</string>
-			<key>y</key>
-			<string>1303.03</string>
-		</dict>
-		<key>{3fef5c6e-4385-44a8-9727-bd1f2f2fa803}</key>
-		<dict>
-			<key>x</key>
-			<string>149.29</string>
-			<key>y</key>
-			<string>1305.51</string>
-		</dict>
-		<key>{f02f6408-1502-45e6-909a-3c3b94923d70}</key>
-		<dict>
-			<key>x</key>
-			<string>113.597</string>
-			<key>y</key>
-			<string>1303.03</string>
-		</dict>
-		<key>{74fe544a-8a75-49e4-8e02-a0d109e29912}</key>
-		<dict>
-			<key>x</key>
-			<string>107.711</string>
-			<key>y</key>
-			<string>1305.51</string>
-		</dict>
-		<key>{4797a71f-2150-4955-87a2-39e45fed69ed}</key>
-		<dict>
-			<key>x</key>
-			<string>71.8384</string>
-			<key>y</key>
-			<string>1270.79</string>
-		</dict>
-		<key>{5ae7262d-3920-4090-b4ed-8b5f141fc6e1}</key>
-		<dict>
-			<key>x</key>
-			<string>519.168</string>
-			<key>y</key>
-			<string>1117.01</string>
-		</dict>
-		<key>{20df8998-e1e2-44d5-933e-9d58e54a5715}</key>
-		<dict>
-			<key>x</key>
-			<string>479.572</string>
-			<key>y</key>
-			<string>1121.97</string>
-		</dict>
-		<key>{7375b7ad-2be5-475f-8bb9-e86e6dab5261}</key>
-		<dict>
-			<key>x</key>
-			<string>439.975</string>
-			<key>y</key>
-			<string>1126.93</string>
-		</dict>
-		<key>{af8067e0-a121-4f02-89d8-b2fc445c3a71}</key>
-		<dict>
-			<key>x</key>
-			<string>393.632</string>
-			<key>y</key>
-			<string>1156.7</string>
-		</dict>
-		<key>{83a876c0-a861-423a-b578-fc1b33404d73}</key>
-		<dict>
-			<key>x</key>
-			<string>354.035</string>
-			<key>y</key>
-			<string>1161.66</string>
-		</dict>
-		<key>{4e09090d-2512-4c98-b7f0-aee95d2a9e61}</key>
-		<dict>
-			<key>x</key>
-			<string>314.439</string>
-			<key>y</key>
-			<string>1166.62</string>
-		</dict>
-		<key>{526bb8e1-b73a-4c1e-bc33-0f4891e6db9b}</key>
-		<dict>
-			<key>x</key>
-			<string>268.819</string>
-			<key>y</key>
-			<string>1117.01</string>
-		</dict>
-		<key>{5f117024-75be-42ae-8189-10f5aadf4f4b}</key>
-		<dict>
-			<key>x</key>
-			<string>268.819</string>
-			<key>y</key>
-			<string>1126.93</string>
-		</dict>
-		<key>{e3d2ba80-97d4-4604-9e34-a7cc013a8887}</key>
-		<dict>
-			<key>x</key>
-			<string>229.946</string>
-			<key>y</key>
-			<string>1117.01</string>
-		</dict>
-		<key>{718cc2ed-7388-4a9b-946b-920bd30684d4}</key>
-		<dict>
-			<key>x</key>
-			<string>229.946</string>
-			<key>y</key>
-			<string>1126.93</string>
-		</dict>
-		<key>{65a2729d-d221-4e2c-b72f-3bd1427ad246}</key>
-		<dict>
-			<key>x</key>
-			<string>190.894</string>
-			<key>y</key>
-			<string>1166.62</string>
-		</dict>
-		<key>{7e06bdba-70c1-46c0-8f2b-3a5d485bce8b}</key>
-		<dict>
-			<key>x</key>
-			<string>146.485</string>
-			<key>y</key>
-			<string>1117.01</string>
-		</dict>
-		<key>{52613c9e-03bc-4e92-9e8b-221be4715ac4}</key>
-		<dict>
-			<key>x</key>
-			<string>146.485</string>
-			<key>y</key>
-			<string>1126.93</string>
-		</dict>
-		<key>{45cb221f-7eea-4500-8ba8-004af6551013}</key>
-		<dict>
-			<key>x</key>
-			<string>109.108</string>
-			<key>y</key>
-			<string>1117.01</string>
-		</dict>
-		<key>{8647798e-7b46-45e5-8008-ed3886e5a845}</key>
-		<dict>
-			<key>x</key>
-			<string>109.108</string>
-			<key>y</key>
-			<string>1126.93</string>
-		</dict>
-		<key>{d60981ef-87fa-4f4d-8831-bcf660cab348}</key>
-		<dict>
-			<key>x</key>
-			<string>71.5524</string>
-			<key>y</key>
-			<string>1161.66</string>
-		</dict>
-		<key>{895164d6-7061-473d-b9dc-17faaf35766e}</key>
-		<dict>
-			<key>x</key>
-			<string>521.815</string>
-			<key>y</key>
-			<string>1017.8</string>
-		</dict>
-		<key>{2b06f20b-e80b-47c1-813c-f9f03601a509}</key>
-		<dict>
-			<key>x</key>
-			<string>484.866</string>
-			<key>y</key>
-			<string>1012.84</string>
-		</dict>
-		<key>{f0c877aa-bdbd-417f-ba86-b2d9b84eae85}</key>
-		<dict>
-			<key>x</key>
-			<string>447.917</string>
-			<key>y</key>
-			<string>1010.36</string>
-		</dict>
-		<key>{3a740b20-33c0-4e41-b7b6-9f90a9efb5e0}</key>
-		<dict>
-			<key>x</key>
-			<string>404.221</string>
-			<key>y</key>
-			<string>978.113</string>
-		</dict>
-		<key>{4aaa8397-0abd-40c2-bbc3-baac3163cd25}</key>
-		<dict>
-			<key>x</key>
-			<string>367.272</string>
-			<key>y</key>
-			<string>973.153</string>
-		</dict>
-		<key>{cfe68d99-6874-4769-9987-05b9943f077d}</key>
-		<dict>
-			<key>x</key>
-			<string>330.323</string>
-			<key>y</key>
-			<string>970.672</string>
-		</dict>
-		<key>{97ba4af6-93ab-4935-a104-0c3a4405ed1d}</key>
-		<dict>
-			<key>x</key>
-			<string>282.103</string>
-			<key>y</key>
-			<string>1010.36</string>
-		</dict>
-		<key>{f9811f34-9c49-476a-bd09-6e05b297bb96}</key>
-		<dict>
-			<key>x</key>
-			<string>276.217</string>
-			<key>y</key>
-			<string>1012.84</string>
-		</dict>
-		<key>{becec69f-5d56-48a3-b78f-d42755656dfa}</key>
-		<dict>
-			<key>x</key>
-			<string>240.631</string>
-			<key>y</key>
-			<string>1010.36</string>
-		</dict>
-		<key>{95e7ba81-a5ce-4143-8e27-58206742c470}</key>
-		<dict>
-			<key>x</key>
-			<string>234.745</string>
-			<key>y</key>
-			<string>1012.84</string>
-		</dict>
-		<key>{d9353e88-65ac-4526-bf07-bf78046b51d1}</key>
-		<dict>
-			<key>x</key>
-			<string>198.979</string>
-			<key>y</key>
-			<string>983.074</string>
-		</dict>
-		<key>{097bfb06-e92a-4f07-85c3-9ffe40ebfcaf}</key>
-		<dict>
-			<key>x</key>
-			<string>151.97</string>
-			<key>y</key>
-			<string>1010.36</string>
-		</dict>
-		<key>{9c4d929c-3a25-4472-b461-b79fe05e895d}</key>
-		<dict>
-			<key>x</key>
-			<string>146.084</string>
-			<key>y</key>
-			<string>1012.84</string>
-		</dict>
-		<key>{feaa8bd6-25dd-4ecf-80ff-8c73617dccfa}</key>
-		<dict>
-			<key>x</key>
-			<string>111.994</string>
-			<key>y</key>
-			<string>1010.36</string>
-		</dict>
-		<key>{3d3b1b42-2ef8-4541-94ee-65f602dcdf7f}</key>
-		<dict>
-			<key>x</key>
-			<string>106.108</string>
-			<key>y</key>
-			<string>1012.84</string>
-		</dict>
-		<key>{98c5c656-0c78-4cda-8828-47d5193eb067}</key>
-		<dict>
-			<key>x</key>
-			<string>71.8384</string>
-			<key>y</key>
-			<string>978.113</string>
-		</dict>
-		<key>{284a1f87-adec-4f5b-8703-6e1d12940790}</key>
-		<dict>
-			<key>x</key>
-			<string>519.853</string>
-			<key>y</key>
-			<string>824.334</string>
-		</dict>
-		<key>{5d106002-e82e-443b-8bcc-ba8d33344663}</key>
-		<dict>
-			<key>x</key>
-			<string>480.942</string>
-			<key>y</key>
-			<string>829.294</string>
-		</dict>
-		<key>{213620b3-bea0-4ff8-9ca6-8a280ba5a766}</key>
-		<dict>
-			<key>x</key>
-			<string>442.031</string>
-			<key>y</key>
-			<string>834.255</string>
-		</dict>
-		<key>{dd7f2825-561d-4b47-9171-d8a6f375ca0f}</key>
-		<dict>
-			<key>x</key>
-			<string>396.373</string>
-			<key>y</key>
-			<string>864.019</string>
-		</dict>
-		<key>{56ac99cc-6ce7-4ee5-9017-9cad3ba54349}</key>
-		<dict>
-			<key>x</key>
-			<string>357.462</string>
-			<key>y</key>
-			<string>868.98</string>
-		</dict>
-		<key>{b9432b29-2d69-47f8-a9d3-9669ad867634}</key>
-		<dict>
-			<key>x</key>
-			<string>318.55</string>
-			<key>y</key>
-			<string>873.94</string>
-		</dict>
-		<key>{a274d225-19ae-4c71-b82f-f10c1b5879ea}</key>
-		<dict>
-			<key>x</key>
-			<string>272.293</string>
-			<key>y</key>
-			<string>864.019</string>
-		</dict>
-		<key>{42d00702-698f-4da5-a686-d985fe32aa39}</key>
-		<dict>
-			<key>x</key>
-			<string>272.293</string>
-			<key>y</key>
-			<string>873.94</string>
-		</dict>
-		<key>{7d1e9568-2795-43e8-a94e-90aab7049290}</key>
-		<dict>
-			<key>x</key>
-			<string>232.783</string>
-			<key>y</key>
-			<string>864.019</string>
-		</dict>
-		<key>{8eadef2a-762b-42fb-8a6c-c5d83dc94b8f}</key>
-		<dict>
-			<key>x</key>
-			<string>232.783</string>
-			<key>y</key>
-			<string>873.94</string>
-		</dict>
-		<key>{06bfe895-33ad-4ef8-9513-db43e1ffe94c}</key>
-		<dict>
-			<key>x</key>
-			<string>193.093</string>
-			<key>y</key>
-			<string>834.255</string>
-		</dict>
-		<key>{cff8c029-bbd5-424e-bb5d-fda62b56d84a}</key>
-		<dict>
-			<key>x</key>
-			<string>148.046</string>
-			<key>y</key>
-			<string>864.019</string>
-		</dict>
-		<key>{44a68eaf-c5a5-47f8-9256-4cba7b4e9ba9}</key>
-		<dict>
-			<key>x</key>
-			<string>148.046</string>
-			<key>y</key>
-			<string>873.94</string>
-		</dict>
-		<key>{cd485989-6866-47f3-b174-c7eac30c8d69}</key>
-		<dict>
-			<key>x</key>
-			<string>110.032</string>
-			<key>y</key>
-			<string>864.019</string>
-		</dict>
-		<key>{4e8ef605-660b-4a08-8290-07b6fc39d34a}</key>
-		<dict>
-			<key>x</key>
-			<string>110.032</string>
-			<key>y</key>
-			<string>873.94</string>
-		</dict>
-		<key>{d41ee5a7-c6d8-4602-a6c6-30296133be6a}</key>
-		<dict>
-			<key>x</key>
-			<string>71.8384</string>
-			<key>y</key>
-			<string>829.294</string>
 		</dict>
 		<key>undefined</key>
 		<dict>
@@ -1014,1641 +508,822 @@
 	</dict>
 	<key>stems</key>
 	<dict>
-		<key>{e6003835-3126-4a92-b4b4-b1e056c62948}</key>
+		<key>{38371ac4-94e8-4320-9ac9-8e7922e140d9}</key>
 		<dict>
 			<key>x1</key>
-			<string>519.491</string>
+			<string>452.838</string>
+			<key>y1</key>
+			<string>599.03</string>
+			<key>x2</key>
+			<string>452.838</string>
+			<key>y2</key>
+			<string>614.994</string>
+			<key>height</key>
+			<string>16.7421</string>
+		</dict>
+		<key>{dbd839ac-6a62-4d5d-ab2c-4c7d7e046142}</key>
+		<dict>
+			<key>x1</key>
+			<string>459.082</string>
+			<key>y1</key>
+			<string>557.805</string>
+			<key>x2</key>
+			<string>459.082</string>
+			<key>y2</key>
+			<string>541.205</string>
+			<key>height</key>
+			<string>-17.3622</string>
+		</dict>
+		<key>{a74c84c1-dc59-464d-bac3-e56be8a2111a}</key>
+		<dict>
+			<key>x1</key>
+			<string>409.942</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>409.942</string>
+			<key>y2</key>
+			<string>605.693</string>
+			<key>height</key>
+			<string>17.3622</string>
+		</dict>
+		<key>{a71702e1-0762-4505-847d-880ae31acc00}</key>
+		<dict>
+			<key>x1</key>
+			<string>373.794</string>
+			<key>y1</key>
+			<string>594.223</string>
+			<key>x2</key>
+			<string>373.794</string>
+			<key>y2</key>
+			<string>610.654</string>
+			<key>height</key>
+			<string>17.3622</string>
+		</dict>
+		<key>{08719a7e-ce8b-4c9a-826a-f0ee5477172c}</key>
+		<dict>
+			<key>x1</key>
+			<string>343.71</string>
+			<key>y1</key>
+			<string>557.805</string>
+			<key>x2</key>
+			<string>343.71</string>
+			<key>y2</key>
+			<string>541.205</string>
+			<key>height</key>
+			<string>-17.3622</string>
+		</dict>
+		<key>{a0cfc440-8dbe-486c-9dae-78f5271a983d}</key>
+		<dict>
+			<key>x1</key>
+			<string>289.037</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>289.037</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{dc4a861d-b3f0-4096-82ea-81c0f18796f3}</key>
+		<dict>
+			<key>x1</key>
+			<string>289.037</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>289.037</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{9b732f0b-0172-4e20-b9e0-f6664a92e243}</key>
+		<dict>
+			<key>x1</key>
+			<string>247.641</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>247.641</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{083660c7-331b-4b80-940c-ed28cb73d5c3}</key>
+		<dict>
+			<key>x1</key>
+			<string>247.641</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>247.641</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{6a695155-ef22-4c6e-bd17-ef90d77fd84b}</key>
+		<dict>
+			<key>x1</key>
+			<string>206.067</string>
+			<key>y1</key>
+			<string>549.424</string>
+			<key>x2</key>
+			<string>206.067</string>
+			<key>y2</key>
+			<string>564.768</string>
+			<key>height</key>
+			<string>16.122</string>
+		</dict>
+		<key>{5a006eb8-0280-411f-98f4-8142a85b392a}</key>
+		<dict>
+			<key>x1</key>
+			<string>159.135</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>159.135</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{4db7a9ea-3906-4edd-80ab-957dc1b12e73}</key>
+		<dict>
+			<key>x1</key>
+			<string>159.135</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>159.135</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{5f072b5b-8bc2-4eba-824d-8d2529dfa876}</key>
+		<dict>
+			<key>x1</key>
+			<string>119.235</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>119.235</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{72771de3-4f02-40a3-8ae5-4513a15aee2d}</key>
+		<dict>
+			<key>x1</key>
+			<string>119.235</string>
+			<key>y1</key>
+			<string>589.262</string>
+			<key>x2</key>
+			<string>119.235</string>
+			<key>y2</key>
+			<string>608.173</string>
+			<key>height</key>
+			<string>19.8425</string>
+		</dict>
+		<key>{1b27de6d-385c-4c43-b559-f9f24a4658c8}</key>
+		<dict>
+			<key>x1</key>
+			<string>85.4011</string>
+			<key>y1</key>
+			<string>555.325</string>
+			<key>x2</key>
+			<string>85.4011</string>
+			<key>y2</key>
+			<string>539.344</string>
+			<key>height</key>
+			<string>-16.7421</string>
+		</dict>
+		<key>{df75cf0f-9252-43f5-86e8-415243536c4b}</key>
+		<dict>
+			<key>x1</key>
+			<string>520.097</string>
 			<key>y1</key>
 			<string>403.239</string>
 			<key>x2</key>
-			<string>519.491</string>
+			<string>520.097</string>
 			<key>y2</key>
 			<string>418.429</string>
 			<key>height</key>
 			<string>16.122</string>
 		</dict>
-		<key>{b3bfba0a-9d19-4f09-ba02-3d228e9cb41c}</key>
+		<key>{aa77fc2b-4b07-4dd0-9ea7-6dee9b8ee790}</key>
 		<dict>
 			<key>x1</key>
-			<string>485.78</string>
+			<string>486.994</string>
 			<key>y1</key>
 			<string>406.336</string>
 			<key>x2</key>
-			<string>485.78</string>
+			<string>486.994</string>
 			<key>y2</key>
 			<string>391.146</string>
 			<key>height</key>
 			<string>-16.122</string>
 		</dict>
-		<key>{7d86f41c-4570-4e60-a6f4-e930fdde4d16}</key>
+		<key>{983ca0b6-33cb-4661-b5cd-ac112e142cb6}</key>
 		<dict>
 			<key>x1</key>
-			<string>446.184</string>
+			<string>448.004</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>446.184</string>
+			<string>448.004</string>
 			<key>y2</key>
 			<string>394.866</string>
 			<key>height</key>
 			<string>-17.3622</string>
 		</dict>
-		<key>{d4dadee9-73cd-4ec1-bbfa-ceb98929150e}</key>
+		<key>{9adff59b-2df6-4152-aa2f-5af7fe0fb4f0}</key>
 		<dict>
 			<key>x1</key>
-			<string>393.954</string>
+			<string>396.382</string>
 			<key>y1</key>
 			<string>442.924</string>
 			<key>x2</key>
-			<string>393.954</string>
+			<string>396.382</string>
 			<key>y2</key>
 			<string>459.354</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{30536d23-08c7-471c-b08e-42011be10bb8}</key>
+		<key>{4044ccf8-bf21-4480-ae8b-a53515c8041d}</key>
 		<dict>
 			<key>x1</key>
-			<string>354.358</string>
+			<string>357.392</string>
 			<key>y1</key>
 			<string>447.884</string>
 			<key>x2</key>
-			<string>354.358</string>
+			<string>357.392</string>
 			<key>y2</key>
 			<string>464.315</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{e7159717-0d8b-4621-827f-ad1a3c6807b2}</key>
+		<key>{64e545de-3bb2-4fc9-9c7c-028fd8ea317d}</key>
 		<dict>
 			<key>x1</key>
-			<string>314.761</string>
+			<string>318.402</string>
 			<key>y1</key>
 			<string>452.845</string>
 			<key>x2</key>
-			<string>314.761</string>
+			<string>318.402</string>
 			<key>y2</key>
 			<string>468.656</string>
 			<key>height</key>
 			<string>16.7421</string>
 		</dict>
-		<key>{08e48373-4665-4448-afa4-6b05887756b9}</key>
+		<key>{5ae94a3f-6f9b-42f4-90de-4900ac6b59ad}</key>
 		<dict>
 			<key>x1</key>
-			<string>275.028</string>
+			<string>279.276</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>275.028</string>
+			<string>279.276</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{e5c72a06-3cd5-48d7-8126-893db650a228}</key>
+		<key>{7eb18448-4293-475e-aa2a-9d5b38a60d72}</key>
 		<dict>
 			<key>x1</key>
-			<string>275.028</string>
+			<string>279.276</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>275.028</string>
+			<string>279.276</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{20fa518e-cb91-4a86-a093-15aa997f0a44}</key>
+		<key>{f2669462-1c74-4e72-a591-926530521e11}</key>
 		<dict>
 			<key>x1</key>
-			<string>236.155</string>
+			<string>241.009</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>236.155</string>
+			<string>241.009</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{1ab631a9-62fe-42d0-9400-5351c08eae49}</key>
+		<key>{705c99e7-255d-4568-bf47-c5614d506617}</key>
 		<dict>
 			<key>x1</key>
-			<string>236.155</string>
+			<string>241.009</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>236.155</string>
+			<string>241.009</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{9cc8daf9-2209-43fc-bf79-05f9a26c19f8}</key>
+		<key>{cf87d8cd-3f92-4514-8d52-e0dcd3e3b5e6}</key>
 		<dict>
 			<key>x1</key>
-			<string>191.216</string>
+			<string>196.678</string>
 			<key>y1</key>
 			<string>452.691</string>
 			<key>x2</key>
-			<string>191.216</string>
+			<string>196.678</string>
 			<key>y2</key>
 			<string>468.656</string>
 			<key>height</key>
 			<string>16.7421</string>
 		</dict>
-		<key>{d72cc486-fe44-4e4d-9bef-0904135add2a}</key>
+		<key>{f6491efe-0bde-4018-aef2-07dd7d66204a}</key>
 		<dict>
 			<key>x1</key>
-			<string>152.693</string>
+			<string>158.762</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>152.693</string>
+			<string>158.762</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{284d65c6-4fc9-4840-896f-86e924af0857}</key>
+		<key>{5eca2fa9-a7a3-4024-b461-d292cee95906}</key>
 		<dict>
 			<key>x1</key>
-			<string>152.693</string>
+			<string>158.762</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>152.693</string>
+			<string>158.762</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{e83f72dc-8b4f-496c-b858-08c44a764b52}</key>
+		<key>{450c7fc9-3957-41e2-b0d0-0736171be874}</key>
 		<dict>
 			<key>x1</key>
-			<string>115.317</string>
+			<string>121.992</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>115.317</string>
+			<string>121.992</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{fc9404a4-c5f0-4dfc-8320-f766f02dc201}</key>
+		<key>{4d2627b6-3933-4796-9d79-6fd0fb5d6900}</key>
 		<dict>
 			<key>x1</key>
-			<string>115.317</string>
+			<string>121.992</string>
 			<key>y1</key>
 			<string>411.297</string>
 			<key>x2</key>
-			<string>115.317</string>
+			<string>121.992</string>
 			<key>y2</key>
 			<string>387.425</string>
 			<key>height</key>
 			<string>-24.8031</string>
 		</dict>
-		<key>{51cc3930-1f6c-4078-922d-91f44c711330}</key>
+		<key>{d659f253-8f71-4d29-8c8d-f1c60cb1ec2b}</key>
 		<dict>
 			<key>x1</key>
-			<string>71.8748</string>
+			<string>79.1569</string>
 			<key>y1</key>
 			<string>447.731</string>
 			<key>x2</key>
-			<string>71.8748</string>
+			<string>79.1569</string>
 			<key>y2</key>
 			<string>464.315</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{bc68d022-258d-4736-aad3-95cd45139694}</key>
+		<key>{f913fdf6-fc7e-4fc7-b72b-e7cf253bd48c}</key>
 		<dict>
 			<key>x1</key>
-			<string>522.138</string>
+			<string>522.721</string>
 			<key>y1</key>
 			<string>304.026</string>
 			<key>x2</key>
-			<string>522.138</string>
+			<string>522.721</string>
 			<key>y2</key>
 			<string>320.457</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{95677a57-3104-448a-ac9d-2f6e3203035f}</key>
+		<key>{60772e8f-9267-4284-b2f9-c79bd2a6462a}</key>
 		<dict>
 			<key>x1</key>
-			<string>485.189</string>
+			<string>486.355</string>
 			<key>y1</key>
 			<string>299.066</string>
 			<key>x2</key>
-			<string>485.189</string>
+			<string>486.355</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{bfb7c087-9bed-463d-b70f-00334dde626f}</key>
+		<key>{7a202d44-1e99-4df2-be9d-1536e97b0b90}</key>
 		<dict>
 			<key>x1</key>
-			<string>448.239</string>
+			<string>449.988</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>448.239</string>
+			<string>449.988</string>
 			<key>y2</key>
 			<string>313.016</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{b7cf7876-ad9f-4cd6-bcec-3dafa75f2883}</key>
+		<key>{2752e538-f58e-4383-9150-6896dc1bb007}</key>
 		<dict>
 			<key>x1</key>
-			<string>410.43</string>
+			<string>412.762</string>
 			<key>y1</key>
 			<string>262.478</string>
 			<key>x2</key>
-			<string>410.43</string>
+			<string>412.762</string>
 			<key>y2</key>
 			<string>246.667</string>
 			<key>height</key>
 			<string>-16.7421</string>
 		</dict>
-		<key>{29f254bf-784b-45df-916a-5f727570dbc2}</key>
+		<key>{3d69baaf-43b3-47b2-8020-31dffaf8147a}</key>
 		<dict>
 			<key>x1</key>
-			<string>367.594</string>
+			<string>370.509</string>
 			<key>y1</key>
 			<string>259.381</string>
 			<key>x2</key>
-			<string>367.594</string>
+			<string>370.509</string>
 			<key>y2</key>
 			<string>273.951</string>
 			<key>height</key>
 			<string>15.502</string>
 		</dict>
-		<key>{f14b3766-1fa3-4041-9469-83d3436e0e0c}</key>
+		<key>{1d69ddfc-af3e-4099-9d63-94a0e4820c84}</key>
 		<dict>
 			<key>x1</key>
-			<string>330.645</string>
+			<string>334.143</string>
 			<key>y1</key>
 			<string>256.9</string>
 			<key>x2</key>
-			<string>330.645</string>
+			<string>334.143</string>
 			<key>y2</key>
 			<string>272.091</string>
 			<key>height</key>
 			<string>16.122</string>
 		</dict>
-		<key>{2fe25826-00be-48e6-87dd-d146bc59c664}</key>
+		<key>{78156d61-dc25-4fbd-ae7e-48a3686a495d}</key>
 		<dict>
 			<key>x1</key>
-			<string>282.426</string>
+			<string>286.507</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>282.426</string>
+			<string>286.507</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{cf6c4f1b-a56d-43b3-a817-3edf3bcf4e26}</key>
+		<key>{6959238d-093f-44ea-8d97-a632b6d87dc3}</key>
 		<dict>
 			<key>x1</key>
-			<string>282.426</string>
+			<string>286.507</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>282.426</string>
+			<string>286.507</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{bd68a0e4-150f-41ae-a536-2e846a7dfab3}</key>
+		<key>{9b2ef2fc-3066-48d0-b8b9-02e5929bb626}</key>
 		<dict>
 			<key>x1</key>
-			<string>240.953</string>
+			<string>245.617</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>240.953</string>
+			<string>245.617</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{2ce205c0-10bc-4c90-b627-5172c11289ea}</key>
+		<key>{53413676-e65a-4292-b3c8-4e4d691740ed}</key>
 		<dict>
 			<key>x1</key>
-			<string>240.953</string>
+			<string>245.617</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>240.953</string>
+			<string>245.617</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{b53d137f-a2cf-4789-96f8-f6c40aaa98ed}</key>
+		<key>{6bb5f3d7-ff43-41e1-bf6d-263faf5f15ee}</key>
 		<dict>
 			<key>x1</key>
-			<string>205.545</string>
+			<string>210.793</string>
 			<key>y1</key>
 			<string>267.608</string>
 			<key>x2</key>
-			<string>205.545</string>
+			<string>210.793</string>
 			<key>y2</key>
 			<string>251.008</string>
 			<key>height</key>
 			<string>-17.3622</string>
 		</dict>
-		<key>{df32ec7e-8c85-4f76-a6f9-4d0fab61de3c}</key>
+		<key>{2e75da63-fa28-42e0-8cc9-b9e246d848f0}</key>
 		<dict>
 			<key>x1</key>
-			<string>152.293</string>
+			<string>158.123</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>152.293</string>
+			<string>158.123</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{c782c0a8-f14f-43ee-bbc6-352e8639ba77}</key>
+		<key>{9b73c877-e85b-48f5-8c4d-aefd7a318956}</key>
 		<dict>
 			<key>x1</key>
-			<string>152.293</string>
+			<string>158.123</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>152.293</string>
+			<string>158.123</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{83b6422d-bea2-4c1e-bca1-4a602c32628b}</key>
+		<key>{391ea1e9-bdb9-42c0-94f5-0690a5179185}</key>
 		<dict>
 			<key>x1</key>
-			<string>112.316</string>
+			<string>118.729</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>112.316</string>
+			<string>118.729</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{9c67f0de-d2db-46e0-bbb0-81d255f9eef1}</key>
+		<key>{8169db9e-fe09-43af-a2f8-f4db780ac4b0}</key>
 		<dict>
 			<key>x1</key>
-			<string>112.316</string>
+			<string>118.729</string>
 			<key>y1</key>
 			<string>296.585</string>
 			<key>x2</key>
-			<string>112.316</string>
+			<string>118.729</string>
 			<key>y2</key>
 			<string>315.496</string>
 			<key>height</key>
 			<string>19.8425</string>
 		</dict>
-		<key>{3bb40eb8-87aa-4f32-ab7d-a65ac698ee7f}</key>
+		<key>{758118a6-56ea-4889-bfbe-c1cf548f7476}</key>
 		<dict>
 			<key>x1</key>
-			<string>78.405</string>
+			<string>85.4011</string>
 			<key>y1</key>
 			<string>262.648</string>
 			<key>x2</key>
-			<string>78.405</string>
+			<string>85.4011</string>
 			<key>y2</key>
 			<string>246.667</string>
 			<key>height</key>
 			<string>-16.7421</string>
 		</dict>
-		<key>{8adf119b-a35e-4578-9f9c-37005cdb6242}</key>
+		<key>{d70df077-8b07-40e8-84e1-eaff1c8648f4}</key>
 		<dict>
 			<key>x1</key>
-			<string>521.255</string>
+			<string>521.631</string>
 			<key>y1</key>
 			<string>110.562</string>
 			<key>x2</key>
-			<string>521.255</string>
+			<string>521.631</string>
 			<key>y2</key>
 			<string>125.752</string>
 			<key>height</key>
 			<string>16.122</string>
 		</dict>
-		<key>{eb6df93a-033c-4972-9730-11d1ca2cd53a}</key>
+		<key>{baca995d-c1e0-4e44-9c92-34d042c58c53}</key>
 		<dict>
 			<key>x1</key>
-			<string>489.309</string>
+			<string>490.061</string>
 			<key>y1</key>
 			<string>113.659</string>
 			<key>x2</key>
-			<string>489.309</string>
+			<string>490.061</string>
 			<key>y2</key>
 			<string>98.4685</string>
 			<key>height</key>
 			<string>-16.122</string>
 		</dict>
-		<key>{d7a59dd1-bd4f-4f1f-b4db-f04cb5faec10}</key>
+		<key>{02384eed-81a5-4eef-ad50-36cb9382383b}</key>
 		<dict>
 			<key>x1</key>
-			<string>451.476</string>
+			<string>452.605</string>
 			<key>y1</key>
 			<string>118.62</string>
 			<key>x2</key>
-			<string>451.476</string>
+			<string>452.605</string>
 			<key>y2</key>
 			<string>102.189</string>
 			<key>height</key>
 			<string>-17.3622</string>
 		</dict>
-		<key>{3d5c7872-8fd2-4fd2-ba3e-1a65b0250418}</key>
+		<key>{66bf2139-fb3b-4132-90f3-208bc031fc55}</key>
 		<dict>
 			<key>x1</key>
-			<string>401.011</string>
+			<string>402.516</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>401.011</string>
+			<string>402.516</string>
 			<key>y2</key>
 			<string>166.677</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{4ec9f47e-da14-46e4-811f-17d6fc5d0c8e}</key>
+		<key>{adf03b92-ed71-48bc-b2a3-6227609bddf2}</key>
 		<dict>
 			<key>x1</key>
-			<string>363.179</string>
+			<string>365.06</string>
 			<key>y1</key>
 			<string>155.207</string>
 			<key>x2</key>
-			<string>363.179</string>
+			<string>365.06</string>
 			<key>y2</key>
 			<string>171.638</string>
 			<key>height</key>
 			<string>17.3622</string>
 		</dict>
-		<key>{cb1afa25-340b-496d-ab0d-121e46403e88}</key>
+		<key>{97e8d1bc-85fc-4b59-bfe5-a8cf87a062d4}</key>
 		<dict>
 			<key>x1</key>
-			<string>325.346</string>
+			<string>327.604</string>
 			<key>y1</key>
 			<string>160.168</string>
 			<key>x2</key>
-			<string>325.346</string>
+			<string>327.604</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>16.7421</string>
 		</dict>
-		<key>{3f8ec264-be17-4641-abbe-dfd7143191e2}</key>
+		<key>{068c0d8e-83c0-439f-9adc-73e152afb13e}</key>
 		<dict>
 			<key>x1</key>
-			<string>280.168</string>
+			<string>282.802</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>280.168</string>
+			<string>282.802</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{8e3015b6-d006-433e-aff6-568f675ab8bd}</key>
+		<key>{673a4a66-8a8d-4242-980f-bd083fc06336}</key>
 		<dict>
 			<key>x1</key>
-			<string>280.168</string>
+			<string>282.802</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>280.168</string>
+			<string>282.802</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{696e2e33-58ec-4586-88fa-2bab8152effd}</key>
+		<key>{aa8bf552-dc8f-47d4-b788-85c1152be9cb}</key>
 		<dict>
 			<key>x1</key>
-			<string>241.736</string>
+			<string>244.747</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>241.736</string>
+			<string>244.747</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{2f3c0ca2-7d75-4277-8170-bdc3252a4423}</key>
+		<key>{d5a3e843-4bbd-44e7-b025-1bf303488ba2}</key>
 		<dict>
 			<key>x1</key>
-			<string>241.736</string>
+			<string>244.747</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>241.736</string>
+			<string>244.747</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{3d682aa5-fa52-4a59-affe-744cff7756ad}</key>
+		<key>{88102159-f55b-4516-885a-443b26902835}</key>
 		<dict>
 			<key>x1</key>
-			<string>209.37</string>
+			<string>212.757</string>
 			<key>y1</key>
 			<string>118.789</string>
 			<key>x2</key>
-			<string>209.37</string>
+			<string>212.757</string>
 			<key>y2</key>
 			<string>102.189</string>
 			<key>height</key>
 			<string>-17.3622</string>
 		</dict>
-		<key>{a04b1ced-2139-42fd-a3ff-5b55f54fbca4}</key>
+		<key>{0dbdc114-78fe-4586-a83e-fdcefba42236}</key>
 		<dict>
 			<key>x1</key>
-			<string>159.158</string>
+			<string>162.921</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>159.158</string>
+			<string>162.921</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{f1f62f45-e4fc-4d9b-b6d4-94d0a996c6fb}</key>
+		<key>{5001e35f-ba3a-4eca-ba97-1653ebd3cbb9}</key>
 		<dict>
 			<key>x1</key>
-			<string>159.158</string>
+			<string>162.921</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>159.158</string>
+			<string>162.921</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{ef8d44e3-b7e0-4c72-a930-a0381d6caa53}</key>
+		<key>{05eed792-ef17-497a-b0ef-9d807e6317eb}</key>
 		<dict>
 			<key>x1</key>
-			<string>122.222</string>
+			<string>126.362</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>122.222</string>
+			<string>126.362</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{fc841a1e-0f0a-4915-9d6b-255fed12591d}</key>
+		<key>{7489317f-7c41-46ab-9e17-20ac552e1bab}</key>
 		<dict>
 			<key>x1</key>
-			<string>122.222</string>
+			<string>126.362</string>
 			<key>y1</key>
 			<string>150.247</string>
 			<key>x2</key>
-			<string>122.222</string>
+			<string>126.362</string>
 			<key>y2</key>
 			<string>175.978</string>
 			<key>height</key>
 			<string>26.6634</string>
 		</dict>
-		<key>{202406cb-71d4-4788-a8ce-4f4d20054dab}</key>
+		<key>{62f9e827-2d3f-4bed-af52-7e55ead39a46}</key>
 		<dict>
 			<key>x1</key>
-			<string>91.3523</string>
+			<string>95.868</string>
 			<key>y1</key>
 			<string>113.829</string>
 			<key>x2</key>
-			<string>91.3523</string>
+			<string>95.868</string>
 			<key>y2</key>
 			<string>98.4685</string>
-			<key>height</key>
-			<string>-16.122</string>
-		</dict>
-		<key>{a763e6a1-a3fc-4726-a04b-1b76ebd71f78}</key>
-		<dict>
-			<key>x1</key>
-			<string>457.728</string>
-			<key>y1</key>
-			<string>594.504</string>
-			<key>x2</key>
-			<string>457.728</string>
-			<key>y2</key>
-			<string>610.468</string>
-			<key>height</key>
-			<string>16.7421</string>
-		</dict>
-		<key>{d7497090-d9eb-4ece-9650-8c5fe39fd809}</key>
-		<dict>
-			<key>x1</key>
-			<string>463.972</string>
-			<key>y1</key>
-			<string>553.279</string>
-			<key>x2</key>
-			<string>463.972</string>
-			<key>y2</key>
-			<string>536.679</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{116145e4-2eb2-4322-b447-cb6665b6147b}</key>
-		<dict>
-			<key>x1</key>
-			<string>414.975</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>414.975</string>
-			<key>y2</key>
-			<string>601.167</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{1d610fed-c78e-4566-8162-70a1cced19f8}</key>
-		<dict>
-			<key>x1</key>
-			<string>378.968</string>
-			<key>y1</key>
-			<string>589.697</string>
-			<key>x2</key>
-			<string>378.968</string>
-			<key>y2</key>
-			<string>606.128</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{773d541e-0cbc-4c1d-8bda-6bc4174411a6}</key>
-		<dict>
-			<key>x1</key>
-			<string>349.026</string>
-			<key>y1</key>
-			<string>553.279</string>
-			<key>x2</key>
-			<string>349.026</string>
-			<key>y2</key>
-			<string>536.679</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{d900de62-0cc6-4559-b79a-90472a6835eb}</key>
-		<dict>
-			<key>x1</key>
-			<string>292.302</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>292.302</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{5264d981-cc92-4a57-8ddd-8b1a7cdbe2ed}</key>
-		<dict>
-			<key>x1</key>
-			<string>292.302</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>292.302</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{11a6695d-d9b7-4fc9-8c63-0526c5a9846a}</key>
-		<dict>
-			<key>x1</key>
-			<string>248.854</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>248.854</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{4e816781-7ddf-463c-a09b-39dea40e53bd}</key>
-		<dict>
-			<key>x1</key>
-			<string>248.854</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>248.854</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{64d60a9b-3b97-40cd-aeba-6675edc022d3}</key>
-		<dict>
-			<key>x1</key>
-			<string>205.227</string>
-			<key>y1</key>
-			<string>544.898</string>
-			<key>x2</key>
-			<string>205.227</string>
-			<key>y2</key>
-			<string>560.242</string>
-			<key>height</key>
-			<string>16.122</string>
-		</dict>
-		<key>{9b7d963d-b43c-4be6-ae16-af79d1dcde37}</key>
-		<dict>
-			<key>x1</key>
-			<string>156.243</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>156.243</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{b2a0f658-9a42-447b-bf49-2b4d779bc277}</key>
-		<dict>
-			<key>x1</key>
-			<string>156.243</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>156.243</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{319a93b5-4e60-460e-ae2b-aa81638e8128}</key>
-		<dict>
-			<key>x1</key>
-			<string>114.291</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>114.291</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{391e198c-e0a1-4cf2-857c-41c597944485}</key>
-		<dict>
-			<key>x1</key>
-			<string>114.291</string>
-			<key>y1</key>
-			<string>584.736</string>
-			<key>x2</key>
-			<string>114.291</string>
-			<key>y2</key>
-			<string>603.647</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{4ceca09c-d798-4a88-a176-6fd17c8f42c3}</key>
-		<dict>
-			<key>x1</key>
-			<string>78.405</string>
-			<key>y1</key>
-			<string>550.799</string>
-			<key>x2</key>
-			<string>78.405</string>
-			<key>y2</key>
-			<string>534.819</string>
-			<key>height</key>
-			<string>-16.7421</string>
-		</dict>
-		<key>{000f3b8e-7121-4617-9eb0-0e2fea31e163}</key>
-		<dict>
-			<key>x1</key>
-			<string>454.38</string>
-			<key>y1</key>
-			<string>1313.73</string>
-			<key>x2</key>
-			<string>454.38</string>
-			<key>y2</key>
-			<string>1329.7</string>
-			<key>height</key>
-			<string>16.7421</string>
-		</dict>
-		<key>{ba17ddff-0987-4738-9d1f-2d6ab4686a1a}</key>
-		<dict>
-			<key>x1</key>
-			<string>460.624</string>
-			<key>y1</key>
-			<string>1272.51</string>
-			<key>x2</key>
-			<string>460.624</string>
-			<key>y2</key>
-			<string>1255.91</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{999bda5e-f0ae-406c-bb19-9afebdf1935f}</key>
-		<dict>
-			<key>x1</key>
-			<string>411.999</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>411.999</string>
-			<key>y2</key>
-			<string>1320.4</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{2d2e4925-cb54-4ccb-a9c0-fdcb2edb8a59}</key>
-		<dict>
-			<key>x1</key>
-			<string>376.364</string>
-			<key>y1</key>
-			<string>1308.93</string>
-			<key>x2</key>
-			<string>376.364</string>
-			<key>y2</key>
-			<string>1325.36</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{fd8eea98-7d0f-4ceb-b887-6c3aed10e2f5}</key>
-		<dict>
-			<key>x1</key>
-			<string>346.794</string>
-			<key>y1</key>
-			<string>1272.51</string>
-			<key>x2</key>
-			<string>346.794</string>
-			<key>y2</key>
-			<string>1255.91</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{da808220-b57b-4ba3-aec2-7791886d3c25}</key>
-		<dict>
-			<key>x1</key>
-			<string>290.441</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>290.441</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{a8f69ce8-6eb9-4a8d-82cf-4b173bfd2526}</key>
-		<dict>
-			<key>x1</key>
-			<string>290.441</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>290.441</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{9c300dc5-5e03-48b9-b4dd-80fc8e9dc24c}</key>
-		<dict>
-			<key>x1</key>
-			<string>247.365</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>247.365</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{f3b62ac9-1805-42f0-b765-13d6dfb1e8d4}</key>
-		<dict>
-			<key>x1</key>
-			<string>247.365</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>247.365</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{fe8f21ca-4fb9-4ec2-ae45-aa48d39c945a}</key>
-		<dict>
-			<key>x1</key>
-			<string>204.111</string>
-			<key>y1</key>
-			<string>1264.13</string>
-			<key>x2</key>
-			<string>204.111</string>
-			<key>y2</key>
-			<string>1279.47</string>
-			<key>height</key>
-			<string>16.122</string>
-		</dict>
-		<key>{3fef5c6e-4385-44a8-9727-bd1f2f2fa803}</key>
-		<dict>
-			<key>x1</key>
-			<string>155.499</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>155.499</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{79551ac0-e708-442c-b786-e09e2c958867}</key>
-		<dict>
-			<key>x1</key>
-			<string>155.499</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>155.499</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{74fe544a-8a75-49e4-8e02-a0d109e29912}</key>
-		<dict>
-			<key>x1</key>
-			<string>113.919</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>113.919</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{f02f6408-1502-45e6-909a-3c3b94923d70}</key>
-		<dict>
-			<key>x1</key>
-			<string>113.919</string>
-			<key>y1</key>
-			<string>1303.97</string>
-			<key>x2</key>
-			<string>113.919</string>
-			<key>y2</key>
-			<string>1322.88</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{4797a71f-2150-4955-87a2-39e45fed69ed}</key>
-		<dict>
-			<key>x1</key>
-			<string>78.405</string>
-			<key>y1</key>
-			<string>1270.03</string>
-			<key>x2</key>
-			<string>78.405</string>
-			<key>y2</key>
-			<string>1254.05</string>
-			<key>height</key>
-			<string>-16.7421</string>
-		</dict>
-		<key>{5ae7262d-3920-4090-b4ed-8b5f141fc6e1}</key>
-		<dict>
-			<key>x1</key>
-			<string>519.491</string>
-			<key>y1</key>
-			<string>1117.94</string>
-			<key>x2</key>
-			<string>519.491</string>
-			<key>y2</key>
-			<string>1133.13</string>
-			<key>height</key>
-			<string>16.122</string>
-		</dict>
-		<key>{20df8998-e1e2-44d5-933e-9d58e54a5715}</key>
-		<dict>
-			<key>x1</key>
-			<string>485.78</string>
-			<key>y1</key>
-			<string>1121.04</string>
-			<key>x2</key>
-			<string>485.78</string>
-			<key>y2</key>
-			<string>1105.85</string>
-			<key>height</key>
-			<string>-16.122</string>
-		</dict>
-		<key>{7375b7ad-2be5-475f-8bb9-e86e6dab5261}</key>
-		<dict>
-			<key>x1</key>
-			<string>446.184</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>446.184</string>
-			<key>y2</key>
-			<string>1109.57</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{af8067e0-a121-4f02-89d8-b2fc445c3a71}</key>
-		<dict>
-			<key>x1</key>
-			<string>393.954</string>
-			<key>y1</key>
-			<string>1157.63</string>
-			<key>x2</key>
-			<string>393.954</string>
-			<key>y2</key>
-			<string>1174.06</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{83a876c0-a861-423a-b578-fc1b33404d73}</key>
-		<dict>
-			<key>x1</key>
-			<string>354.358</string>
-			<key>y1</key>
-			<string>1162.59</string>
-			<key>x2</key>
-			<string>354.358</string>
-			<key>y2</key>
-			<string>1179.02</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{4e09090d-2512-4c98-b7f0-aee95d2a9e61}</key>
-		<dict>
-			<key>x1</key>
-			<string>314.761</string>
-			<key>y1</key>
-			<string>1167.55</string>
-			<key>x2</key>
-			<string>314.761</string>
-			<key>y2</key>
-			<string>1183.36</string>
-			<key>height</key>
-			<string>16.7421</string>
-		</dict>
-		<key>{5f117024-75be-42ae-8189-10f5aadf4f4b}</key>
-		<dict>
-			<key>x1</key>
-			<string>275.028</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>275.028</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{526bb8e1-b73a-4c1e-bc33-0f4891e6db9b}</key>
-		<dict>
-			<key>x1</key>
-			<string>275.028</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>275.028</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{718cc2ed-7388-4a9b-946b-920bd30684d4}</key>
-		<dict>
-			<key>x1</key>
-			<string>236.155</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>236.155</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{e3d2ba80-97d4-4604-9e34-a7cc013a8887}</key>
-		<dict>
-			<key>x1</key>
-			<string>236.155</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>236.155</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{65a2729d-d221-4e2c-b72f-3bd1427ad246}</key>
-		<dict>
-			<key>x1</key>
-			<string>191.216</string>
-			<key>y1</key>
-			<string>1167.4</string>
-			<key>x2</key>
-			<string>191.216</string>
-			<key>y2</key>
-			<string>1183.36</string>
-			<key>height</key>
-			<string>16.7421</string>
-		</dict>
-		<key>{52613c9e-03bc-4e92-9e8b-221be4715ac4}</key>
-		<dict>
-			<key>x1</key>
-			<string>152.693</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>152.693</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{7e06bdba-70c1-46c0-8f2b-3a5d485bce8b}</key>
-		<dict>
-			<key>x1</key>
-			<string>152.693</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>152.693</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{8647798e-7b46-45e5-8008-ed3886e5a845}</key>
-		<dict>
-			<key>x1</key>
-			<string>115.317</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>115.317</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{45cb221f-7eea-4500-8ba8-004af6551013}</key>
-		<dict>
-			<key>x1</key>
-			<string>115.317</string>
-			<key>y1</key>
-			<string>1126</string>
-			<key>x2</key>
-			<string>115.317</string>
-			<key>y2</key>
-			<string>1102.13</string>
-			<key>height</key>
-			<string>-24.8031</string>
-		</dict>
-		<key>{d60981ef-87fa-4f4d-8831-bcf660cab348}</key>
-		<dict>
-			<key>x1</key>
-			<string>71.8748</string>
-			<key>y1</key>
-			<string>1162.43</string>
-			<key>x2</key>
-			<string>71.8748</string>
-			<key>y2</key>
-			<string>1179.02</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{895164d6-7061-473d-b9dc-17faaf35766e}</key>
-		<dict>
-			<key>x1</key>
-			<string>522.138</string>
-			<key>y1</key>
-			<string>1018.73</string>
-			<key>x2</key>
-			<string>522.138</string>
-			<key>y2</key>
-			<string>1035.16</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{2b06f20b-e80b-47c1-813c-f9f03601a509}</key>
-		<dict>
-			<key>x1</key>
-			<string>485.189</string>
-			<key>y1</key>
-			<string>1013.77</string>
-			<key>x2</key>
-			<string>485.189</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{f0c877aa-bdbd-417f-ba86-b2d9b84eae85}</key>
-		<dict>
-			<key>x1</key>
-			<string>448.239</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>448.239</string>
-			<key>y2</key>
-			<string>1027.72</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{3a740b20-33c0-4e41-b7b6-9f90a9efb5e0}</key>
-		<dict>
-			<key>x1</key>
-			<string>410.43</string>
-			<key>y1</key>
-			<string>977.182</string>
-			<key>x2</key>
-			<string>410.43</string>
-			<key>y2</key>
-			<string>961.371</string>
-			<key>height</key>
-			<string>-16.7421</string>
-		</dict>
-		<key>{4aaa8397-0abd-40c2-bbc3-baac3163cd25}</key>
-		<dict>
-			<key>x1</key>
-			<string>367.594</string>
-			<key>y1</key>
-			<string>974.084</string>
-			<key>x2</key>
-			<string>367.594</string>
-			<key>y2</key>
-			<string>988.655</string>
-			<key>height</key>
-			<string>15.502</string>
-		</dict>
-		<key>{cfe68d99-6874-4769-9987-05b9943f077d}</key>
-		<dict>
-			<key>x1</key>
-			<string>330.645</string>
-			<key>y1</key>
-			<string>971.604</string>
-			<key>x2</key>
-			<string>330.645</string>
-			<key>y2</key>
-			<string>986.794</string>
-			<key>height</key>
-			<string>16.122</string>
-		</dict>
-		<key>{f9811f34-9c49-476a-bd09-6e05b297bb96}</key>
-		<dict>
-			<key>x1</key>
-			<string>282.426</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>282.426</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{97ba4af6-93ab-4935-a104-0c3a4405ed1d}</key>
-		<dict>
-			<key>x1</key>
-			<string>282.426</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>282.426</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{95e7ba81-a5ce-4143-8e27-58206742c470}</key>
-		<dict>
-			<key>x1</key>
-			<string>240.953</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>240.953</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{becec69f-5d56-48a3-b78f-d42755656dfa}</key>
-		<dict>
-			<key>x1</key>
-			<string>240.953</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>240.953</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{d9353e88-65ac-4526-bf07-bf78046b51d1}</key>
-		<dict>
-			<key>x1</key>
-			<string>205.545</string>
-			<key>y1</key>
-			<string>982.312</string>
-			<key>x2</key>
-			<string>205.545</string>
-			<key>y2</key>
-			<string>965.712</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{9c4d929c-3a25-4472-b461-b79fe05e895d}</key>
-		<dict>
-			<key>x1</key>
-			<string>152.293</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>152.293</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{097bfb06-e92a-4f07-85c3-9ffe40ebfcaf}</key>
-		<dict>
-			<key>x1</key>
-			<string>152.293</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>152.293</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{3d3b1b42-2ef8-4541-94ee-65f602dcdf7f}</key>
-		<dict>
-			<key>x1</key>
-			<string>112.316</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>112.316</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{feaa8bd6-25dd-4ecf-80ff-8c73617dccfa}</key>
-		<dict>
-			<key>x1</key>
-			<string>112.316</string>
-			<key>y1</key>
-			<string>1011.29</string>
-			<key>x2</key>
-			<string>112.316</string>
-			<key>y2</key>
-			<string>1030.2</string>
-			<key>height</key>
-			<string>19.8425</string>
-		</dict>
-		<key>{98c5c656-0c78-4cda-8828-47d5193eb067}</key>
-		<dict>
-			<key>x1</key>
-			<string>78.405</string>
-			<key>y1</key>
-			<string>977.351</string>
-			<key>x2</key>
-			<string>78.405</string>
-			<key>y2</key>
-			<string>961.371</string>
-			<key>height</key>
-			<string>-16.7421</string>
-		</dict>
-		<key>{284a1f87-adec-4f5b-8703-6e1d12940790}</key>
-		<dict>
-			<key>x1</key>
-			<string>520.176</string>
-			<key>y1</key>
-			<string>825.266</string>
-			<key>x2</key>
-			<string>520.176</string>
-			<key>y2</key>
-			<string>840.456</string>
-			<key>height</key>
-			<string>16.122</string>
-		</dict>
-		<key>{5d106002-e82e-443b-8bcc-ba8d33344663}</key>
-		<dict>
-			<key>x1</key>
-			<string>487.151</string>
-			<key>y1</key>
-			<string>828.363</string>
-			<key>x2</key>
-			<string>487.151</string>
-			<key>y2</key>
-			<string>813.172</string>
-			<key>height</key>
-			<string>-16.122</string>
-		</dict>
-		<key>{213620b3-bea0-4ff8-9ca6-8a280ba5a766}</key>
-		<dict>
-			<key>x1</key>
-			<string>448.239</string>
-			<key>y1</key>
-			<string>833.323</string>
-			<key>x2</key>
-			<string>448.239</string>
-			<key>y2</key>
-			<string>816.893</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{dd7f2825-561d-4b47-9171-d8a6f375ca0f}</key>
-		<dict>
-			<key>x1</key>
-			<string>396.695</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>396.695</string>
-			<key>y2</key>
-			<string>881.381</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{56ac99cc-6ce7-4ee5-9017-9cad3ba54349}</key>
-		<dict>
-			<key>x1</key>
-			<string>357.784</string>
-			<key>y1</key>
-			<string>869.911</string>
-			<key>x2</key>
-			<string>357.784</string>
-			<key>y2</key>
-			<string>886.342</string>
-			<key>height</key>
-			<string>17.3622</string>
-		</dict>
-		<key>{b9432b29-2d69-47f8-a9d3-9669ad867634}</key>
-		<dict>
-			<key>x1</key>
-			<string>318.873</string>
-			<key>y1</key>
-			<string>874.872</string>
-			<key>x2</key>
-			<string>318.873</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>16.7421</string>
-		</dict>
-		<key>{42d00702-698f-4da5-a686-d985fe32aa39}</key>
-		<dict>
-			<key>x1</key>
-			<string>272.616</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>272.616</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{a274d225-19ae-4c71-b82f-f10c1b5879ea}</key>
-		<dict>
-			<key>x1</key>
-			<string>272.616</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>272.616</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{8eadef2a-762b-42fb-8a6c-c5d83dc94b8f}</key>
-		<dict>
-			<key>x1</key>
-			<string>233.105</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>233.105</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{7d1e9568-2795-43e8-a94e-90aab7049290}</key>
-		<dict>
-			<key>x1</key>
-			<string>233.105</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>233.105</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{06bfe895-33ad-4ef8-9513-db43e1ffe94c}</key>
-		<dict>
-			<key>x1</key>
-			<string>199.659</string>
-			<key>y1</key>
-			<string>833.493</string>
-			<key>x2</key>
-			<string>199.659</string>
-			<key>y2</key>
-			<string>816.893</string>
-			<key>height</key>
-			<string>-17.3622</string>
-		</dict>
-		<key>{44a68eaf-c5a5-47f8-9256-4cba7b4e9ba9}</key>
-		<dict>
-			<key>x1</key>
-			<string>148.368</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>148.368</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{cff8c029-bbd5-424e-bb5d-fda62b56d84a}</key>
-		<dict>
-			<key>x1</key>
-			<string>148.368</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>148.368</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{4e8ef605-660b-4a08-8290-07b6fc39d34a}</key>
-		<dict>
-			<key>x1</key>
-			<string>110.354</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>110.354</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{cd485989-6866-47f3-b174-c7eac30c8d69}</key>
-		<dict>
-			<key>x1</key>
-			<string>110.354</string>
-			<key>y1</key>
-			<string>864.951</string>
-			<key>x2</key>
-			<string>110.354</string>
-			<key>y2</key>
-			<string>890.682</string>
-			<key>height</key>
-			<string>26.6634</string>
-		</dict>
-		<key>{d41ee5a7-c6d8-4602-a6c6-30296133be6a}</key>
-		<dict>
-			<key>x1</key>
-			<string>78.405</string>
-			<key>y1</key>
-			<string>828.533</string>
-			<key>x2</key>
-			<string>78.405</string>
-			<key>y2</key>
-			<string>813.172</string>
 			<key>height</key>
 			<string>-16.122</string>
 		</dict>

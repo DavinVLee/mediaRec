@@ -21,7 +21,7 @@
 			<string>130</string>
 		</dict>
 		<key>mwidth</key>
-		<string>116.243</string>
+		<string>102.39</string>
 		<key>keysig</key>
 		<string>0</string>
 	</dict>
@@ -2910,6 +2910,24 @@
 			<key>hand</key>
 			<string>2</string>
 		</dict>
+		<key>{4d2eecb4-9ac5-4fed-b8e1-7e2539b6d343}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.84615</string>
+			<key>staff</key>
+			<string>1</string>
+			<key>hand</key>
+			<string>1</string>
+		</dict>
+		<key>{730756ba-2a18-419f-9fca-366191f733bf}</key>
+		<dict>
+			<key>duration</key>
+			<string>1.84615</string>
+			<key>staff</key>
+			<string>2</string>
+			<key>hand</key>
+			<string>2</string>
+		</dict>
 	</dict>
 	<key>events</key>
 	<dict>
@@ -4868,11 +4886,29 @@
 		<key>112</key>
 		<dict>
 			<key>elid</key>
+			<string>112</string>
+			<key>sysno</key>
+			<string>4</string>
+			<key>position</key>
+			<string>88615</string>
+			<key>identifys</key>
+			<array>
+				
+				<string>rest_{4d2eecb4-9ac5-4fed-b8e1-7e2539b6d343}</string>
+				
+				<string>rest_{730756ba-2a18-419f-9fca-366191f733bf}</string>
+			</array>
+			<key>mduration</key>
+			<integer>0</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>elid</key>
 			<string>-2</string>
 			<key>sysno</key>
 			<string>4</string>
 			<key>position</key>
-			<string>88616</string>
+			<string>90461</string>
 			<key>identifys</key>
 			<array>
 			</array>
@@ -5838,6 +5874,26 @@
 			<string>4</string>
 		</dict>
 		<key>88154</key>
+		<dict>
+			<key>type</key>
+			<string>4</string>
+		</dict>
+		<key>88615</key>
+		<dict>
+			<key>type</key>
+			<string>3</string>
+		</dict>
+		<key>89077</key>
+		<dict>
+			<key>type</key>
+			<string>4</string>
+		</dict>
+		<key>89538</key>
+		<dict>
+			<key>type</key>
+			<string>4</string>
+		</dict>
+		<key>90000</key>
 		<dict>
 			<key>type</key>
 			<string>4</string>
