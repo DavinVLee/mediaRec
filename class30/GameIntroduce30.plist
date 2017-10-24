@@ -97,7 +97,7 @@
 		<key>Description</key>
 		<string>高音谱号 低音谱号游戏</string>
 	</dict>
-	<key>(暂时弃用)原四二拍拖音符游戏</key>
+	<key>FourTwoPaiJiaoHuVC</key>
 	<dict>
 		<key>ActivityDelay</key>
 		<string>0</string>
@@ -122,7 +122,6 @@
 					</dict>
 				</array>
 			</dict>
-			<string></string>
 			<dict>
 				<key>LightRingAction</key>
 				<array>
