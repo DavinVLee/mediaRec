@@ -1212,6 +1212,10 @@
 			<string>0</string>
 			<key>alter</key>
 			<string>-1</string>
+			<key>fingering</key>
+			<string>2</string>
+			<key>fingering_id</key>
+			<string>{f9605f97-105b-48b8-b9f8-c58828a28e54}</string>
 			<key>step_id</key>
 			<string>{3d0f1449-4dfa-4fa5-bf0f-fa3483be1813}</string>
 		</dict>
@@ -1233,6 +1237,10 @@
 			<string>2</string>
 			<key>isgrace</key>
 			<string>0</string>
+			<key>fingering</key>
+			<string>1</string>
+			<key>fingering_id</key>
+			<string>{6b4656f2-e24e-4c8c-910c-38fa15d4f3bf}</string>
 			<key>step_id</key>
 			<string>{c1e29c7c-5d23-401a-90b5-00890eae1489}</string>
 		</dict>
@@ -1325,10 +1333,6 @@
 			<string>0</string>
 			<key>alter</key>
 			<string>-1</string>
-			<key>fingering</key>
-			<string>2</string>
-			<key>fingering_id</key>
-			<string>{211bc4a1-c43c-4523-afd9-5960f2104522}</string>
 			<key>step_id</key>
 			<string>{2642b7ed-98ff-4c0d-a487-b87e65c552a4}</string>
 		</dict>
@@ -1350,10 +1354,6 @@
 			<string>2</string>
 			<key>isgrace</key>
 			<string>0</string>
-			<key>fingering</key>
-			<string>1</string>
-			<key>fingering_id</key>
-			<string>{d05bbd08-cf45-449d-b7c2-cc5db17f1333}</string>
 			<key>step_id</key>
 			<string>{227a27d3-f87a-4bf0-a25e-2f410c45e75a}</string>
 		</dict>
