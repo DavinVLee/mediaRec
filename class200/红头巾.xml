@@ -7,9 +7,9 @@
  <identification>
   <rights>25.红头巾</rights>
   <encoding>
-   <encoding-date>2016-10-21</encoding-date>
-   <encoder>Ydtec</encoder>
-   <software>Sibelius 8.0.0</software>
+   <encoding-date>2018-01-03</encoding-date>
+   <encoder>HaiLunDev</encoder>
+   <software>Sibelius 8.3.0</software>
    <software>Direct export, not from Dolet</software>
    <encoding-description>Sibelius / MusicXML 3.0</encoding-description>
    <supports element="print" type="yes" value="yes" attribute="new-system" />
@@ -28,15 +28,15 @@
    <page-height>1697</page-height>
    <page-width>1200</page-width>
    <page-margins type="both">
-    <left-margin>71</left-margin>
-    <right-margin>71</right-margin>
-    <top-margin>71</top-margin>
-    <bottom-margin>71</bottom-margin>
+    <left-margin>70</left-margin>
+    <right-margin>70</right-margin>
+    <top-margin>70</top-margin>
+    <bottom-margin>70</bottom-margin>
    </page-margins>
   </page-layout>
   <system-layout>
    <system-margins>
-    <left-margin>64</left-margin>
+    <left-margin>68</left-margin>
     <right-margin>0</right-margin>
    </system-margins>
    <system-distance>92</system-distance>
@@ -72,10 +72,10 @@
   <credit-words default-x="600" default-y="155" font-family="SimHei" font-style="normal" font-size="22.0128" font-weight="normal" justify="center" valign="middle">25.红头巾</credit-words>
  </credit>
  <credit page="1">
-  <credit-words default-x="600" default-y="132" font-family="SimHei" font-style="normal" font-size="10.0763" font-weight="normal" justify="center" valign="middle">25.红头巾</credit-words>
+  <credit-words default-x="600" default-y="125" font-family="SimHei" font-style="normal" font-size="10.0763" font-weight="normal" justify="center" valign="middle">25.红头巾</credit-words>
  </credit>
  <credit page="2">
-  <credit-words default-x="71" default-y="1625" font-style="normal" font-weight="normal" justify="left" valign="middle">2</credit-words>
+  <credit-words default-x="70" default-y="1626" font-style="normal" font-weight="normal" justify="left" valign="middle">2</credit-words>
  </credit>
  <part-list>
   <part-group type="start" number="1">
@@ -104,14 +104,14 @@
  </part-list>
  <part id="P1">
   <!--============== Part: P1, Measure: 1 ==============-->
-  <measure number="1" width="290">
+  <measure number="1" width="519">
    <print new-page="yes">
     <system-layout>
      <system-margins>
-      <left-margin>77</left-margin>
+      <left-margin>81</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>221</top-system-distance>
+     <top-system-distance>224</top-system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -141,16 +141,16 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="55" default-y="85" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="11.9365" font-weight="normal">右手ABC 左手双音</words>
+     <words default-x="55" default-y="78" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="11.9365" font-weight="normal">右手ABC 左手双音</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="1.7052" font-weight="normal">
+     <metronome default-y="30" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="0.155" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>120</per-minute>
+      <per-minute>92</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -177,7 +177,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
-  <measure number="2" width="229">
+  <measure number="2" width="458">
    <attributes />
    <note>
     <rest />
@@ -200,60 +200,14 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
-  <measure number="3" width="229">
-   <attributes />
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>1024</duration>
-   </backup>
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>2</voice>
-    <type>whole</type>
-    <staff>2</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 4 ==============-->
-  <measure number="4" width="229">
-   <attributes />
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>1024</duration>
-   </backup>
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>2</voice>
-    <type>whole</type>
-    <staff>2</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 5 ==============-->
-  <measure number="5" width="223">
+  <measure number="3" width="367">
    <print new-system="yes">
     <system-layout>
      <system-margins>
-      <left-margin>22</left-margin>
+      <left-margin>65</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <system-distance>90</system-distance>
+     <system-distance>32</system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -263,37 +217,14 @@
     <staff-details number="1" print-object="yes" />
     <staff-details number="2" print-object="yes" />
    </attributes>
-   <note default-x="42">
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>1024</duration>
-   </backup>
-   <note default-x="42">
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>2</voice>
-    <type>whole</type>
-    <staff>2</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 6 ==============-->
-  <measure number="6" width="276">
-   <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="15" default-y="-50">
+   <note color="#000000" default-x="57" default-y="-50">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -307,12 +238,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="129" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="80" default-y="-55">
+   <note color="#000000" default-x="135" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -326,12 +257,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="206" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="145" default-y="10">
+   <note color="#000000" default-x="212" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -345,12 +276,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="215" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="284" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="211" default-y="5">
+   <note color="#000000" default-x="290" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -365,7 +296,7 @@
    <backup>
     <duration>1024</duration>
    </backup>
-   <note default-x="15">
+   <note default-x="57">
     <rest />
     <duration>1024</duration>
     <instrument id="P1-I1" />
@@ -374,12 +305,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 7 ==============-->
-  <measure number="7" width="256">
+  <!--============== Part: P1, Measure: 4 ==============-->
+  <measure number="4" width="301">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -398,12 +329,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="86" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="80" default-y="-55">
+   <note color="#000000" default-x="92" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -417,12 +348,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="164" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="145" default-y="-50">
+   <note color="#000000" default-x="170" default-y="-50">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -446,12 +377,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 8 ==============-->
-  <measure number="8" width="276">
+  <!--============== Part: P1, Measure: 5 ==============-->
+  <measure number="5" width="325">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -470,12 +401,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="86" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="80" default-y="5">
+   <note color="#000000" default-x="92" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -489,12 +420,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="164" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="145" default-y="10">
+   <note color="#000000" default-x="170" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -508,12 +439,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="215" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="241" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="211" default-y="-55">
+   <note color="#000000" default-x="247" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -530,7 +461,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -547,15 +478,15 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 9 ==============-->
-  <measure number="9" width="212">
+  <!--============== Part: P1, Measure: 6 ==============-->
+  <measure number="6" width="213">
    <print new-system="yes">
     <system-layout>
      <system-margins>
       <left-margin>22</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <system-distance>90</system-distance>
+     <system-distance>105</system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -567,7 +498,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -588,7 +519,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -605,12 +536,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 10 ==============-->
-  <measure number="10" width="280">
+  <!--============== Part: P1, Measure: 7 ==============-->
+  <measure number="7" width="281">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -629,7 +560,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -648,12 +579,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="142" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="10">
+   <note color="#000000" default-x="148" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -667,7 +598,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="218" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="208" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -696,12 +627,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 11 ==============-->
-  <measure number="11" width="260">
+  <!--============== Part: P1, Measure: 8 ==============-->
+  <measure number="8" width="260">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -720,7 +651,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -739,7 +670,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="141" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -768,12 +699,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 12 ==============-->
-  <measure number="12" width="280">
+  <!--============== Part: P1, Measure: 9 ==============-->
+  <measure number="9" width="281">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -792,7 +723,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -811,12 +742,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="142" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="10">
+   <note color="#000000" default-x="148" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -830,7 +761,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="218" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="208" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -852,7 +783,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -871,12 +802,20 @@
    </note>
    <direction>
     <direction-type>
-        <words justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="142" default-y="16" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="-45">
+   <direction>
+    <direction-type>
+     <words default-x="271" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <offset sound="no">512</offset>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
+   <note color="#000000" default-x="148" default-y="-45">
     <pitch>
      <step>F</step>
      <octave>3</octave>
@@ -888,14 +827,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <direction>
-       <direction-type>
-           <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-       </direction-type>
-       <voice>2</voice>
-       <staff>2</staff>
-   </direction>
-   <note color="#000000" default-x="147">
+   <note color="#000000" default-x="148">
     <chord />
     <pitch>
      <step>G</step>
@@ -907,15 +839,15 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 13 ==============-->
-  <measure number="13" width="358">
+  <!--============== Part: P1, Measure: 10 ==============-->
+  <measure number="10" width="617">
    <print new-system="yes">
     <system-layout>
      <system-margins>
       <left-margin>22</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <system-distance>90</system-distance>
+     <system-distance>104</system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -927,7 +859,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -945,7 +877,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="276">
+   <note default-x="465">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -958,7 +890,7 @@
    </backup>
    <direction>
     <direction-type>
-        <words justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="51" default-y="16" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -975,13 +907,6 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <direction>
-       <direction-type>
-           <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-       </direction-type>
-       <voice>2</voice>
-       <staff>2</staff>
-   </direction>
    <note color="#000000" default-x="57">
     <chord />
     <pitch>
@@ -995,12 +920,19 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="199" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="308" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
    </direction>
-   <note color="#000000" default-x="195" default-y="10">
+   <direction>
+    <direction-type>
+     <words default-x="298" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
+   <note color="#000000" default-x="314" default-y="10">
     <pitch>
      <step>C</step>
      <octave>3</octave>
@@ -1012,7 +944,7 @@
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note default-x="276">
+   <note default-x="465">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -1021,8 +953,8 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 14 ==============-->
-  <measure number="14" width="225">
+  <!--============== Part: P1, Measure: 11 ==============-->
+  <measure number="11" width="419">
    <attributes />
    <note>
     <rest />
@@ -1044,61 +976,15 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 15 ==============-->
-  <measure number="15" width="225">
-   <attributes />
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>1024</duration>
-   </backup>
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>2</voice>
-    <type>whole</type>
-    <staff>2</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 16 ==============-->
-  <measure number="16" width="225">
-   <attributes />
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>1</voice>
-    <type>whole</type>
-    <staff>1</staff>
-   </note>
-   <backup>
-    <duration>1024</duration>
-   </backup>
-   <note>
-    <rest />
-    <duration>1024</duration>
-    <instrument id="P1-I1" />
-    <voice>2</voice>
-    <type>whole</type>
-    <staff>2</staff>
-   </note>
-  </measure>
-  <!--============== Part: P1, Measure: 17 ==============-->
-  <measure number="17" width="223">
+  <!--============== Part: P1, Measure: 12 ==============-->
+  <measure number="12" width="224">
    <print new-system="yes">
     <system-layout>
      <system-margins>
       <left-margin>22</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <system-distance>90</system-distance>
+     <system-distance>105</system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -1128,12 +1014,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 18 ==============-->
-  <measure number="18" width="276">
+  <!--============== Part: P1, Measure: 13 ==============-->
+  <measure number="13" width="277">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1152,7 +1038,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="74" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1171,12 +1057,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="140" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="145" default-y="10">
+   <note color="#000000" default-x="146" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -1190,7 +1076,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="215" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="205" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1219,12 +1105,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 19 ==============-->
-  <measure number="19" width="256">
+  <!--============== Part: P1, Measure: 14 ==============-->
+  <measure number="14" width="257">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1243,7 +1129,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="74" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1262,7 +1148,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="140" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1291,12 +1177,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 20 ==============-->
-  <measure number="20" width="276">
+  <!--============== Part: P1, Measure: 15 ==============-->
+  <measure number="15" width="277">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1315,7 +1201,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="84" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="74" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1334,12 +1220,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="150" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="140" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="145" default-y="10">
+   <note color="#000000" default-x="146" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -1353,7 +1239,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="215" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="205" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1375,7 +1261,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -1392,15 +1278,15 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 21 ==============-->
-  <measure number="21" width="212">
+  <!--============== Part: P1, Measure: 16 ==============-->
+  <measure number="16" width="213">
    <print new-system="yes">
     <system-layout>
      <system-margins>
       <left-margin>22</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <system-distance>90</system-distance>
+     <system-distance>104</system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -1412,7 +1298,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1433,7 +1319,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -1450,12 +1336,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 22 ==============-->
-  <measure number="22" width="280">
+  <!--============== Part: P1, Measure: 17 ==============-->
+  <measure number="17" width="281">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1474,7 +1360,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1493,12 +1379,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="142" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="10">
+   <note color="#000000" default-x="148" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -1512,7 +1398,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="218" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="208" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1541,12 +1427,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 23 ==============-->
-  <measure number="23" width="260">
+  <!--============== Part: P1, Measure: 18 ==============-->
+  <measure number="18" width="260">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1565,7 +1451,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1584,7 +1470,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="141" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1613,12 +1499,12 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 24 ==============-->
-  <measure number="24" width="280">
+  <!--============== Part: P1, Measure: 19 ==============-->
+  <measure number="19" width="281">
    <attributes />
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1637,7 +1523,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="75" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1656,12 +1542,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="142" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="10">
+   <note color="#000000" default-x="148" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -1675,7 +1561,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="218" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
+     <words default-x="208" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">4</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1697,7 +1583,7 @@
    </backup>
    <direction>
     <direction-type>
-     <words default-x="19" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+     <words default-x="9" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -1716,12 +1602,20 @@
    </note>
    <direction>
     <direction-type>
-        <words justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="142" default-y="16" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
    </direction>
-   <note color="#000000" default-x="147" default-y="-45">
+   <direction>
+    <direction-type>
+     <words default-x="271" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <offset sound="no">512</offset>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
+   <note color="#000000" default-x="148" default-y="-45">
     <pitch>
      <step>F</step>
      <octave>3</octave>
@@ -1733,14 +1627,7 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <direction>
-       <direction-type>
-           <words default-x="151" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-       </direction-type>
-       <voice>2</voice>
-       <staff>2</staff>
-   </direction>
-   <note color="#000000" default-x="147">
+   <note color="#000000" default-x="148">
     <chord />
     <pitch>
      <step>G</step>
@@ -1752,15 +1639,15 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 25 ==============-->
-  <measure number="25" width="442">
+  <!--============== Part: P1, Measure: 20 ==============-->
+  <measure number="20" width="443">
    <print new-page="yes">
     <system-layout>
      <system-margins>
       <left-margin>22</left-margin>
       <right-margin>0</right-margin>
      </system-margins>
-     <top-system-distance>129</top-system-distance>
+     <top-system-distance>185</top-system-distance>
     </system-layout>
     <staff-layout number="2">
      <staff-distance>55</staff-distance>
@@ -1772,7 +1659,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="51" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -1803,7 +1690,7 @@
    </backup>
    <direction>
     <direction-type>
-        <words justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
+     <words default-x="51" default-y="16" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -1820,13 +1707,6 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <direction>
-       <direction-type>
-           <words default-x="61" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-       </direction-type>
-       <voice>2</voice>
-       <staff>2</staff>
-   </direction>
    <note color="#000000" default-x="57">
     <chord />
     <pitch>
@@ -1840,7 +1720,14 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="238" default-y="15" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
+     <words default-x="228" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="218" default-y="11" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
     </direction-type>
     <voice>2</voice>
     <staff>2</staff>
@@ -1866,8 +1753,8 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 26 ==============-->
-  <measure number="26" width="288">
+  <!--============== Part: P1, Measure: 21 ==============-->
+  <measure number="21" width="289">
    <attributes />
    <note>
     <rest />
@@ -1889,8 +1776,8 @@
     <staff>2</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 27 ==============-->
-  <measure number="27" width="303">
+  <!--============== Part: P1, Measure: 22 ==============-->
+  <measure number="22" width="304">
    <attributes />
    <note>
     <rest />
