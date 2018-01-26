@@ -213,5 +213,47 @@
 		<key>Description</key>
 		<string>二分音符找音符游戏</string>
 	</dict>
+	<key>DrumGame</key>
+	<dict>
+		<key>LimitCourse</key>
+		<string>2</string>
+		<key>ActivityDelay</key>
+		<string>0</string>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>ActionType</key>
+						<string>image</string>
+						<key>SpecialIndex</key>
+						<string>1</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>0</string>
+				</array>
+			</dict>
+			<dict>
+				<key>HandleAction</key>
+				<array>
+					<dict>
+						<key>ActionType</key>
+						<string>image</string>
+						<key>SpecialIndex</key>
+						<string>2</string>
+					</dict>
+				</array>
+				<key>LightRingAction</key>
+				<array>
+					<string>0</string>
+				</array>
+			</dict>
+		</array>
+		<key>Description</key>
+		<string>打鼓游戏</string>
+	</dict>
 </dict>
 </plist>

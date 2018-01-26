@@ -19,9 +19,9 @@
 				<array>
 					<dict>
 						<key>end_y</key>
-						<string>1384</string>
+						<string>1420</string>
 						<key>end_x</key>
-						<string>740</string>
+						<string>1160</string>
 						<key>ActionType</key>
 						<string>click</string>
 					</dict>
@@ -115,6 +115,8 @@
 	</dict>
 	<key>CAndDJiaoHuVC</key>
 	<dict>
+		<key>LimitCourse</key>
+		<string>4</string>
 		<key>ActivityDelay</key>
 		<string>0</string>
 		<key>Actions</key>
@@ -193,6 +195,8 @@
 	</dict>
 	<key>TowerHafAndQuater</key>
 	<dict>
+		<key>LimitCourse</key>
+		<string>4</string>
 		<key>ActivityDelay</key>
 		<string>0</string>
 		<key>Actions</key>
