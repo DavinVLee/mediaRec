@@ -807,14 +807,7 @@
     <voice>2</voice>
     <staff>2</staff>
    </direction>
-   <direction>
-    <direction-type>
-     <words default-x="271" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-    </direction-type>
-    <offset sound="no">512</offset>
-    <voice>2</voice>
-    <staff>2</staff>
-   </direction>
+   
    <note color="#000000" default-x="148" default-y="-45">
     <pitch>
      <step>F</step>
@@ -827,6 +820,14 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
+   <direction>
+    <direction-type>
+     <words default-x="271" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <offset sound="no">512</offset>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <note color="#000000" default-x="148">
     <chord />
     <pitch>
@@ -888,6 +889,7 @@
    <backup>
     <duration>1024</duration>
    </backup>
+
    <direction>
     <direction-type>
      <words default-x="51" default-y="12" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">3</words>
@@ -895,6 +897,8 @@
     <voice>2</voice>
     <staff>2</staff>
    </direction>
+    
+   
    <note color="#000000" default-x="57" default-y="-50">
     <pitch>
      <step>E</step>
@@ -907,6 +911,13 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
+<direction>
+    <direction-type>
+     <words default-x="309" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <note color="#000000" default-x="57">
     <chord />
     <pitch>
@@ -918,13 +929,6 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <direction>
-    <direction-type>
-     <words default-x="309" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-    </direction-type>
-    <voice>2</voice>
-    <staff>2</staff>
-   </direction>
    <direction>
     <direction-type>
      <words default-x="298" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
@@ -1602,16 +1606,8 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="142" default-y="12" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
+     <words default-x="142" default-y="200" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">2</words>
     </direction-type>
-    <voice>2</voice>
-    <staff>2</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <words default-x="271" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-    </direction-type>
-    <offset sound="no">512</offset>
     <voice>2</voice>
     <staff>2</staff>
    </direction>
@@ -1627,6 +1623,14 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
+    <direction>
+    <direction-type>
+     <words default-x="271" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <offset sound="no">512</offset>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <note color="#000000" default-x="148">
     <chord />
     <pitch>
@@ -1698,6 +1702,7 @@
     <voice>2</voice>
     <staff>2</staff>
    </direction>
+  
    <note color="#000000" default-x="57" default-y="-50">
     <pitch>
      <step>E</step>
@@ -1710,6 +1715,13 @@
     <stem>down</stem>
     <staff>2</staff>
    </note>
+      <direction>
+    <direction-type>
+     <words default-x="51" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
+    </direction-type>
+    <voice>2</voice>
+    <staff>2</staff>
+   </direction>
    <note color="#000000" default-x="57">
     <chord />
     <pitch>
@@ -1721,13 +1733,6 @@
     <type>half</type>
     <staff>2</staff>
    </note>
-   <direction>
-    <direction-type>
-     <words default-x="494" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">1</words>
-    </direction-type>
-    <voice>2</voice>
-    <staff>2</staff>
-   </direction>
    <direction>
     <direction-type>
      <words default-x="484" default-y="7" justify="left" valign="middle" font-family="SimHei" font-style="normal" font-size="6.9759" font-weight="bold">5</words>
